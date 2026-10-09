@@ -1,0 +1,21 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_4",
+  "locations": [],
+  "name": "Milo (halloj)",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "counterOperation": "set",
+    "locs": [],
+    "prompt": "Milo (halloj)",
+    "required": true,
+    "saveToType": "variable",
+    "validation": "none",
+    "variable": "userInput"
+  },
+  "type": "inputText",
+  "x": 337.2069390375891,
+  "y": 64.81994748508481
+}
