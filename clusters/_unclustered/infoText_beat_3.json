@@ -3,13 +3,13 @@
   "connections": [],
   "id": "beat_3",
   "locations": [],
-  "name": "slfjgldfjg",
+  "name": "slfjgldfjg, yes indeed",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
     "text": "jlagdflksdglkj"
   },
   "type": "infoText",
-  "x": 140,
-  "y": 73
+  "x": 91.25,
+  "y": 58
 }
