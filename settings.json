@@ -1,0 +1,74 @@
+{
+  "_format": "1.0",
+  "globalSettings": {
+    "colors": {
+      "bgColor": "#14161f",
+      "nonpalpha": 93,
+      "nonpcolor": "#1b1f2b",
+      "nonptextcolor": "#eae7de",
+      "palpha": 100,
+      "pcolor": "#d9a441",
+      "ptextcolor": "#201607",
+      "textBoxBorder": "#3d4356"
+    },
+    "copyright": {
+      "notice": "",
+      "owner": "",
+      "year": "2026"
+    },
+    "debug": {
+      "firstbeat": "",
+      "showvals": false
+    },
+    "fonts": {
+      "btnFont": "System",
+      "fontSize": {
+        "button": 16,
+        "text": 19,
+        "title": 40
+      },
+      "textFont": "System",
+      "titleFont": "Georgia"
+    },
+    "hotspots": {
+      "highlightColor": "#ffff00",
+      "labelDisplay": "hover",
+      "labels": true,
+      "opacity": 30,
+      "showInPreview": "visible",
+      "visible": true
+    },
+    "project": {
+      "aspectRatio": "4:3",
+      "height": 768,
+      "scalingMode": "fit",
+      "width": 1024
+    },
+    "sound": {
+      "backgroundMusic": "",
+      "backgroundVolume": 100,
+      "mute": false
+    },
+    "speakerDisplay": {
+      "graphicPosition": "off",
+      "nameColor": "#d9a441",
+      "namePosition": "left",
+      "nameStyle": "label"
+    },
+    "textEffects": {
+      "animation": "none",
+      "fadeInDuration": 200,
+      "typewriterSpeed": 15
+    },
+    "textbox": {
+      "borderWidth": 1,
+      "boxVisibility": "all",
+      "buttonRadius": 999,
+      "opacity": 93,
+      "padding": 22,
+      "position": "bottom",
+      "radius": 14
+    }
+  },
+  "projectSettings": {}
+}

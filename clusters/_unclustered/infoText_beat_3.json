@@ -1,0 +1,15 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_3",
+  "locations": [],
+  "name": "slfjgldfjg",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "jlagdflksdglkj"
+  },
+  "type": "infoText",
+  "x": 140,
+  "y": 73
+}

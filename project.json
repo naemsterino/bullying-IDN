@@ -1,9 +1,9 @@
 {
-  "id": "proj-1791542430843",
-  "name": "bullying-IDN",
-  "description": "",
-  "version": "1.0.0",
+  "_format": "1.0",
   "createdAt": "2026-10-09T10:40:30.843Z",
-  "modifiedAt": "2026-10-09T10:40:30.843Z",
-  "firstBeatId": ""
+  "firstBeatId": "0",
+  "id": "proj-1791542430843",
+  "modifiedAt": "2026-10-09T10:58:02.775Z",
+  "name": "bullying-IDN",
+  "version": "1.0.0"
 }
