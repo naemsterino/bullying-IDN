@@ -1,0 +1,32 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_5"
+    }
+  ],
+  "id": "beat_7",
+  "locations": [],
+  "name": "End",
+  "parameters": {
+    "buttonText": "Play Again",
+    "creditsCloseText": "Close",
+    "creditsPageBody": "",
+    "creditsPageTitle": "Credits",
+    "message": "Winner Winner chicken dinner",
+    "reset": false,
+    "resetCharacters": true,
+    "resetCounters": true,
+    "resetFictionalTime": true,
+    "resetHistory": true,
+    "resetInventory": true,
+    "resetTimers": true,
+    "resetVariables": true,
+    "resetVisitedTracking": true,
+    "showCredits": false,
+    "showRestart": true
+  },
+  "type": "endScreen",
+  "x": 873.9435056971781,
+  "y": -112.82718660549784
+}
