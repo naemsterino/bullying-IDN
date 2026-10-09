@@ -1,17 +1,4 @@
 {
   "v": 1,
-  "locks": {
-    "beat_5": {
-      "user": "DukeSallos",
-      "since": "2026-10-09T11:08:57.719Z",
-      "beat": "TitleScreen beat_5"
-    }
-  }
-}
-  "beat_4": {
-      "user": "retrotryxMilo",
-      "since": "2026-10-09T11:08:19.471Z",
-      "beat": "InputText beat_4"
-    }
-  }
+  "locks": {}
 }
