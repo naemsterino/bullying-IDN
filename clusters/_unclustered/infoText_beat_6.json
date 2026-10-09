@@ -1,0 +1,15 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_6",
+  "locations": [],
+  "name": "ivan :)",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "hehe"
+  },
+  "type": "infoText",
+  "x": 237.00631848412615,
+  "y": 213.3163017525353
+}
