@@ -1,9 +1,18 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "label": "true",
+      "targetId": "beat_22"
+    },
+    {
+      "label": "false",
+      "targetId": "beat_22_copymv51rgbz1"
+    }
+  ],
   "id": "beat_13",
   "locations": [],
-  "name": "check for friend ",
+  "name": "check for friend good",
   "parameters": {
     "compareSource": "inventory",
     "condition": {
@@ -12,13 +21,14 @@
       "value": 0
     },
     "conditionType": "counter",
+    "falseTarget": "beat_22_copymv51rgbz1",
     "moodAxis": "valence",
     "operator": "==",
     "quantityCheck": false,
-    "trueTarget": "",
+    "trueTarget": "beat_22",
     "value": 0
   },
   "type": "conditionBeat",
-  "x": 431.83291811295896,
-  "y": -155.2024655813343
+  "x": 815.582918112959,
+  "y": -271.4524655813343
 }

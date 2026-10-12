@@ -2,12 +2,12 @@
   "_format": "1.0",
   "connections": [
     {
-      "label": "call parents",
-      "targetId": "beat_30"
-    },
-    {
       "label": "talk to bystander",
       "targetId": "beat_31"
+    },
+    {
+      "label": "call parents",
+      "targetId": "beat_30"
     },
     {
       "label": "be sad",
@@ -20,19 +20,49 @@
   "parameters": {
     "choices": [
       {
+        "conditions": [
+          {
+            "operator": "==",
+            "type": "variable",
+            "value": "1",
+            "variableName": "intervention"
+          }
+        ],
+        "effects": [
+          {
+            "target": "friend",
+            "type": "setVariable",
+            "value": 1
+          }
+        ],
         "id": "choice_1791798717771",
-        "location": "",
-        "target": "beat_30",
-        "text": "call parents"
-      },
-      {
-        "id": "choice_1791798718248",
         "location": "",
         "target": "beat_31",
         "text": "talk to bystander"
       },
       {
-        "id": "choice_1791798794541",
+        "conditions": [
+          {
+            "operator": ">=",
+            "type": "counter",
+            "value": 1,
+            "variableName": "relief"
+          }
+        ],
+        "effects": [
+          {
+            "target": "call",
+            "type": "setVariable",
+            "value": 1
+          }
+        ],
+        "id": "choice_1791804540860",
+        "location": "",
+        "target": "beat_30",
+        "text": "call parents"
+      },
+      {
+        "id": "choice_1791804541629",
         "location": "",
         "target": "beat_32",
         "text": "be sad"
@@ -45,6 +75,6 @@
     "speaker": ""
   },
   "type": "multiChoice",
-  "x": -213.7388456930655,
+  "x": -212.4888456930655,
   "y": -13.093369573875407
 }

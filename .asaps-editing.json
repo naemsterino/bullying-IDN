@@ -1,10 +1,4 @@
 {
   "v": 1,
-  "locks": {
-    "beat_10_copymv524xsa1": {
-      "user": "Naemi",
-      "since": "2026-10-12T11:06:42.750Z",
-      "beat": "check for apology"
-    }
-  }
+  "locks": {}
 }

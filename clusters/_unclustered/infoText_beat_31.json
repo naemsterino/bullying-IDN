@@ -1,13 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_33"
+    }
+  ],
   "id": "beat_31",
   "locations": [],
   "name": "after school, talk to bystander",
   "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
     "text": ""
   },
   "type": "infoText",
-  "x": -11.462740913464131,
-  "y": -10.763587714251798
+  "x": 51.03725908653587,
+  "y": -112.01358771425177
 }

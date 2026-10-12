@@ -1,13 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_33"
+    }
+  ],
   "id": "beat_32",
   "locations": [],
   "name": "after school, be sad",
   "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
     "text": ""
   },
   "type": "infoText",
-  "x": -6.462740913464131,
-  "y": 87.98641228574817
+  "x": 52.28725908653587,
+  "y": 94.2364122857482
 }

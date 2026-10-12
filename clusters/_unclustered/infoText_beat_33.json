@@ -1,0 +1,13 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_33",
+  "locations": [],
+  "name": "end of day",
+  "parameters": {
+    "text": ""
+  },
+  "type": "infoText",
+  "x": 248.76115430693443,
+  "y": -7.218369573875407
+}

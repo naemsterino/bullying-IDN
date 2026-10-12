@@ -20,6 +20,18 @@
   "parameters": {
     "choices": [
       {
+        "effects": [
+          {
+            "target": "intervention",
+            "type": "setVariable",
+            "value": 1
+          },
+          {
+            "target": "relief",
+            "type": "incrementCounter",
+            "value": 1
+          }
+        ],
         "id": "choice_1791798408548",
         "location": "",
         "target": "beat_27_copymv54nxbi1",

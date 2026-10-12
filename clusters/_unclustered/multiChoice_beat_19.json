@@ -22,9 +22,22 @@
       {
         "conditions": [
           {
-            "item": "",
-            "operator": "contains",
-            "type": "inventory"
+            "operator": "==",
+            "type": "variable",
+            "value": "1",
+            "variableName": "intervention"
+          }
+        ],
+        "effects": [
+          {
+            "target": "apology",
+            "type": "setVariable",
+            "value": 1
+          },
+          {
+            "target": "relief",
+            "type": "incrementCounter",
+            "value": 1
           }
         ],
         "id": "choice_1791798479933",

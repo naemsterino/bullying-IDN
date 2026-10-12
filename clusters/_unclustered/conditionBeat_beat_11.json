@@ -1,23 +1,36 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "label": "true",
+      "targetId": "beat_23"
+    },
+    {
+      "label": "false",
+      "targetId": "beat_26"
+    }
+  ],
   "id": "beat_11",
   "locations": [],
-  "name": "check for telling adults",
+  "name": "check for calling parents",
   "parameters": {
     "compareSource": "inventory",
     "condition": {
       "operator": "==",
-      "type": "counter",
-      "value": 0
+      "type": "variable",
+      "value": "1",
+      "variableName": "call"
     },
-    "conditionType": "counter",
+    "conditionType": "variable",
+    "falseTarget": "beat_26",
     "moodAxis": "valence",
     "operator": "==",
     "quantityCheck": false,
-    "trueTarget": ""
+    "trueTarget": "beat_23",
+    "value": "1",
+    "variableName": "call"
   },
   "type": "conditionBeat",
-  "x": 241.9025042551042,
-  "y": -12.05047925292996
+  "x": 656.902504255104,
+  "y": 76.69952074706987
 }

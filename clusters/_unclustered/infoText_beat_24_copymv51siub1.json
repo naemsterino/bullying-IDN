@@ -1,10 +1,16 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_9_copymv4yiwma1"
+    }
+  ],
   "id": "beat_24_copymv51siub1",
   "locations": [],
   "name": "bad end 2",
   "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
     "text": ""
   },
   "type": "infoText",

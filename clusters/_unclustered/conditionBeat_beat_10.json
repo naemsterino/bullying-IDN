@@ -1,6 +1,15 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "label": "true",
+      "targetId": "beat_13"
+    },
+    {
+      "label": "false",
+      "targetId": "beat_11"
+    }
+  ],
   "id": "beat_10",
   "locations": [],
   "name": "check for apology",
@@ -8,16 +17,20 @@
     "compareSource": "inventory",
     "condition": {
       "operator": "==",
-      "type": "counter",
-      "value": 0
+      "type": "variable",
+      "value": "1",
+      "variableName": "apology"
     },
-    "conditionType": "counter",
+    "conditionType": "variable",
+    "falseTarget": "beat_11",
     "moodAxis": "valence",
     "operator": "==",
     "quantityCheck": false,
-    "trueTarget": ""
+    "trueTarget": "beat_13",
+    "value": "1",
+    "variableName": "apology"
   },
   "type": "conditionBeat",
-  "x": 846.5371567072107,
-  "y": -274.40398256047473
+  "x": 439.0371567072108,
+  "y": -6.903982560474731
 }

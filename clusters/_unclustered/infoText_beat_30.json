@@ -1,13 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_33"
+    }
+  ],
   "id": "beat_30",
   "locations": [],
   "name": "after school, call parents",
   "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
     "text": ""
   },
   "type": "infoText",
-  "x": -12.712740913464131,
-  "y": -105.7635877142518
+  "x": 51.03725908653587,
+  "y": -7.013587714251798
 }
