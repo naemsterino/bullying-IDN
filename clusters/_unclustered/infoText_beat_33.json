@@ -11,7 +11,7 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": ""
+    "text": "end of day"
   },
   "type": "infoText",
   "x": 2284.968599094217,

@@ -11,9 +11,9 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": ""
+    "text": "be sad"
   },
   "type": "infoText",
-  "x": 1995.3567677640938,
-  "y": -171.50088136599945
+  "x": 2000.3567677640938,
+  "y": -166.50088136599942
 }

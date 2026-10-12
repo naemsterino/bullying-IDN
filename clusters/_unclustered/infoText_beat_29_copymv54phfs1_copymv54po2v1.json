@@ -11,9 +11,9 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": ""
+    "text": "trip"
   },
   "type": "infoText",
-  "x": 1114.135295983531,
-  "y": -176.68488265240197
+  "x": 1125.385295983531,
+  "y": -171.68488265240194
 }

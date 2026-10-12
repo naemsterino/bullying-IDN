@@ -11,9 +11,9 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": ""
+    "text": "intervene"
   },
   "type": "infoText",
-  "x": 434.8746114691762,
-  "y": -431.8256539156479
+  "x": 438.6246114691762,
+  "y": -419.3256539156479
 }

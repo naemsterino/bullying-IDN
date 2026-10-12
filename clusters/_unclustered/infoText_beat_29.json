@@ -11,9 +11,9 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": ""
+    "text": "apologise"
   },
   "type": "infoText",
   "x": 1132.1805115545276,
-  "y": -430.04543171810667
+  "y": -425.04543171810667
 }

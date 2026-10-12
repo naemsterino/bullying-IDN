@@ -14,7 +14,7 @@
     "creditsPageBody": "",
     "creditsPageTitle": "Credits",
     "message": "nay",
-    "reset": false,
+    "reset": true,
     "resetCharacters": true,
     "resetCounters": true,
     "resetFictionalTime": true,
@@ -27,6 +27,6 @@
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 3556.6218420204814,
-  "y": -148.26336431138452
+  "x": 3435.2751214036857,
+  "y": -149.54069821261393
 }

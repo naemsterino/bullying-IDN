@@ -11,7 +11,7 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": ""
+    "text": "intro text"
   },
   "type": "infoText",
   "x": -236.79771062779946,

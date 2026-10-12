@@ -2,15 +2,15 @@
   "_format": "1.0",
   "connections": [
     {
-      "label": "Intervene",
+      "label": "intervene",
       "targetId": "beat_27_copymv54nxbi1"
     },
     {
-      "label": "Ignore",
+      "label": "ignore",
       "targetId": "beat_27"
     },
     {
-      "label": "Film",
+      "label": "film",
       "targetId": "beat_28"
     }
   ],
@@ -35,19 +35,19 @@
         "id": "choice_1791798408548",
         "location": "",
         "target": "beat_27_copymv54nxbi1",
-        "text": "Intervene"
+        "text": "intervene"
       },
       {
         "id": "choice_1791798409873",
         "location": "",
         "target": "beat_27",
-        "text": "Ignore"
+        "text": "ignore"
       },
       {
         "id": "choice_1791798452581",
         "location": "",
         "target": "beat_28",
-        "text": "Film"
+        "text": "film"
       }
     ],
     "effectsOncePerChoice": false,

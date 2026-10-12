@@ -11,7 +11,7 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": ""
+    "text": "do nothing"
   },
   "type": "infoText",
   "x": 431.39431427646764,

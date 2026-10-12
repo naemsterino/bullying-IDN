@@ -11,7 +11,7 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": ""
+    "text": "talk to Stan"
   },
   "type": "infoText",
   "x": 2000.3009685802663,

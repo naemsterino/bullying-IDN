@@ -11,7 +11,7 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": ""
+    "text": "you have a new friend and are no longer being bullied"
   },
   "type": "infoText",
   "x": 3219.8120272590127,

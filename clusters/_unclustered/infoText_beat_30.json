@@ -11,7 +11,7 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": ""
+    "text": "call parents"
   },
   "type": "infoText",
   "x": 1997.5184564204592,
