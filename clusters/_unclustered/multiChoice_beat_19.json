@@ -1,0 +1,44 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_19",
+  "locations": [],
+  "name": "regret/apology",
+  "parameters": {
+    "choices": [
+      {
+        "conditions": [
+          {
+            "item": "",
+            "operator": "contains",
+            "type": "inventory"
+          }
+        ],
+        "id": "choice_1791798479933",
+        "location": "",
+        "target": "",
+        "text": "apologise"
+      },
+      {
+        "id": "choice_1791798482885",
+        "location": "",
+        "target": "",
+        "text": "ignore"
+      },
+      {
+        "id": "choice_1791798581947",
+        "location": "",
+        "target": "",
+        "text": "trip"
+      }
+    ],
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "question": "What do you do?",
+    "speaker": ""
+  },
+  "type": "multiChoice",
+  "x": -540.2449975770144,
+  "y": 120.75636724610183
+}

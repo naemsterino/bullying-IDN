@@ -3,7 +3,7 @@
   "connections": [],
   "id": "beat_13",
   "locations": [],
-  "name": "check for friend (Paste)",
+  "name": "check for friend ",
   "parameters": {
     "compareSource": "inventory",
     "condition": {
@@ -19,6 +19,6 @@
     "value": 0
   },
   "type": "conditionBeat",
-  "x": 744.4115009455109,
-  "y": -128.18994562436836
+  "x": 473.08291811295896,
+  "y": -73.95246558133434
 }

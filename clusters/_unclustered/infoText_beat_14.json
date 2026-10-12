@@ -3,11 +3,13 @@
   "connections": [],
   "id": "beat_14",
   "locations": [],
-  "name": "victim start",
+  "name": "victim start - after school",
   "parameters": {
-    "text": ""
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "school has ended and you are sad :c"
   },
   "type": "infoText",
-  "x": -218.1562911542899,
-  "y": 25.319564139870096
+  "x": -304.9303797214815,
+  "y": 12.870594643822244
 }

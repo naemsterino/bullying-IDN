@@ -7,7 +7,7 @@
   ],
   "id": "beat_7",
   "locations": [],
-  "name": "good end 1",
+  "name": "friend, no bully",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
@@ -27,6 +27,6 @@
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 1065.193505697178,
-  "y": -202.82718660549784
+  "x": 1337.693505697178,
+  "y": -219.07718660549781
 }

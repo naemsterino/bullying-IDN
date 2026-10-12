@@ -1,0 +1,13 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_23",
+  "locations": [],
+  "name": "neutral end",
+  "parameters": {
+    "text": ""
+  },
+  "type": "infoText",
+  "x": 1085.193505697178,
+  "y": 20.547813394502157
+}

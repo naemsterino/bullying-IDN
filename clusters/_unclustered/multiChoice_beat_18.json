@@ -1,0 +1,37 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_18",
+  "locations": [],
+  "name": "help or no help",
+  "parameters": {
+    "choices": [
+      {
+        "id": "choice_1791798408548",
+        "location": "",
+        "target": "",
+        "text": "Intervene"
+      },
+      {
+        "id": "choice_1791798409873",
+        "location": "",
+        "target": "",
+        "text": "Ignore"
+      },
+      {
+        "id": "choice_1791798452581",
+        "location": "",
+        "target": "",
+        "text": "Film"
+      }
+    ],
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "question": "What do you do?",
+    "speaker": ""
+  },
+  "type": "multiChoice",
+  "x": -1419.225226793663,
+  "y": -133.68475801240092
+}

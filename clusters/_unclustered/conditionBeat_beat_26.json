@@ -1,0 +1,23 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_26",
+  "locations": [],
+  "name": "check for intervention",
+  "parameters": {
+    "compareSource": "inventory",
+    "condition": {
+      "operator": "==",
+      "type": "counter",
+      "value": 0
+    },
+    "conditionType": "counter",
+    "moodAxis": "valence",
+    "operator": "==",
+    "quantityCheck": false,
+    "trueTarget": ""
+  },
+  "type": "conditionBeat",
+  "x": -843.9627409134641,
+  "y": 61.7364122857482
+}

@@ -3,11 +3,13 @@
   "connections": [],
   "id": "beat_15",
   "locations": [],
-  "name": "bully start",
+  "name": "bully start - lunch",
   "parameters": {
-    "text": ""
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "it is lunchtime in the cafeteria "
   },
   "type": "infoText",
-  "x": -633.6540446375451,
-  "y": 13.466811323389493
+  "x": -1145.412832164775,
+  "y": -1.48134334200887
 }

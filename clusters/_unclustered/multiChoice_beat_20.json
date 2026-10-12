@@ -1,0 +1,37 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_20",
+  "locations": [],
+  "name": "tell someone?",
+  "parameters": {
+    "choices": [
+      {
+        "id": "choice_1791798717771",
+        "location": "",
+        "target": "",
+        "text": "call parents"
+      },
+      {
+        "id": "choice_1791798718248",
+        "location": "",
+        "target": "",
+        "text": "talk to bystander"
+      },
+      {
+        "id": "choice_1791798794541",
+        "location": "",
+        "target": "",
+        "text": "be sad"
+      }
+    ],
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "question": "What do you do?",
+    "speaker": ""
+  },
+  "type": "multiChoice",
+  "x": -71.23884569306546,
+  "y": -105.59336957387538
+}

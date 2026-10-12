@@ -1,9 +1,9 @@
 {
   "_format": "1.0",
   "connections": [],
-  "id": "beat_12",
+  "id": "beat_10_copymv524xsa1",
   "locations": [],
-  "name": "check for friend",
+  "name": "check for apology",
   "parameters": {
     "compareSource": "inventory",
     "condition": {
@@ -15,9 +15,10 @@
     "moodAxis": "valence",
     "operator": "==",
     "quantityCheck": false,
-    "trueTarget": ""
+    "trueTarget": "",
+    "value": 0
   },
   "type": "conditionBeat",
-  "x": 740.0524315382937,
-  "y": 202.60904550740736
+  "x": 771.5371567072107,
+  "y": 183.09601743952527
 }

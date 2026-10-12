@@ -7,7 +7,7 @@
   ],
   "id": "beat_8",
   "locations": [],
-  "name": "neutral end 1",
+  "name": "friend, change school",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
@@ -27,6 +27,6 @@
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 1073.693505697178,
-  "y": 0.7978133945021568
+  "x": 1346.193505697178,
+  "y": 20.797813394502157
 }

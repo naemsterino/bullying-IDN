@@ -3,11 +3,13 @@
   "connections": [],
   "id": "beat_16",
   "locations": [],
-  "name": "bystander start",
+  "name": "bystander start - schoolyard",
   "parameters": {
-    "text": ""
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "school is about"
   },
   "type": "infoText",
-  "x": -1132.2343826152187,
-  "y": 8.9967410780678
+  "x": -1660.9795497058253,
+  "y": -0.9514135873305349
 }

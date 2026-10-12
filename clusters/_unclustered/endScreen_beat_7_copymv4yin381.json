@@ -7,7 +7,7 @@
   ],
   "id": "beat_7_copymv4yin381",
   "locations": [],
-  "name": "good end 2",
+  "name": "no friend, no bully",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
@@ -27,6 +27,6 @@
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 1068.943505697178,
-  "y": -115.32718660549784
+  "x": 1337.693505697178,
+  "y": -131.57718660549781
 }

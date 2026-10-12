@@ -7,7 +7,7 @@
   ],
   "id": "beat_9_copymv4yiwma1",
   "locations": [],
-  "name": "bad end 2",
+  "name": "no friend, still bully",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
@@ -27,6 +27,6 @@
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 1071.9999999999998,
-  "y": 301
+  "x": 1343.2499999999998,
+  "y": 284.75
 }
