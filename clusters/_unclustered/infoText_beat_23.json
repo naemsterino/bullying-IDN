@@ -1,13 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_8"
+    }
+  ],
   "id": "beat_23",
   "locations": [],
   "name": "neutral end",
   "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
     "text": ""
   },
   "type": "infoText",
-  "x": 1085.193505697178,
-  "y": 20.547813394502157
+  "x": 1091.443505697178,
+  "y": -15.702186605497843
 }

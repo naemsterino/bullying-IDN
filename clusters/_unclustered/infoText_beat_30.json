@@ -3,11 +3,11 @@
   "connections": [],
   "id": "beat_30",
   "locations": [],
-  "name": "call parents",
+  "name": "after school, call parents",
   "parameters": {
     "text": ""
   },
   "type": "infoText",
-  "x": 177.28725908653587,
-  "y": -83.2635877142518
+  "x": -12.712740913464131,
+  "y": -105.7635877142518
 }

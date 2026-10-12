@@ -1,13 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_15"
+    }
+  ],
   "id": "beat_28",
   "locations": [],
   "name": "schoolyard, film",
   "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
     "text": ""
   },
   "type": "infoText",
-  "x": -1399.7295497058258,
-  "y": -2.576413587330592
+  "x": -1398.4795497058258,
+  "y": 88.67358641266941
 }

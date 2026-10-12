@@ -1,10 +1,16 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_16"
+    }
+  ],
   "id": "beat_17",
   "locations": [],
   "name": "intro",
   "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
     "text": ""
   },
   "type": "infoText",

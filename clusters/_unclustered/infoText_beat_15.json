@@ -1,6 +1,10 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_19"
+    }
+  ],
   "id": "beat_15",
   "locations": [],
   "name": "bully start - lunch",
@@ -10,6 +14,6 @@
     "text": "it is lunchtime in the cafeteria "
   },
   "type": "infoText",
-  "x": -1139.162832164775,
-  "y": -5.23134334200887
+  "x": -1145.412832164775,
+  "y": -15.23134334200887
 }

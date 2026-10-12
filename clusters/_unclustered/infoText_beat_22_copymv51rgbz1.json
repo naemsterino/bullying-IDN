@@ -1,13 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_9"
+    }
+  ],
   "id": "beat_22_copymv51rgbz1",
   "locations": [],
   "name": "good end 2",
   "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
     "text": ""
   },
   "type": "infoText",
-  "x": 1085.193505697178,
-  "y": -119.45218660549784
+  "x": 1096.443505697178,
+  "y": -231.95218660549784
 }

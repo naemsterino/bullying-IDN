@@ -1,13 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_14"
+    }
+  ],
   "id": "beat_29_copymv54phfs1",
   "locations": [],
   "name": "cafeteria, ignore",
   "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
     "text": ""
   },
   "type": "infoText",
-  "x": -498.9949975770145,
-  "y": 161.63136724610183
+  "x": -658.9949975770145,
+  "y": -13.368632753898169
 }

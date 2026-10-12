@@ -1,6 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "label": "apologise",
+      "targetId": "beat_29"
+    },
+    {
+      "label": "ignore",
+      "targetId": "beat_29_copymv54phfs1"
+    },
+    {
+      "label": "trip",
+      "targetId": "beat_29_copymv54phfs1_copymv54po2v1"
+    }
+  ],
   "id": "beat_19",
   "locations": [],
   "name": "regret/apology",
@@ -16,19 +29,19 @@
         ],
         "id": "choice_1791798479933",
         "location": "",
-        "target": "",
+        "target": "beat_29",
         "text": "apologise"
       },
       {
         "id": "choice_1791798482885",
         "location": "",
-        "target": "",
+        "target": "beat_29_copymv54phfs1",
         "text": "ignore"
       },
       {
         "id": "choice_1791798581947",
         "location": "",
-        "target": "",
+        "target": "beat_29_copymv54phfs1_copymv54po2v1",
         "text": "trip"
       }
     ],
@@ -39,6 +52,6 @@
     "speaker": ""
   },
   "type": "multiChoice",
-  "x": -702.7449975770144,
-  "y": 149.50636724610183
+  "x": -887.7449975770145,
+  "y": -14.243632753898169
 }

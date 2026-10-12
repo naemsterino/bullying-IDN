@@ -1,6 +1,10 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_18"
+    }
+  ],
   "id": "beat_16",
   "locations": [],
   "name": "bystander start - schoolyard",

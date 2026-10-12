@@ -1,13 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_14"
+    }
+  ],
   "id": "beat_29",
   "locations": [],
   "name": "cafeteria, apologise",
   "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
     "text": ""
   },
   "type": "infoText",
-  "x": -503.9949975770145,
-  "y": 70.38136724610183
+  "x": -661.4949975770145,
+  "y": -105.86863275389811
 }

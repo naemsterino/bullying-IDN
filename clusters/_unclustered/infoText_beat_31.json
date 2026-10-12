@@ -3,11 +3,11 @@
   "connections": [],
   "id": "beat_31",
   "locations": [],
-  "name": "talk to bystander",
+  "name": "after school, talk to bystander",
   "parameters": {
     "text": ""
   },
   "type": "infoText",
-  "x": 178.53725908653587,
-  "y": 11.736412285748202
+  "x": -11.462740913464131,
+  "y": -10.763587714251798
 }

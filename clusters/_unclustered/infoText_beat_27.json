@@ -1,13 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_15"
+    }
+  ],
   "id": "beat_27",
   "locations": [],
   "name": "schoolyard, ignore",
   "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
     "text": ""
   },
   "type": "infoText",
-  "x": -1399.8258582558992,
-  "y": -111.228624907256
+  "x": -1402.3258582558992,
+  "y": -14.978624907256005
 }

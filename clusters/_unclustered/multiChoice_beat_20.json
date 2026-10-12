@@ -1,6 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "label": "call parents",
+      "targetId": "beat_30"
+    },
+    {
+      "label": "talk to bystander",
+      "targetId": "beat_31"
+    },
+    {
+      "label": "be sad",
+      "targetId": "beat_32"
+    }
+  ],
   "id": "beat_20",
   "locations": [],
   "name": "tell someone?",
@@ -9,19 +22,19 @@
       {
         "id": "choice_1791798717771",
         "location": "",
-        "target": "",
+        "target": "beat_30",
         "text": "call parents"
       },
       {
         "id": "choice_1791798718248",
         "location": "",
-        "target": "",
+        "target": "beat_31",
         "text": "talk to bystander"
       },
       {
         "id": "choice_1791798794541",
         "location": "",
-        "target": "",
+        "target": "beat_32",
         "text": "be sad"
       }
     ],
@@ -32,6 +45,6 @@
     "speaker": ""
   },
   "type": "multiChoice",
-  "x": -18.738845693065457,
-  "y": 23.156630426124593
+  "x": -213.7388456930655,
+  "y": -13.093369573875407
 }

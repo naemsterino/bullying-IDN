@@ -1,6 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "label": "Intervene",
+      "targetId": "beat_27_copymv54nxbi1"
+    },
+    {
+      "label": "Ignore",
+      "targetId": "beat_27"
+    },
+    {
+      "label": "Film",
+      "targetId": "beat_28"
+    }
+  ],
   "id": "beat_18",
   "locations": [],
   "name": "help or no help",
@@ -9,19 +22,19 @@
       {
         "id": "choice_1791798408548",
         "location": "",
-        "target": "",
+        "target": "beat_27_copymv54nxbi1",
         "text": "Intervene"
       },
       {
         "id": "choice_1791798409873",
         "location": "",
-        "target": "",
+        "target": "beat_27",
         "text": "Ignore"
       },
       {
         "id": "choice_1791798452581",
         "location": "",
-        "target": "",
+        "target": "beat_28",
         "text": "Film"
       }
     ],
@@ -32,6 +45,6 @@
     "speaker": ""
   },
   "type": "multiChoice",
-  "x": -1622.975226793663,
-  "y": -107.43475801240095
+  "x": -1625.475226793663,
+  "y": -11.184758012400948
 }

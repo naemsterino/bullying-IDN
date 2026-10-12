@@ -1,6 +1,10 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_20"
+    }
+  ],
   "id": "beat_14",
   "locations": [],
   "name": "victim start - after school",
@@ -10,6 +14,6 @@
     "text": "school has ended and you are sad :c"
   },
   "type": "infoText",
-  "x": -242.43037972148147,
-  "y": 9.120594643822244
+  "x": -432.4303797214815,
+  "y": -13.379405356177756
 }

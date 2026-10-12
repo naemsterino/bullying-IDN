@@ -1,13 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_17"
+    }
+  ],
   "id": "beat_5",
   "locations": [],
   "name": "start",
   "parameters": {
+    "author": "Ellie, Ivan, Jeremy, Maria, Milo, and Oğuz",
+    "buttonText": "Start",
     "title": "Untitled Story"
   },
   "type": "titleScreen",
-  "x": -2253.9627409134637,
-  "y": -11.638587714251798
+  "x": -2258.9627409134637,
+  "y": -10.388587714251798
 }
