@@ -1,0 +1,13 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_17",
+  "locations": [],
+  "name": "intro",
+  "parameters": {
+    "text": ""
+  },
+  "type": "infoText",
+  "x": -1529.8064943028219,
+  "y": 5.547813394502157
+}

@@ -7,7 +7,7 @@
   ],
   "id": "beat_8",
   "locations": [],
-  "name": "neutral end",
+  "name": "neutral end 1",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
@@ -27,6 +27,6 @@
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 864.9435056971781,
-  "y": 45.79781339450216
+  "x": 1073.693505697178,
+  "y": 0.7978133945021568
 }

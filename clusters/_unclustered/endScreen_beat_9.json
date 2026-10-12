@@ -7,7 +7,7 @@
   ],
   "id": "beat_9",
   "locations": [],
-  "name": "bad end",
+  "name": "bad end 1",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
@@ -27,6 +27,6 @@
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 867,
-  "y": 211
+  "x": 1069.4999999999998,
+  "y": 206
 }

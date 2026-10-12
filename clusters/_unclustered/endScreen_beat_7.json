@@ -7,7 +7,7 @@
   ],
   "id": "beat_7",
   "locations": [],
-  "name": "good end",
+  "name": "good end 1",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
@@ -27,6 +27,6 @@
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 866.4435056971781,
-  "y": -121.57718660549787
+  "x": 1065.193505697178,
+  "y": -202.82718660549784
 }

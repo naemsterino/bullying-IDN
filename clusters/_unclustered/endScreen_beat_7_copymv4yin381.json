@@ -1,0 +1,32 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_5"
+    }
+  ],
+  "id": "beat_7_copymv4yin381",
+  "locations": [],
+  "name": "good end 2",
+  "parameters": {
+    "buttonText": "Play Again",
+    "creditsCloseText": "Close",
+    "creditsPageBody": "",
+    "creditsPageTitle": "Credits",
+    "message": "yay",
+    "reset": false,
+    "resetCharacters": true,
+    "resetCounters": true,
+    "resetFictionalTime": true,
+    "resetHistory": true,
+    "resetInventory": true,
+    "resetTimers": true,
+    "resetVariables": true,
+    "resetVisitedTracking": true,
+    "showCredits": false,
+    "showRestart": true
+  },
+  "type": "endScreen",
+  "x": 1068.943505697178,
+  "y": -115.32718660549784
+}
