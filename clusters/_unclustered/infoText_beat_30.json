@@ -1,0 +1,13 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_30",
+  "locations": [],
+  "name": "call parents",
+  "parameters": {
+    "text": ""
+  },
+  "type": "infoText",
+  "x": 177.28725908653587,
+  "y": -83.2635877142518
+}

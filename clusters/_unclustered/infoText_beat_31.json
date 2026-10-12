@@ -1,0 +1,13 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_31",
+  "locations": [],
+  "name": "talk to bystander",
+  "parameters": {
+    "text": ""
+  },
+  "type": "infoText",
+  "x": 178.53725908653587,
+  "y": 11.736412285748202
+}

@@ -7,9 +7,9 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": "school is about"
+    "text": "school is about to start"
   },
   "type": "infoText",
-  "x": -1660.9795497058253,
-  "y": -0.9514135873305349
+  "x": -1848.4795497058253,
+  "y": -12.201413587330535
 }
