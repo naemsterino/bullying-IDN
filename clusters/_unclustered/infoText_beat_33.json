@@ -1,13 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_10"
+    }
+  ],
   "id": "beat_33",
   "locations": [],
   "name": "end of day",
   "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
     "text": ""
   },
   "type": "infoText",
-  "x": 248.76115430693443,
-  "y": -7.218369573875407
+  "x": 2284.968599094217,
+  "y": -296.5057336185122
 }

@@ -7,7 +7,7 @@
     },
     {
       "label": "false",
-      "targetId": "beat_11"
+      "targetId": "beat_34"
     }
   ],
   "id": "beat_10",
@@ -22,7 +22,7 @@
       "variableName": "apology"
     },
     "conditionType": "variable",
-    "falseTarget": "beat_11",
+    "falseTarget": "beat_34",
     "moodAxis": "valence",
     "operator": "==",
     "quantityCheck": false,
@@ -31,6 +31,6 @@
     "variableName": "apology"
   },
   "type": "conditionBeat",
-  "x": 439.0371567072108,
-  "y": -6.903982560474731
+  "x": 2519.1665330851247,
+  "y": -293.86747250196913
 }

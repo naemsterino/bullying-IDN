@@ -10,9 +10,9 @@
       "targetId": "beat_26"
     }
   ],
-  "id": "beat_11",
+  "id": "beat_34",
   "locations": [],
-  "name": "check for calling parents",
+  "name": "check for call",
   "parameters": {
     "compareSource": "inventory",
     "condition": {
@@ -31,6 +31,6 @@
     "variableName": "call"
   },
   "type": "conditionBeat",
-  "x": 656.902504255104,
-  "y": 76.69952074706987
+  "x": 2811.0946787558046,
+  "y": -237.94205169681416
 }
