@@ -1,0 +1,23 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_10",
+  "locations": [],
+  "name": "check for bullying",
+  "parameters": {
+    "compareSource": "inventory",
+    "condition": {
+      "operator": "==",
+      "type": "counter",
+      "value": 0
+    },
+    "conditionType": "counter",
+    "moodAxis": "valence",
+    "operator": "==",
+    "quantityCheck": false,
+    "trueTarget": ""
+  },
+  "type": "conditionBeat",
+  "x": 406.80668138225525,
+  "y": -16.539222494944283
+}

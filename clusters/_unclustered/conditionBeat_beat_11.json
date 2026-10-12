@@ -1,0 +1,23 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_11",
+  "locations": [],
+  "name": "check for telling adults",
+  "parameters": {
+    "compareSource": "inventory",
+    "condition": {
+      "operator": "==",
+      "type": "counter",
+      "value": 0
+    },
+    "conditionType": "counter",
+    "moodAxis": "valence",
+    "operator": "==",
+    "quantityCheck": false,
+    "trueTarget": ""
+  },
+  "type": "conditionBeat",
+  "x": 140.55104035156114,
+  "y": 31.838864131878324
+}

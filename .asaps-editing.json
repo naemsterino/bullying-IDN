@@ -1,4 +1,10 @@
 {
   "v": 1,
-  "locks": {}
+  "locks": {
+    "beat_10": {
+      "user": "Naemi",
+      "since": "2026-10-12T07:38:16.692Z",
+      "beat": "check for bullying"
+    }
+  }
 }

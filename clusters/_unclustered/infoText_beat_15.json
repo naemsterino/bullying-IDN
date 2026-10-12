@@ -1,0 +1,13 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_15",
+  "locations": [],
+  "name": "bully start",
+  "parameters": {
+    "text": ""
+  },
+  "type": "infoText",
+  "x": -609.9040446375451,
+  "y": 20.966811323389493
+}

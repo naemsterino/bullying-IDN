@@ -1,0 +1,13 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_16",
+  "locations": [],
+  "name": "bystander start",
+  "parameters": {
+    "text": ""
+  },
+  "type": "infoText",
+  "x": -1132.2343826152187,
+  "y": 8.9967410780678
+}

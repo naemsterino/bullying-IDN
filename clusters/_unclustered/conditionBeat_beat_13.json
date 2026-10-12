@@ -1,0 +1,24 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_13",
+  "locations": [],
+  "name": "check for friend (Paste)",
+  "parameters": {
+    "compareSource": "inventory",
+    "condition": {
+      "operator": "==",
+      "type": "counter",
+      "value": 0
+    },
+    "conditionType": "counter",
+    "moodAxis": "valence",
+    "operator": "==",
+    "quantityCheck": false,
+    "trueTarget": "",
+    "value": 0
+  },
+  "type": "conditionBeat",
+  "x": 669.4115009455109,
+  "y": -121.93994562436838
+}

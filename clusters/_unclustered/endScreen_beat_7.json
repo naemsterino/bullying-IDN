@@ -7,13 +7,13 @@
   ],
   "id": "beat_7",
   "locations": [],
-  "name": "End",
+  "name": "good end",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
     "creditsPageBody": "",
     "creditsPageTitle": "Credits",
-    "message": "Winner Winner chicken dinner",
+    "message": "yay",
     "reset": false,
     "resetCharacters": true,
     "resetCounters": true,
@@ -27,6 +27,6 @@
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 873.9435056971781,
-  "y": -112.82718660549784
+  "x": 866.4435056971781,
+  "y": -121.57718660549787
 }

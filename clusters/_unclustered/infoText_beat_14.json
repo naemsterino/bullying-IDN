@@ -1,0 +1,13 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_14",
+  "locations": [],
+  "name": "victim start",
+  "parameters": {
+    "text": ""
+  },
+  "type": "infoText",
+  "x": -218.1562911542899,
+  "y": 25.319564139870096
+}

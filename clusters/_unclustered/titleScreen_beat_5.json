@@ -3,11 +3,11 @@
   "connections": [],
   "id": "beat_5",
   "locations": [],
-  "name": "AAAAA",
+  "name": "start",
   "parameters": {
     "title": "Untitled Story"
   },
   "type": "titleScreen",
-  "x": -203.96274091346532,
-  "y": -1.6385877142517984
+  "x": -1693.962740913464,
+  "y": -2.8885877142517984
 }

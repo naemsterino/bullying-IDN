@@ -1,0 +1,32 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_5"
+    }
+  ],
+  "id": "beat_8",
+  "locations": [],
+  "name": "neutral end",
+  "parameters": {
+    "buttonText": "Play Again",
+    "creditsCloseText": "Close",
+    "creditsPageBody": "",
+    "creditsPageTitle": "Credits",
+    "message": "okay",
+    "reset": false,
+    "resetCharacters": true,
+    "resetCounters": true,
+    "resetFictionalTime": true,
+    "resetHistory": true,
+    "resetInventory": true,
+    "resetTimers": true,
+    "resetVariables": true,
+    "resetVisitedTracking": true,
+    "showCredits": false,
+    "showRestart": true
+  },
+  "type": "endScreen",
+  "x": 864.9435056971781,
+  "y": 45.79781339450216
+}
