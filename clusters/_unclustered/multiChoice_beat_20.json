@@ -43,7 +43,7 @@
       {
         "conditions": [
           {
-            "operator": ">=",
+            "operator": "==",
             "type": "counter",
             "value": 1,
             "variableName": "relief"
@@ -75,6 +75,6 @@
     "speaker": ""
   },
   "type": "multiChoice",
-  "x": 1614.8148893184782,
+  "x": 1591.0648893184782,
   "y": -298.7629770311868
 }
