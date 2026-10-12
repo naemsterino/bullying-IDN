@@ -24,7 +24,7 @@
           {
             "operator": "==",
             "type": "variable",
-            "value": "1",
+            "value": "true",
             "variableName": "intervention"
           }
         ],
@@ -32,7 +32,7 @@
           {
             "target": "apology",
             "type": "setVariable",
-            "value": 1
+            "value": "true"
           },
           {
             "target": "relief",

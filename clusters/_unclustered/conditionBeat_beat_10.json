@@ -18,7 +18,7 @@
     "condition": {
       "operator": "==",
       "type": "variable",
-      "value": "1",
+      "value": "true",
       "variableName": "apology"
     },
     "conditionType": "variable",
@@ -27,10 +27,10 @@
     "operator": "==",
     "quantityCheck": false,
     "trueTarget": "beat_13",
-    "value": "1",
+    "value": "true",
     "variableName": "apology"
   },
   "type": "conditionBeat",
-  "x": 2517.9165330851247,
-  "y": -295.11747250196913
+  "x": 2448.9620906602286,
+  "y": -299.93159955822284
 }

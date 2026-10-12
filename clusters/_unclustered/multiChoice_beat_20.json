@@ -24,7 +24,7 @@
           {
             "operator": "==",
             "type": "variable",
-            "value": "1",
+            "value": "true",
             "variableName": "intervention"
           }
         ],
@@ -32,7 +32,7 @@
           {
             "target": "friend",
             "type": "setVariable",
-            "value": 1
+            "value": "true"
           }
         ],
         "id": "choice_1791798717771",
@@ -53,7 +53,7 @@
           {
             "target": "call",
             "type": "setVariable",
-            "value": 1
+            "value": "true"
           }
         ],
         "id": "choice_1791804540860",
@@ -75,6 +75,6 @@
     "speaker": ""
   },
   "type": "multiChoice",
-  "x": 1682.8399670246433,
-  "y": -298.39123114369414
+  "x": 1614.8148893184782,
+  "y": -298.7629770311868
 }

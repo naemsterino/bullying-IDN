@@ -18,7 +18,7 @@
     "condition": {
       "operator": "==",
       "type": "variable",
-      "value": "1",
+      "value": "true",
       "variableName": "friend"
     },
     "conditionType": "variable",
@@ -27,10 +27,10 @@
     "operator": "==",
     "quantityCheck": false,
     "trueTarget": "beat_24",
-    "value": "1",
+    "value": "true",
     "variableName": "friend"
   },
   "type": "conditionBeat",
-  "x": 2974.956008591146,
+  "x": 2943.706008591146,
   "y": -94.76479728052925
 }

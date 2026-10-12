@@ -17,18 +17,20 @@
     "compareSource": "inventory",
     "condition": {
       "operator": "==",
-      "type": "counter",
-      "value": 0
+      "type": "variable",
+      "value": "true",
+      "variableName": "friend"
     },
-    "conditionType": "counter",
+    "conditionType": "variable",
     "falseTarget": "beat_22_copymv51rgbz1",
     "moodAxis": "valence",
     "operator": "==",
     "quantityCheck": false,
     "trueTarget": "beat_22",
-    "value": 0
+    "value": "true",
+    "variableName": "friend"
   },
   "type": "conditionBeat",
-  "x": 2827.6925699589506,
-  "y": -568.5705877641699
+  "x": 2733.9425699589506,
+  "y": -557.3205877641699
 }

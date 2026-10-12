@@ -18,7 +18,7 @@
     "condition": {
       "operator": "==",
       "type": "variable",
-      "value": "1",
+      "value": "true",
       "variableName": "call"
     },
     "conditionType": "variable",
@@ -27,10 +27,10 @@
     "operator": "==",
     "quantityCheck": false,
     "trueTarget": "beat_23",
-    "value": "1",
+    "value": "true",
     "variableName": "call"
   },
   "type": "conditionBeat",
-  "x": 2757.446654904169,
-  "y": -211.11803977099618
+  "x": 2724.946654904169,
+  "y": -209.86803977099618
 }

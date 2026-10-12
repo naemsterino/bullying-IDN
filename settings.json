@@ -68,7 +68,33 @@
       "padding": 22,
       "position": "bottom",
       "radius": 14
-    }
+    },
+    "variables": [
+      {
+        "defaultValue": false,
+        "description": "",
+        "name": "intervention",
+        "type": "boolean"
+      },
+      {
+        "defaultValue": false,
+        "description": "",
+        "name": "apology",
+        "type": "boolean"
+      },
+      {
+        "defaultValue": false,
+        "description": "",
+        "name": "call",
+        "type": "boolean"
+      },
+      {
+        "defaultValue": false,
+        "description": "",
+        "name": "friend",
+        "type": "boolean"
+      }
+    ]
   },
   "projectSettings": {}
 }
