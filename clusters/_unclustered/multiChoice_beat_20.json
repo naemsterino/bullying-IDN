@@ -43,7 +43,7 @@
       {
         "conditions": [
           {
-            "operator": "==",
+            "operator": ">",
             "type": "counter",
             "value": 1,
             "variableName": "relief"
