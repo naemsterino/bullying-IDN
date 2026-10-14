@@ -12,7 +12,7 @@
   ],
   "id": "beat_59",
   "locations": [],
-  "name": "trip continued",
+  "name": "trip continued 2",
   "node": "asset_1791985733410_nufvbhp",
   "parameters": {
     "choices": [
@@ -37,6 +37,6 @@
     "speaker": ""
   },
   "type": "multiChoice",
-  "x": 676.5356786852675,
-  "y": -98.38220187460584
+  "x": 747.7242244804976,
+  "y": 9.141120274205548
 }

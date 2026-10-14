@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_59"
+    }
+  ],
+  "id": "beat_61",
+  "locations": [],
+  "name": "trip continued 1",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "\"PFF Looks like you grew a beard, Gandalf!\"",
+    "text": "Just as Vic walks past you, you put your leg out in front of them, making them fall over and land face-first onto their own tray of food. Their face is covered in mashed potatoes.\n\nThe surprise of Vic falling over more comically than you expected makes you burst out laughing and you can’t help yourself from saying something about it."
+  },
+  "type": "infoText",
+  "x": 664.4671681933052,
+  "y": -80.9545303446931
+}
