@@ -5,7 +5,6 @@
       "filename": "cafeteria.jpg",
       "folder": "backgrounds",
       "id": "asset_1791983560443_4qfv1iz0h",
-      "metadata": {},
       "mimeType": "image/jpeg",
       "size": 867075,
       "type": "image",
@@ -15,11 +14,19 @@
       "filename": "schoolyard.jpg",
       "folder": "backgrounds",
       "id": "asset_1791983560572_k7h6c1ji3",
-      "metadata": {},
       "mimeType": "image/jpeg",
       "size": 831517,
       "type": "image",
       "uploadedAt": "2026-10-14T13:12:40.572Z"
+    },
+    "asset_1791985011945_13hz1v2rc": {
+      "filename": "cafeteria_2.jpg",
+      "folder": "backgrounds",
+      "id": "asset_1791985011945_13hz1v2rc",
+      "mimeType": "image/jpeg",
+      "size": 935510,
+      "type": "image",
+      "uploadedAt": "2026-10-14T13:36:51.945Z"
     }
   }
 }
