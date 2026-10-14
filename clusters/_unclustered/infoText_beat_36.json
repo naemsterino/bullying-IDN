@@ -11,7 +11,7 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Wake up",
-    "text": "You dream of a train ride. The sun is rising and there is a slight drizzle hitting the windows.\nYou don't know where the train will take you."
+    "text": "You dream of a train ride. The sun is rising and there is a slight drizzle hitting the windows.\n\nYou don't know where the train will take you."
   },
   "type": "infoText",
   "x": 3492.3184261179254,

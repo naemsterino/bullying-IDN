@@ -11,7 +11,14 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Go to bed",
-    "text": "Later in the evening, your parents contact your homeroom teacher and share what you told them, requesting something be done to help their child. Your teacher, well-meaning as always, agrees, and promises to bring it up with the class first thing the next day. Your heart sinks. Anxiety sets in. Hopefully this was the correct decision. Regardless, it is out of your hands now, and after the long day you've had, you could really use some rest."
+    "slotIntent": {
+      "actions": {
+        "anchor": {
+          "h": "center"
+        }
+      }
+    },
+    "text": "Later in the evening, your parents contact your homeroom teacher and share what you told them, requesting something be done to help their child. \n\nYour teacher, well-meaning as always, agrees, and promises to bring it up with the class first thing the next day. \n\nYour heart sinks. Anxiety sets in. Hopefully this was the correct decision. Regardless, it is out of your hands now, and after the long day you've had, you could really use some rest."
   },
   "type": "infoText",
   "x": 3303.6374907790796,

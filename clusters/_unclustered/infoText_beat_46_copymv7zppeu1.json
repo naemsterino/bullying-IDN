@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_47"
+    }
+  ],
+  "id": "beat_46_copymv7zppeu1",
+  "locations": [],
+  "name": "NE 11.5",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Go to bed",
+    "text": "Tears make their way down your face, despite your efforts to stop them, and your parents, well-meaning as they are, even more so than your teacher, start trying to think of a different solution. They still seem unsure of what to think about all of this. You never seemed bullied to them. Billie was just one of your friends from school. Your recent change in behaviour greatly confuses them, but they will do what they can to help. Again."
+  },
+  "type": "infoText",
+  "x": 5482.158241468497,
+  "y": -552.8865751699249
+}

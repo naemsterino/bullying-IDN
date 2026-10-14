@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_51"
+    }
+  ],
+  "id": "beat_42_copymv800feq1",
+  "locations": [],
+  "name": "NE 8 (Copy)",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Look away",
+    "text": "It has come to their attention, they say, that some of you have not been very considerate toward your fellow classmates. That, even if unintentional, sometimes the words we use hurt the people around us. That they are sure that none of you mean any harm and that they think that you are all such great kids, but that we all need to think about the things we do and the words we say, or we can end up being the reason why someone else's day gets ruined. That from now on, you should all take care to treat each other with the respect you all deserve. They look at you and smile."
+  },
+  "type": "infoText",
+  "x": 4637.304886776612,
+  "y": -341.90566010806043
+}
