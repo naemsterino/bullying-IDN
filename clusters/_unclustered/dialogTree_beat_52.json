@@ -21,41 +21,41 @@
                           {
                             "id": "choice_1791975395441",
                             "target": "beat_53",
-                            "text": "Bye, meanie.",
+                            "text": "\"Bye, meanie.\"",
                             "visible": true
                           }
                         ],
                         "id": "node_1791975375033",
                         "speaker": "Billie",
-                        "text": "Whatever. You’re no fun."
+                        "text": "\"Whatever. You’re no fun.\""
                       },
                       "id": "choice_1791975365359",
-                      "text": "You started it. ",
+                      "text": "\"You started it.\"",
                       "visible": true
                     }
                   ],
                   "id": "node_1791975355751",
                   "speaker": "Billie",
-                  "text": "Vic raised their voice at me!"
+                  "text": "\"Vic raised their voice at me!\""
                 },
                 "id": "choice_1791975340685",
-                "text": "Why are you getting so aggressive?",
+                "text": "\"Why are you getting so aggressive?\"",
                 "visible": true
               }
             ],
             "id": "node_1791975332812",
             "speaker": "Billie",
-            "text": "And what are you going to do if I don’t?\n"
+            "text": "\"And what are you going to do if I don’t?\"\n"
           },
           "id": "choice_1791975319893",
-          "text": "Knock it off, Billie!",
+          "text": "\"Knock it off, Billie!\"",
           "visible": true
         }
       ],
       "emotion": "neutral",
       "id": "root",
       "speaker": "Billie",
-      "text": "What the hell, Vic!?"
+      "text": "\"What the hell, Vic!?\""
     },
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
@@ -66,5 +66,5 @@
   "showSpeaker": true,
   "type": "dialogTree",
   "x": -587.5748089677414,
-  "y": -448.9564107446269
+  "y": -447.7064107446269
 }
