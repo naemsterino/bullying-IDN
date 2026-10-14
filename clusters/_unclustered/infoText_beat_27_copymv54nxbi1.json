@@ -2,7 +2,7 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_15"
+      "targetId": "beat_52"
     }
   ],
   "id": "beat_27_copymv54nxbi1",
@@ -11,9 +11,9 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": "intervene"
+    "text": "Against what might be your better judgement you decide to intervene. As far as you know no one has ever done this before, Billie isn’t violent but she is still not someone you want to get on the bad side of, Vic is proof of that. "
   },
   "type": "infoText",
-  "x": 452.3746114691762,
-  "y": -421.8256539156479
+  "x": 368.9159037163855,
+  "y": -443.81188983324466
 }

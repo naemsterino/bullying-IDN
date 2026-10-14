@@ -11,7 +11,7 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": "do nothing"
+    "text": "You decide to simply try your best and ignore it, like you’ve done many times before. Though, you haven’t been this consciously aware of it for a while, ignoring it is what you, and everyone else, always does. Risking drawing Billie’s attention to yourself just isn’t worth it.\n"
   },
   "type": "infoText",
   "x": 445.14431427646764,
