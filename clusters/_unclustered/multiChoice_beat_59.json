@@ -2,11 +2,11 @@
   "_format": "1.0",
   "connections": [
     {
-      "label": "Come on aren’t you even gonna clean the floor up after yourself?",
+      "label": "\"Come on aren’t you even gonna clean up after yourself?\"",
       "targetId": "beat_60"
     },
     {
-      "label": "Oh come oon! I was just kidding, no need to be so dramatic.",
+      "label": "\"Oh come oon! I was just kidding, no need to be so dramatic.\"",
       "targetId": "beat_60"
     }
   ],
@@ -20,13 +20,13 @@
         "id": "choice_1791984800085",
         "location": "",
         "target": "beat_60",
-        "text": "Come on aren’t you even gonna clean the floor up after yourself?"
+        "text": "\"Come on aren’t you even gonna clean up after yourself?\""
       },
       {
         "id": "choice_1791984959389",
         "location": "",
         "target": "beat_60",
-        "text": "Oh come oon! I was just kidding, no need to be so dramatic."
+        "text": "\"Oh come oon! I was just kidding, no need to be so dramatic.\""
       }
     ],
     "effectsOncePerChoice": false,
