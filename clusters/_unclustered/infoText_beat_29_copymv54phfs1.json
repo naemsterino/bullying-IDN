@@ -2,7 +2,7 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_14"
+      "targetId": "beat_57"
     }
   ],
   "id": "beat_29_copymv54phfs1",
@@ -16,6 +16,6 @@
     "text": "ignore"
   },
   "type": "infoText",
-  "x": 1129.7211735540343,
-  "y": -300.92198121411707
+  "x": 549.7211598611266,
+  "y": -293.42198103705357
 }
