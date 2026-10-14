@@ -1,0 +1,68 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_52",
+  "locations": [],
+  "name": "Intervene Dialogue",
+  "parameters": {
+    "dialogTree": {
+      "characterRef": "NPC",
+      "choices": [
+        {
+          "dialogNode": {
+            "choices": [
+              {
+                "dialogNode": {
+                  "choices": [
+                    {
+                      "dialogNode": {
+                        "choices": [
+                          {
+                            "id": "choice_1791975395441",
+                            "target": "beat_15",
+                            "text": "Bye, meanie.",
+                            "visible": true
+                          }
+                        ],
+                        "id": "node_1791975375033",
+                        "speaker": "NPC",
+                        "text": "Whatever. You’re no fun."
+                      },
+                      "id": "choice_1791975365359",
+                      "text": "You started it. ",
+                      "visible": true
+                    }
+                  ],
+                  "id": "node_1791975355751",
+                  "speaker": "NPC",
+                  "text": "Vic raised their voice at me!"
+                },
+                "id": "choice_1791975340685",
+                "text": "Why are you getting so aggressive?",
+                "visible": true
+              }
+            ],
+            "id": "node_1791975332812",
+            "speaker": "NPC",
+            "text": "And what are you going to do if I don’t?\n"
+          },
+          "id": "choice_1791975319893",
+          "text": "Knock it off, Billie!",
+          "visible": true
+        }
+      ],
+      "emotion": "neutral",
+      "id": "root",
+      "speaker": "NPC",
+      "text": "What the hell, Vic!?"
+    },
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "showAvatars": true
+  },
+  "showSpeaker": true,
+  "type": "dialogTree",
+  "x": 581.2540919205057,
+  "y": -453.6868860185475
+}
