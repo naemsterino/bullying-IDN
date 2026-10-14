@@ -1,26 +1,10 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_29_copymv54phfs1_copymv54po2v1": {
-      "user": "Naemi",
-      "since": "2026-10-14T13:37:03.642Z",
+  "locks": {
+    "beat_29_copymv54phfs1_copymv54po2v1": {
+      "user": "elliezero",
+      "since": "2026-10-14T13:41:50.905Z",
       "beat": "cafeteria, trip"
-    },
-    "beat_54": {
-      "user": "Naemi",
-      "since": "2026-10-14T13:37:05.763Z",
-      "beat": "apologise conversation"
-    },
-    "beat_55": {
-      "user": "Naemi",
-      "since": "2026-10-14T13:37:08.094Z",
-      "beat": "apology-conclusion"
-    },
-    "beat_57": {
-      "user": "Naemi",
-      "since": "2026-10-14T13:37:11.176Z",
-      "beat": "transition screen bully to victim"
     }
   }
 }
