@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_15"
+    }
+  ],
+  "id": "beat_53",
+  "locations": [],
+  "name": "Transition screen bystander to bully",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "The day continues…\n\nYou are now playing as **Billie**."
+  },
+  "type": "infoText",
+  "x": 768.3081940670814,
+  "y": -389.94634966765113
+}
