@@ -1,15 +1,15 @@
 {
   "v": 1,
   "locks": {
-    "beat_29_copymv54phfs1_copymv54po2v1": {
+    "beat_59": {
       "user": "elliezero",
-      "since": "2026-10-14T13:24:58.142Z",
-      "beat": "cafeteria, trip"
+      "since": "2026-10-14T13:38:36.583Z",
+      "beat": "trip continued"
     },
-    "beat_57": {
+    "beat_60": {
       "user": "elliezero",
-      "since": "2026-10-14T13:25:09.500Z",
-      "beat": "transition screen bully to victim"
+      "since": "2026-10-14T13:38:51.945Z",
+      "beat": "trip conclusion"
     }
   }
 }

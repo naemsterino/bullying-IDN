@@ -1,0 +1,40 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "label": "Come on aren’t you even gonna clean the floor up after yourself?",
+      "targetId": "beat_60"
+    },
+    {
+      "label": "Oh come oon! I was just kidding, no need to be so dramatic.",
+      "targetId": "beat_60"
+    }
+  ],
+  "id": "beat_59",
+  "locations": [],
+  "name": "trip continued",
+  "parameters": {
+    "choices": [
+      {
+        "id": "choice_1791984800085",
+        "location": "",
+        "target": "beat_60",
+        "text": "Come on aren’t you even gonna clean the floor up after yourself?"
+      },
+      {
+        "id": "choice_1791984959389",
+        "location": "",
+        "target": "beat_60",
+        "text": "Oh come oon! I was just kidding, no need to be so dramatic."
+      }
+    ],
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "question": "Vic stands up and tries to wipe off as much food from their face as they can. They abandon their tray on the floor and storm off, running far away from the cafeteria.",
+    "speaker": ""
+  },
+  "type": "multiChoice",
+  "x": 676.5356786852675,
+  "y": -98.38220187460587
+}
