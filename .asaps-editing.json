@@ -2,3 +2,20 @@
   "v": 1,
   "locks": {}
 }
+ "beat_15": {
+      "user": "elliezero",
+      "since": "2026-10-14T11:45:44.994Z",
+      "beat": "bully start - lunch"
+    },
+    "beat_53": {
+      "user": "elliezero",
+      "since": "2026-10-14T11:45:45.803Z",
+      "beat": "Transition screen bystander to bully"
+    },
+    "beat_52": {
+      "user": "elliezero",
+      "since": "2026-10-14T11:45:48.387Z",
+      "beat": "Intervene Dialogue"
+    }
+  }
+}
