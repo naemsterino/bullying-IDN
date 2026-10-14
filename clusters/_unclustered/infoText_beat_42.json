@@ -2,7 +2,7 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_51"
+      "targetId": "beat_42_copymv800feq1"
     }
   ],
   "id": "beat_42",
@@ -10,10 +10,10 @@
   "name": "NE 8",
   "parameters": {
     "backgroundSound": "",
-    "buttonText": "Listen",
+    "buttonText": "Listen in",
     "text": "A few moments later, your teacher addresses the class."
   },
   "type": "infoText",
-  "x": 4584.804886776612,
-  "y": -435.65566010806043
+  "x": 4547.304886776612,
+  "y": -443.15566010806043
 }
