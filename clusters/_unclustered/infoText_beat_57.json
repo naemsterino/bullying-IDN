@@ -1,13 +1,19 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_14"
+    }
+  ],
   "id": "beat_57",
   "locations": [],
-  "name": "transition screen bully to",
+  "name": "transition screen bully to victim",
   "parameters": {
-    "text": ""
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "The day continues…\n\nYou are now playing as **Vic**."
   },
   "type": "infoText",
-  "x": 1579.8081455080535,
-  "y": -96.27546057466449
+  "x": 1411.1846742990197,
+  "y": -401.3134253460632
 }
