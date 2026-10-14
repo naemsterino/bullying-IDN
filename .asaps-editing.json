@@ -1,10 +1,15 @@
 {
   "v": 1,
   "locks": {
-    "beat_55": {
-      "user": "elliezero",
-      "since": "2026-10-14T12:16:47.025Z",
-      "beat": "apology-conclusion"
+    "beat_17": {
+      "user": "retrotryxMilo",
+      "since": "2026-10-14T12:20:29.664Z",
+      "beat": "intro"
+    },
+    "beat_56": {
+      "user": "retrotryxMilo",
+      "since": "2026-10-14T12:20:50.246Z",
+      "beat": "InfoText beat_56"
     }
   }
 }
