@@ -1,4 +1,23 @@
 {
   "_format": "1.0",
-  "assets": {}
+  "assets": {
+    "asset_1791983560443_4qfv1iz0h": {
+      "filename": "cafeteria.jpg",
+      "folder": "backgrounds",
+      "id": "asset_1791983560443_4qfv1iz0h",
+      "mimeType": "image/jpeg",
+      "size": 867075,
+      "type": "image",
+      "uploadedAt": "2026-10-14T13:12:40.443Z"
+    },
+    "asset_1791983560572_k7h6c1ji3": {
+      "filename": "schoolyard.jpg",
+      "folder": "backgrounds",
+      "id": "asset_1791983560572_k7h6c1ji3",
+      "mimeType": "image/jpeg",
+      "size": 831517,
+      "type": "image",
+      "uploadedAt": "2026-10-14T13:12:40.572Z"
+    }
+  }
 }

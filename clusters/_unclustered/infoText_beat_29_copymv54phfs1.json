@@ -8,9 +8,11 @@
   "id": "beat_29_copymv54phfs1",
   "locations": [],
   "name": "cafeteria, ignore",
+  "node": "asset_1791983560443_4qfv1iz0h",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
+    "node": "asset_1791983560443_4qfv1iz0h",
     "text": "ignore"
   },
   "type": "infoText",
