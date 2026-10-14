@@ -43,10 +43,10 @@
       {
         "conditions": [
           {
-            "operator": ">",
-            "type": "counter",
-            "value": 1,
-            "variableName": "relief"
+            "operator": "==",
+            "type": "variable",
+            "value": true,
+            "variableName": "intervention"
           }
         ],
         "effects": [
