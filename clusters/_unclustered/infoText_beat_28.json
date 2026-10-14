@@ -2,7 +2,7 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_15"
+      "targetId": "beat_53"
     }
   ],
   "id": "beat_28",
@@ -14,6 +14,6 @@
     "text": "Though you’re not quite sure why, you decide to bring out your phone and record. Maybe you can show it to a teacher later, maybe it’ll get attention online or maybe you’ll just keep it for yourself. Either way, you try to record to the best of your abilities without either of the two noticing."
   },
   "type": "infoText",
-  "x": 449.2570426217558,
-  "y": -184.48376170379277
+  "x": 147.72372016379245,
+  "y": -170.12503206293735
 }

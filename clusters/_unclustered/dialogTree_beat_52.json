@@ -19,7 +19,7 @@
                         "choices": [
                           {
                             "id": "choice_1791975395441",
-                            "target": "beat_15",
+                            "target": "beat_53",
                             "text": "Bye, meanie.",
                             "visible": true
                           }
@@ -63,6 +63,6 @@
   },
   "showSpeaker": true,
   "type": "dialogTree",
-  "x": 581.2540919205057,
-  "y": -453.6868860185475
+  "x": 319.9252124569375,
+  "y": -436.45641044952106
 }

@@ -2,7 +2,7 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_15"
+      "targetId": "beat_53"
     }
   ],
   "id": "beat_27",
@@ -14,6 +14,6 @@
     "text": "You decide to simply try your best and ignore it, like you’ve done many times before. Though, you haven’t been this consciously aware of it for a while, ignoring it is what you, and everyone else, always does. Risking drawing Billie’s attention to yourself just isn’t worth it.\n"
   },
   "type": "infoText",
-  "x": 445.14431427646764,
-  "y": -302.22534309098876
+  "x": 129.25226217764907,
+  "y": -296.4818512346466
 }
