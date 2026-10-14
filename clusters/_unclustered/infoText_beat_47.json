@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_48"
+    }
+  ],
+  "id": "beat_47",
+  "locations": [],
+  "name": "NE 12",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Wake up",
+    "text": "You dream of the train again, its destination still unknown to you."
+  },
+  "type": "infoText",
+  "x": 5507.328756605126,
+  "y": -364.5749981323562
+}

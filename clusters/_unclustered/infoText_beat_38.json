@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_39"
+    }
+  ],
+  "id": "beat_38",
+  "locations": [],
+  "name": "NE 4",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Think about it anyway",
+    "text": "You try not to think about it on your journey to school."
+  },
+  "type": "infoText",
+  "x": 3868.215851781206,
+  "y": -423.72356352182095
+}

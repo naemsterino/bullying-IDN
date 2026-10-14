@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_41"
+    }
+  ],
+  "id": "beat_40",
+  "locations": [],
+  "name": "NE  6",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "And wait",
+    "text": "You are the first one here. Unsurprising, considering class doesn't start for another 30 minutes. This is the first time you have been this early, you think to yourself, as you sit down toward the back and wait. And wait."
+  },
+  "type": "infoText",
+  "x": 4237.169917750394,
+  "y": -432.9763517879305
+}

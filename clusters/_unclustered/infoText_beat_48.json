@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_49"
+    }
+  ],
+  "id": "beat_48",
+  "locations": [],
+  "name": "NE 13",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Hear them out",
+    "text": "As you wake, you see your parents standing next to your bed, dark circles under their tired eyes. They stayed up last night after you went to sleep, discussing different ways to fix your difficult situation and they are very happy to tell you that they have found a solution to all of your problems!"
+  },
+  "type": "infoText",
+  "x": 5693.368647011086,
+  "y": -440.9736945215717
+}

@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_42"
+    }
+  ],
+  "id": "beat_41",
+  "locations": [],
+  "name": "NE 7",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Ignore them",
+    "text": "The ringing bell jolts you awake. Some of your classmates giggle at your startled expression, and you feel your cheeks flush with heat."
+  },
+  "type": "infoText",
+  "x": 4408.771747912347,
+  "y": -353.66267942109357
+}

@@ -1,10 +1,31 @@
 {
   "v": 1,
-  "locks": {
-    "beat_20": {
+  "locks": {}
+}
+ "beat_47": {
       "user": "Naemi",
-      "since": "2026-10-13T12:31:38.941Z",
-      "beat": "tell someone?"
+      "since": "2026-10-14T10:38:06.637Z",
+      "beat": "NE 12"
+    },
+    "beat_48": {
+      "user": "Naemi",
+      "since": "2026-10-14T10:38:08.738Z",
+      "beat": "NE 13"
+    },
+    "beat_49": {
+      "user": "Naemi",
+      "since": "2026-10-14T10:38:11.358Z",
+      "beat": "NE 14"
+    },
+    "beat_50": {
+      "user": "Naemi",
+      "since": "2026-10-14T10:38:14.813Z",
+      "beat": "NE 15"
+    },
+    "beat_8": {
+      "user": "Naemi",
+      "since": "2026-10-14T10:38:17.568Z",
+      "beat": "change school"
     }
   }
 }

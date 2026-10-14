@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_46"
+    }
+  ],
+  "id": "beat_45",
+  "locations": [],
+  "name": "NE 10",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Talk to your parents",
+    "text": "A few days pass, each similar to the one you just had. Each chipping away at you. You hate this feeling. Soon, you start finding excuses not to go to school. A dry throat in the morning becomes a cough, becomes a cold that gives you a killer headache. A late night avoiding sleep becomes a vague illness you struggle to convince your parents of the next day. It doesn't always work, and one evening after another week of failing to convince them that everything is totally okay actually, you cave."
+  },
+  "type": "infoText",
+  "x": 5143.528076288766,
+  "y": -360.18804015130377
+}

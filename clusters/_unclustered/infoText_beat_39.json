@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_40"
+    }
+  ],
+  "id": "beat_39",
+  "locations": [],
+  "name": "NE 5",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Open the door",
+    "text": "When you arrive at school, you make sure to avoid as many people as possible as you hurry your way to the classroom. "
+  },
+  "type": "infoText",
+  "x": 4051.9486324546533,
+  "y": -354.19981649755476
+}

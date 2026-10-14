@@ -1,0 +1,36 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "label": "true",
+      "targetId": "beat_43"
+    },
+    {
+      "label": "false",
+      "targetId": "beat_44"
+    }
+  ],
+  "id": "beat_51",
+  "locations": [],
+  "name": "check for Stan",
+  "parameters": {
+    "compareSource": "inventory",
+    "condition": {
+      "operator": "==",
+      "type": "variable",
+      "value": true,
+      "variableName": "intervention"
+    },
+    "conditionType": "variable",
+    "falseTarget": "beat_44",
+    "moodAxis": "valence",
+    "operator": "==",
+    "quantityCheck": false,
+    "trueTarget": "beat_43",
+    "value": true,
+    "variableName": "intervention"
+  },
+  "type": "conditionBeat",
+  "x": 4759.0929822842945,
+  "y": -356.93043256454234
+}

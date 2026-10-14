@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_37"
+    }
+  ],
+  "id": "beat_36",
+  "locations": [],
+  "name": "NE 2",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Wake up",
+    "text": "You dream of a train ride. The sun is rising and there is a slight drizzle hitting the windows.\nYou don't know where the train will take you."
+  },
+  "type": "infoText",
+  "x": 3492.3184261179254,
+  "y": -417.9849215767613
+}
