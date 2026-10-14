@@ -8,11 +8,11 @@
   "id": "beat_29_copymv54phfs1",
   "locations": [],
   "name": "cafeteria, ignore",
-  "node": "asset_1791985011945_13hz1v2rc",
+  "node": "asset_1791985733410_nufvbhp",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "node": "asset_1791985011945_13hz1v2rc",
+    "node": "asset_1791985733410_nufvbhp",
     "text": "You don’t really see a reason to pay any mind to what Vic is doing. You simply get your food and walk towards your friends. Then you sit down and start chatting together like usual."
   },
   "type": "infoText",

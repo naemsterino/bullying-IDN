@@ -4,9 +4,9 @@
   "id": "beat_54",
   "locations": [],
   "name": "apologise conversation",
-  "node": "asset_1791985011945_13hz1v2rc",
+  "node": "asset_1791985733410_nufvbhp",
   "parameters": {
-    "backgroundAssetId": "asset_1791985011945_13hz1v2rc",
+    "backgroundAssetId": "asset_1791985733410_nufvbhp",
     "dialogTree": {
       "choices": [
         {
@@ -108,11 +108,11 @@
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
-    "node": "asset_1791985011945_13hz1v2rc",
+    "node": "asset_1791985733410_nufvbhp",
     "showAvatars": true
   },
   "showSpeaker": true,
   "type": "dialogTree",
-  "x": 681.8734854658667,
+  "x": 683.1234854658667,
   "y": -513.2691593782349
 }

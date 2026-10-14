@@ -8,11 +8,11 @@
   "id": "beat_15",
   "locations": [],
   "name": "bully start - lunch",
-  "node": "asset_1791985011945_13hz1v2rc",
+  "node": "asset_1791985733410_nufvbhp",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "node": "asset_1791985011945_13hz1v2rc",
+    "node": "asset_1791985733410_nufvbhp",
     "text": "The lunch bell rings, and it’s finally time for lunch. Today, beef stew and mashed potatoes are on the menu. It’s not Pancake Friday, but it could’ve been worse. You get your food and start heading further into the school cafeteria to scan for your friends. You notice them sitting nearby, but before you approach them, you notice Vic standing not too far behind you with a freshly filled lunch tray in their hand.\n\nIt seems like Vic hasn’t noticed you yet and is about to walk in your direction."
   },
   "type": "infoText",

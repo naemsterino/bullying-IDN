@@ -8,12 +8,14 @@
   "id": "beat_60",
   "locations": [],
   "name": "trip conclusion",
+  "node": "asset_1791985733410_nufvbhp",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
+    "node": "asset_1791985733410_nufvbhp",
     "text": "After what just happened, you walk to your friends who are sitting nearby, who likely saw the whole thing. As you sit down, you all look at each other and start laughing over the absurdity of the situation. You’ve had to deal with much worse things at home, so you think it’s unfair for Vic to react so intensely for something so small, you were only joking after all. In the back of your mind, however, you can’t help but wonder where Vic ran off to. Your lunch break then continues as normal as you chat with your friends. "
   },
   "type": "infoText",
-  "x": 821.9049730366289,
+  "x": 823.1549730366289,
   "y": -10.181117714493098
 }
