@@ -8,11 +8,11 @@
   "id": "beat_29_copymv54phfs1_copymv54po2v1",
   "locations": [],
   "name": "cafeteria, trip",
-  "node": "asset_1791983560443_4qfv1iz0h",
+  "node": "asset_1791985011945_13hz1v2rc",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "node": "asset_1791983560443_4qfv1iz0h",
+    "node": "asset_1791985011945_13hz1v2rc",
     "text": "trip"
   },
   "type": "infoText",
