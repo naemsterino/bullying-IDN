@@ -1,10 +1,20 @@
 {
   "v": 1,
   "locks": {
-    "beat_15": {
-      "user": "Naemi",
-      "since": "2026-10-14T13:49:29.467Z",
-      "beat": "bully start - lunch"
+    "beat_29_copymv54phfs1_copymv54po2v1": {
+      "user": "elliezero",
+      "since": "2026-10-14T13:41:50.905Z",
+      "beat": "cafeteria, trip"
+    },
+    "beat_29_copymv54phfs1": {
+      "user": "elliezero",
+      "since": "2026-10-14T13:43:27.540Z",
+      "beat": "cafeteria, ignore"
+    },
+    "beat_52": {
+      "user": "elliezero",
+      "since": "2026-10-14T13:47:48.071Z",
+      "beat": "Intervene Dialogue"
     }
   }
 }

@@ -8,7 +8,6 @@
   "parameters": {
     "backgroundAssetId": "asset_1791983560572_k7h6c1ji3",
     "dialogTree": {
-      "characterRef": "NPC",
       "choices": [
         {
           "dialogNode": {
@@ -27,7 +26,7 @@
                           }
                         ],
                         "id": "node_1791975375033",
-                        "speaker": "NPC",
+                        "speaker": "Billie",
                         "text": "Whatever. You’re no fun."
                       },
                       "id": "choice_1791975365359",
@@ -36,7 +35,7 @@
                     }
                   ],
                   "id": "node_1791975355751",
-                  "speaker": "NPC",
+                  "speaker": "Billie",
                   "text": "Vic raised their voice at me!"
                 },
                 "id": "choice_1791975340685",
@@ -45,7 +44,7 @@
               }
             ],
             "id": "node_1791975332812",
-            "speaker": "NPC",
+            "speaker": "Billie",
             "text": "And what are you going to do if I don’t?\n"
           },
           "id": "choice_1791975319893",
@@ -55,7 +54,7 @@
       ],
       "emotion": "neutral",
       "id": "root",
-      "speaker": "NPC",
+      "speaker": "Billie",
       "text": "What the hell, Vic!?"
     },
     "effectsOncePerChoice": false,
