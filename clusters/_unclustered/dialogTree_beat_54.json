@@ -33,52 +33,52 @@
                                                   {
                                                     "id": "choice_1791979238287",
                                                     "target": "beat_55",
-                                                    "text": "Bye!",
+                                                    "text": "\"Bye!\"",
                                                     "visible": true
                                                   }
                                                 ],
                                                 "id": "node_1791979224432",
                                                 "speaker": "Vic",
-                                                "text": " thanks… bye."
+                                                "text": "\"thanks… bye.\""
                                               },
                                               "id": "choice_1791979196003",
-                                              "text": "So uh, I'm gonna go now… but, enjoy your lunch!",
+                                              "text": "\"So uh, I'm gonna go now… but, enjoy your lunch!\"",
                                               "visible": true
                                             }
                                           ],
                                           "id": "node_1791979186495",
                                           "speaker": "Vic",
-                                          "text": "…cool."
+                                          "text": "\"…cool.\""
                                         },
                                         "id": "choice_1791979172228",
-                                        "text": "Cool.",
+                                        "text": "\"Cool.\"",
                                         "visible": true
                                       }
                                     ],
                                     "id": "node_1791979131680",
                                     "speaker": "Vic",
-                                    "text": "Oh, well… thanks.\n"
+                                    "text": "\"Oh, well… thanks.\""
                                   },
                                   "id": "choice_1791979119268",
-                                  "text": "I didn’t mean for things to escalate like they did…",
+                                  "text": "\"I didn’t mean for things to escalate like they did…\"",
                                   "visible": true
                                 }
                               ],
                               "id": "node_1791979109666",
                               "speaker": "Vic",
-                              "text": "Oh… okay."
+                              "text": "\"Oh… okay.\""
                             },
                             "id": "choice_1791979095327",
-                            "text": " Sooo… I just, you know, wanted to… apologise. For earlier.",
+                            "text": "\"Sooo… I just, you know, wanted to… apologise. For earlier.\"",
                             "visible": true
                           }
                         ],
                         "id": "node_1791979080254",
                         "speaker": "Vic",
-                        "text": "\\*sigh* ...fine."
+                        "text": "\"*sigh* ...fine.\""
                       },
                       "id": "choice_1791979065058",
-                      "text": " Please, don’t be like that! Just listen to me!",
+                      "text": "\"Please, don’t be like that! Just listen to me!\"",
                       "visible": true
                     }
                   ],
@@ -87,23 +87,23 @@
                   "text": "Come on Billie, just leave me alone.\n"
                 },
                 "id": "choice_1791979043910",
-                "text": "I just wanted to talk.\n",
+                "text": "\"I just wanted to talk.\"\n",
                 "visible": true
               }
             ],
             "id": "node_1791979034605",
             "speaker": "Vic",
-            "text": "…What do you want now?"
+            "text": "\"…What do you want now?\""
           },
           "id": "choice_1791979024309",
-          "text": "Hey don’t ignore me, I know you can hear me.",
+          "text": "\"Hey don’t ignore me, I know you can hear me.\"",
           "visible": true
         }
       ],
       "emotion": "neutral",
       "id": "root",
       "speaker": "Vic",
-      "text": "…"
+      "text": "\"…\""
     },
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
