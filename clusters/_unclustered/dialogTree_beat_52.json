@@ -4,7 +4,9 @@
   "id": "beat_52",
   "locations": [],
   "name": "Intervene Dialogue",
+  "node": "asset_1791983560572_k7h6c1ji3",
   "parameters": {
+    "backgroundAssetId": "asset_1791983560572_k7h6c1ji3",
     "dialogTree": {
       "characterRef": "NPC",
       "choices": [
@@ -59,6 +61,7 @@
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
+    "node": "asset_1791983560572_k7h6c1ji3",
     "showAvatars": true
   },
   "showSpeaker": true,

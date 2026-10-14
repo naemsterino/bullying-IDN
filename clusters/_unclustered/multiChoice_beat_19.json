@@ -17,6 +17,7 @@
   "id": "beat_19",
   "locations": [],
   "name": "apologise or not",
+  "node": "asset_1791983560443_4qfv1iz0h",
   "parameters": {
     "choices": [
       {
@@ -56,6 +57,7 @@
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
+    "node": "asset_1791983560443_4qfv1iz0h",
     "question": "What do you do?",
     "speaker": ""
   },

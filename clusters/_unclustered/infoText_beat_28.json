@@ -8,9 +8,11 @@
   "id": "beat_28",
   "locations": [],
   "name": "schoolyard, film",
+  "node": "asset_1791983560572_k7h6c1ji3",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
+    "node": "asset_1791983560572_k7h6c1ji3",
     "text": "Though you’re not quite sure why, you decide to bring out your phone and record. Maybe you can show it to a teacher later, maybe it’ll get attention online or maybe you’ll just keep it for yourself. Either way, you try to record to the best of your abilities without either of the two noticing."
   },
   "type": "infoText",

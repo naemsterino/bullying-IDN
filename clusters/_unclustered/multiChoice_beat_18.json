@@ -17,6 +17,7 @@
   "id": "beat_18",
   "locations": [],
   "name": "help or no help",
+  "node": "asset_1791983560572_k7h6c1ji3",
   "parameters": {
     "choices": [
       {
@@ -53,6 +54,7 @@
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
+    "node": "asset_1791983560572_k7h6c1ji3",
     "question": "What do you do?",
     "speaker": ""
   },

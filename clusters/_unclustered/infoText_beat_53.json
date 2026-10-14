@@ -8,9 +8,11 @@
   "id": "beat_53",
   "locations": [],
   "name": "transition screen bystander to bully",
+  "node": "asset_1791983560443_4qfv1iz0h",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Go to lunch",
+    "node": "asset_1791983560443_4qfv1iz0h",
     "text": "The day continues…\n\nYou are now playing as **Billie**."
   },
   "type": "infoText",

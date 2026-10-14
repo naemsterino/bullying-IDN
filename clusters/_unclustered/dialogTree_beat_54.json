@@ -4,7 +4,9 @@
   "id": "beat_54",
   "locations": [],
   "name": "apologise conversation",
+  "node": "asset_1791983560443_4qfv1iz0h",
   "parameters": {
+    "backgroundAssetId": "asset_1791983560443_4qfv1iz0h",
     "dialogTree": {
       "choices": [
         {
@@ -106,10 +108,11 @@
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
+    "node": "asset_1791983560443_4qfv1iz0h",
     "showAvatars": true
   },
   "showSpeaker": true,
   "type": "dialogTree",
-  "x": 1323.9231583837682,
+  "x": 1325.1731583837682,
   "y": -532.4897517701957
 }
