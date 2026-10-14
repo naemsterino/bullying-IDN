@@ -3,7 +3,7 @@
   "connections": [
     {
       "label": "true",
-      "targetId": "beat_23"
+      "targetId": "beat_35"
     },
     {
       "label": "false",
@@ -26,7 +26,7 @@
     "moodAxis": "valence",
     "operator": "==",
     "quantityCheck": false,
-    "trueTarget": "beat_23",
+    "trueTarget": "beat_35",
     "value": "true",
     "variableName": "call"
   },
