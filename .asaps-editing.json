@@ -1,20 +1,10 @@
 {
   "v": 1,
   "locks": {
-    "beat_27": {
+    "beat_55": {
       "user": "elliezero",
-      "since": "2026-10-14T11:47:29.658Z",
-      "beat": "schoolyard, ignore"
-    },
-    "beat_52": {
-      "user": "elliezero",
-      "since": "2026-10-14T11:48:18.414Z",
-      "beat": "Intervene Dialogue"
-    },
-    "beat_53": {
-      "user": "elliezero",
-      "since": "2026-10-14T11:48:17.199Z",
-      "beat": "Transition screen bystander to bully"
+      "since": "2026-10-14T12:15:19.930Z",
+      "beat": "apology-conclusion"
     }
   }
 }

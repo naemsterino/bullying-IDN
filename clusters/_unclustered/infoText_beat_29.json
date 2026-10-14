@@ -2,7 +2,7 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_14"
+      "targetId": "beat_54"
     }
   ],
   "id": "beat_29",
@@ -10,8 +10,8 @@
   "name": "cafeteria, apologise",
   "parameters": {
     "backgroundSound": "",
-    "buttonText": "Continue",
-    "text": "apologise"
+    "buttonText": "Hey Vic!",
+    "text": "Seeing Vic reminds you of what happened in the schoolyard earlier. Feeling a sense of regret wash over you, you want to take this opportunity to try and talk to them about what happened. You think that maybe apologising will release you from the guilt you’ve been feeling ever since this morning.\n\nYou turn around and start moving towards Vic. You know Vic notices you, even if they desperately try to avoid eye contact. You think to yourself that if you start up a conversation, they’ll have no choice but to talk to you."
   },
   "type": "infoText",
   "x": 1132.1805115545276,

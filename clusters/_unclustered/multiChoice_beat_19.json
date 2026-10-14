@@ -2,15 +2,15 @@
   "_format": "1.0",
   "connections": [
     {
-      "label": "apologise",
+      "label": "Approach Vic to apologise for earlier",
       "targetId": "beat_29"
     },
     {
-      "label": "ignore",
+      "label": "Ignore Vic and go to your friends",
       "targetId": "beat_29_copymv54phfs1"
     },
     {
-      "label": "trip",
+      "label": "Attempt to trip Vic over as a joke",
       "targetId": "beat_29_copymv54phfs1_copymv54po2v1"
     }
   ],
@@ -38,19 +38,19 @@
         "id": "choice_1791798479933",
         "location": "",
         "target": "beat_29",
-        "text": "apologise"
+        "text": "Approach Vic to apologise for earlier"
       },
       {
         "id": "choice_1791798482885",
         "location": "",
         "target": "beat_29_copymv54phfs1",
-        "text": "ignore"
+        "text": "Ignore Vic and go to your friends"
       },
       {
         "id": "choice_1791798581947",
         "location": "",
         "target": "beat_29_copymv54phfs1_copymv54po2v1",
-        "text": "trip"
+        "text": "Attempt to trip Vic over as a joke"
       }
     ],
     "effectsOncePerChoice": false,
