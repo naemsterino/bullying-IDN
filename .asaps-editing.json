@@ -1,26 +1,10 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_29_copymv54phfs1_copymv54po2v1": {
+  "locks": {
+    "beat_60": {
       "user": "elliezero",
-      "since": "2026-10-14T13:41:50.905Z",
-      "beat": "cafeteria, trip"
-    },
-    "beat_29_copymv54phfs1": {
-      "user": "elliezero",
-      "since": "2026-10-14T13:43:27.540Z",
-      "beat": "cafeteria, ignore"
-    },
-    "beat_52": {
-      "user": "elliezero",
-      "since": "2026-10-14T13:47:48.071Z",
-      "beat": "Intervene Dialogue"
-    },
-    "beat_54": {
-      "user": "elliezero",
-      "since": "2026-10-14T14:10:48.308Z",
-      "beat": "apologise conversation"
+      "since": "2026-10-14T14:14:29.498Z",
+      "beat": "trip conclusion"
     }
   }
 }
