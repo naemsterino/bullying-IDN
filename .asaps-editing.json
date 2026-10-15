@@ -1,4 +1,15 @@
 {
   "v": 1,
-  "locks": {}
+  "locks": {
+    "beat_64": {
+      "user": "PixellyAAA",
+      "since": "2026-10-15T20:43:23.611Z",
+      "beat": "InfoText beat_64"
+    },
+    "beat_63": {
+      "user": "PixellyAAA",
+      "since": "2026-10-15T20:43:28.304Z",
+      "beat": "GE1-1"
+    }
+  }
 }

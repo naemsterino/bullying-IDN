@@ -1,0 +1,13 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_64",
+  "locations": [],
+  "name": "InfoText beat_64",
+  "parameters": {
+    "text": ""
+  },
+  "type": "infoText",
+  "x": 3858.1036155767347,
+  "y": -687.3533614012879
+}

@@ -97,6 +97,24 @@
       "size": 417874,
       "type": "image",
       "uploadedAt": "2026-10-15T20:03:36.840Z"
+    },
+    "asset_1792097043010_awzg87g8k": {
+      "filename": "Screenshot 2026-10-15 213008.png",
+      "folder": "backgrounds",
+      "id": "asset_1792097043010_awzg87g8k",
+      "mimeType": "image/png",
+      "size": 1065019,
+      "type": "image",
+      "uploadedAt": "2026-10-15T20:44:03.010Z"
+    },
+    "asset_1792097054478_u3l90w2zu": {
+      "filename": "Screenshot 2026-10-15 213008.png",
+      "folder": "backgrounds",
+      "id": "asset_1792097054478_u3l90w2zu",
+      "mimeType": "image/png",
+      "size": 1065019,
+      "type": "image",
+      "uploadedAt": "2026-10-15T20:44:14.478Z"
     }
   }
 }

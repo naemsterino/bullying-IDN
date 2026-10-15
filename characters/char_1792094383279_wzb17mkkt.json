@@ -5,6 +5,7 @@
   "defaultState": "default",
   "description": "Nice bloke",
   "displayName": "Stan",
+  "goals": [],
   "id": "char_1792094383279_wzb17mkkt",
   "inventory": [],
   "name": "Stan",
@@ -23,6 +24,7 @@
     }
   ],
   "tags": [],
+  "traits": [],
   "updatedAt": "2026-10-15T20:05:17.310Z",
   "visual": {
     "defaultAssetId": "asset_1792094616840_by97a7t5b",

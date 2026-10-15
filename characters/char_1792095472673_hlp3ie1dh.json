@@ -1,0 +1,32 @@
+{
+  "_format": "1.0",
+  "counters": [],
+  "createdAt": "2026-10-15T20:17:52.673Z",
+  "defaultState": "default",
+  "description": "Place holder image.",
+  "displayName": "Billie",
+  "goals": [],
+  "id": "char_1792095472673_hlp3ie1dh",
+  "inventory": [],
+  "name": "Billie",
+  "portrait": {
+    "assetId": "asset_1792097043010_awzg87g8k",
+    "image": "blob:file:///1b680855-05ce-4f2e-890e-f0dc4e32dea3"
+  },
+  "role": "npc",
+  "states": [
+    {
+      "displayName": "Default",
+      "id": "default",
+      "name": "default",
+      "visual": {}
+    }
+  ],
+  "tags": [],
+  "traits": [],
+  "updatedAt": "2026-10-15T20:44:58.383Z",
+  "visual": {
+    "defaultAssetId": "asset_1792097054478_u3l90w2zu",
+    "type": "static"
+  }
+}

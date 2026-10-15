@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_64"
+    }
+  ],
+  "id": "beat_63",
+  "locations": [],
+  "name": "GE1-1",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "You're at the school yard waiting for the school bus to depart. Billie and the other three are also there.  "
+  },
+  "type": "infoText",
+  "x": 3558.76638086365,
+  "y": -671.3353221224297
+}
