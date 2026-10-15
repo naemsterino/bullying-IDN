@@ -1,0 +1,31 @@
+{
+  "_format": "1.0",
+  "counters": [],
+  "createdAt": "2026-10-15T19:59:43.279Z",
+  "defaultState": "default",
+  "description": "Nice bloke",
+  "displayName": "Stan",
+  "id": "char_1792094383279_wzb17mkkt",
+  "inventory": [],
+  "name": "Stan",
+  "portrait": {
+    "assetId": "asset_1792094443472_tg4wngwa7",
+    "image": "blob:file:///b9e8f022-3d88-43c0-92c5-367fc7bc3cf7"
+  },
+  "pronouns": "he",
+  "role": "npc",
+  "states": [
+    {
+      "displayName": "Default",
+      "id": "default",
+      "name": "default",
+      "visual": {}
+    }
+  ],
+  "tags": [],
+  "updatedAt": "2026-10-15T20:05:17.310Z",
+  "visual": {
+    "defaultAssetId": "asset_1792094616840_by97a7t5b",
+    "type": "static"
+  }
+}

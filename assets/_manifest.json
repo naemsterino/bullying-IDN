@@ -5,6 +5,7 @@
       "filename": "cafeteria.jpg",
       "folder": "backgrounds",
       "id": "asset_1791983560443_4qfv1iz0h",
+      "metadata": {},
       "mimeType": "image/jpeg",
       "size": 867075,
       "type": "image",
@@ -14,6 +15,7 @@
       "filename": "schoolyard.jpg",
       "folder": "backgrounds",
       "id": "asset_1791983560572_k7h6c1ji3",
+      "metadata": {},
       "mimeType": "image/jpeg",
       "size": 831517,
       "type": "image",
@@ -23,6 +25,7 @@
       "filename": "cafeteria_2.jpg",
       "folder": "backgrounds",
       "id": "asset_1791985011945_13hz1v2rc",
+      "metadata": {},
       "mimeType": "image/jpeg",
       "size": 935510,
       "type": "image",
@@ -32,6 +35,7 @@
       "filename": "cafeteria_3.jpg",
       "folder": "backgrounds",
       "id": "asset_1791985733410_nufvbhp",
+      "metadata": {},
       "mimeType": "image/jpeg",
       "size": 1032857,
       "type": "image",
@@ -41,6 +45,7 @@
       "filename": "Lady_Stops_Knife_Attack_while_Little_Mix_is_Playing_in_the_Background_Stan_Twitter_Meme.gif",
       "folder": "backgrounds",
       "id": "asset_1792062872848_uo2nedill",
+      "metadata": {},
       "mimeType": "image/gif",
       "size": 2846726,
       "type": "image",
@@ -50,6 +55,7 @@
       "filename": "Lady Stops Knife Attack while Little Mix is Playing in the Background Stan Twitter Meme.mp3",
       "folder": "sounds",
       "id": "asset_1792063169284_jxrxyg97i",
+      "metadata": {},
       "mimeType": "audio/mpeg",
       "size": 120285,
       "type": "audio",
@@ -59,10 +65,38 @@
       "filename": "Lady Stops Knife Attack while Little Mix is Playing in the Background Stan Twitter Meme_2.mp3",
       "folder": "sounds",
       "id": "asset_1792063279418_xjyfarnlp",
+      "metadata": {},
       "mimeType": "audio/mpeg",
       "size": 120285,
       "type": "audio",
       "uploadedAt": "2026-10-15T11:21:19.419Z"
+    },
+    "asset_1792094149468_yrq3nth03": {
+      "filename": "WhiteSchoolBusangel.jpg",
+      "folder": "backgrounds",
+      "id": "asset_1792094149468_yrq3nth03",
+      "mimeType": "image/jpeg",
+      "size": 99416,
+      "type": "image",
+      "uploadedAt": "2026-10-15T19:55:49.468Z"
+    },
+    "asset_1792094443472_tg4wngwa7": {
+      "filename": "Screenshot 2026-10-15 212821.png",
+      "folder": "backgrounds",
+      "id": "asset_1792094443472_tg4wngwa7",
+      "mimeType": "image/png",
+      "size": 2281498,
+      "type": "image",
+      "uploadedAt": "2026-10-15T20:00:43.472Z"
+    },
+    "asset_1792094616840_by97a7t5b": {
+      "filename": "Screenshot 2026-10-15 220319.png",
+      "folder": "backgrounds",
+      "id": "asset_1792094616840_by97a7t5b",
+      "mimeType": "image/png",
+      "size": 417874,
+      "type": "image",
+      "uploadedAt": "2026-10-15T20:03:36.840Z"
     }
   }
 }
