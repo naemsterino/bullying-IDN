@@ -1,15 +1,10 @@
 {
   "v": 1,
   "locks": {
-    "beat_18": {
+    "beat_60": {
       "user": "Naemi",
-      "since": "2026-10-15T10:46:31.301Z",
-      "beat": "help or no help"
-    },
-    "beat_19": {
-      "user": "Naemi",
-      "since": "2026-10-15T10:47:26.507Z",
-      "beat": "apologise or not"
+      "since": "2026-10-15T11:14:27.675Z",
+      "beat": "trip conclusion"
     }
   }
 }
