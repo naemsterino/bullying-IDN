@@ -108,13 +108,22 @@
       "uploadedAt": "2026-10-15T20:44:03.010Z"
     },
     "asset_1792097054478_u3l90w2zu": {
-      "filename": "Screenshot 2026-10-15 213008.png",
+      "filename": "Screenshot 2026-10-15 213008_2.png",
       "folder": "backgrounds",
       "id": "asset_1792097054478_u3l90w2zu",
       "mimeType": "image/png",
       "size": 1065019,
       "type": "image",
       "uploadedAt": "2026-10-15T20:44:14.478Z"
+    },
+    "asset_1792101231456_cxas2l7nn": {
+      "filename": "Stan.png",
+      "folder": "backgrounds",
+      "id": "asset_1792101231456_cxas2l7nn",
+      "mimeType": "image/png",
+      "size": 124805,
+      "type": "image",
+      "uploadedAt": "2026-10-15T21:53:51.456Z"
     }
   }
 }

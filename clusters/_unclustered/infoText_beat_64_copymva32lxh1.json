@@ -1,0 +1,51 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_64_copymva1z9h31_copymva3co0m1"
+    }
+  ],
+  "id": "beat_64_copymva32lxh1",
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792094383279_wzb17mkkt",
+      "characterName": "Stan",
+      "height": 541,
+      "id": "element_1792101247696",
+      "kind": "character",
+      "manuallyResized": true,
+      "name": "Stan",
+      "size": 28,
+      "stateId": "default",
+      "width": 294,
+      "x": 16,
+      "y": 488,
+      "zIndex": 0
+    },
+    {
+      "autosize": true,
+      "height": 150,
+      "id": "element_1792101310651",
+      "kind": "text",
+      "manuallyResized": true,
+      "name": "Text",
+      "textAlign": "center",
+      "width": 898,
+      "x": 118,
+      "y": 488,
+      "zIndex": 1
+    }
+  ],
+  "name": "GE1 -Stan 6",
+  "node": "asset_1792094149468_yrq3nth03",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792094149468_yrq3nth03",
+    "text": "Your jokes are only funny to you!  Tim was always the butt of the joke. To the point that he had to change schools!\n"
+  },
+  "type": "infoText",
+  "x": 5091.518473611837,
+  "y": -713.8183331182825
+}

@@ -41,6 +41,7 @@
     "project": {
       "aspectRatio": "4:3",
       "height": 768,
+      "orientation": "landscape",
       "scalingMode": "fit",
       "width": 1024
     },

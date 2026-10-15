@@ -8,10 +8,12 @@
   "id": "beat_63",
   "locations": [],
   "name": "GE1-1",
+  "node": "asset_1792094149468_yrq3nth03",
   "parameters": {
     "backgroundSound": "",
-    "buttonText": "Continue",
-    "text": "You're at the school yard waiting for the school bus to depart. Billie and the other three are also there.  "
+    "buttonText": "Listen",
+    "node": "asset_1792094149468_yrq3nth03",
+    "text": "You're at the school yard waiting for the school bus to depart. Billie is also there with her friends Pete, Cece and Neo.  Billie starts to act like as usual self and making jokes that are inappropriate towards Vic.\n\nYou get annoyed by her jokes and froze. \n\nYou see Stan is approaching the group. He seems to be unhappy that you have been ganged up on billie and the others. He gets in between you and  and them. \nYou hear the conversation."
   },
   "type": "infoText",
   "x": 3558.76638086365,

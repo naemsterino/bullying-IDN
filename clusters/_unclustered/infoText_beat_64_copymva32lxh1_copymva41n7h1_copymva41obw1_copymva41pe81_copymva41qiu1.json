@@ -1,0 +1,51 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_64_copymva1z9h31_copymva3cvn81"
+    }
+  ],
+  "id": "beat_64_copymva32lxh1_copymva41n7h1_copymva41obw1_copymva41pe81_copymva41qiu1",
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792094383279_wzb17mkkt",
+      "characterName": "Stan",
+      "height": 541,
+      "id": "element_1792101247696",
+      "kind": "character",
+      "manuallyResized": true,
+      "name": "Stan",
+      "size": 28,
+      "stateId": "default",
+      "width": 294,
+      "x": 16,
+      "y": 488,
+      "zIndex": 0
+    },
+    {
+      "autosize": true,
+      "height": 150,
+      "id": "element_1792101310651",
+      "kind": "text",
+      "manuallyResized": true,
+      "name": "Text",
+      "textAlign": "center",
+      "width": 898,
+      "x": 118,
+      "y": 488,
+      "zIndex": 1
+    }
+  ],
+  "name": "GE1 -Stan 7",
+  "node": "asset_1792094149468_yrq3nth03",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792094149468_yrq3nth03",
+    "text": "Yes, you have! You made this school unbearable with your so-called “humour” for him. Now you're doing the same to Vic. "
+  },
+  "type": "infoText",
+  "x": 5351.58637330063,
+  "y": -717.0465659520028
+}

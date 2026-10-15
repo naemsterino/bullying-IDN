@@ -8,12 +8,14 @@
   "id": "beat_22",
   "locations": [],
   "name": "good end 1",
+  "node": "asset_1792094149468_yrq3nth03",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
+    "node": "asset_1792094149468_yrq3nth03",
     "text": "you have a new friend and are no longer being bullied"
   },
   "type": "infoText",
-  "x": 3273.597788103819,
+  "x": 3272.347788103819,
   "y": -644.4490663455086
 }

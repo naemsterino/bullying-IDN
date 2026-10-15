@@ -1,0 +1,62 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_64_copymva32lxh1_copymva32rxq1_copymva331d41"
+    }
+  ],
+  "id": "beat_64_copymva1z9h31_copymva3cj0e1",
+  "locations": [
+    {
+      "autosize": true,
+      "height": 212,
+      "id": "element_text_1792101768870_0",
+      "kind": "dialog",
+      "manuallyResized": true,
+      "name": "Text",
+      "textAlign": "center",
+      "width": 794,
+      "x": 15,
+      "y": 3,
+      "zIndex": 0
+    },
+    {
+      "autosize": true,
+      "height": 43,
+      "id": "element_continueButton_1792101768870_1",
+      "kind": "button",
+      "name": "Continue Button",
+      "textAlign": "center",
+      "width": 160,
+      "x": 432,
+      "y": 668,
+      "zIndex": 1
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792095472673_hlp3ie1dh",
+      "characterName": "Billie",
+      "height": 987,
+      "id": "element_1792101774175",
+      "kind": "character",
+      "name": "Billie",
+      "size": 22,
+      "stateId": "default",
+      "width": 986,
+      "x": 814,
+      "y": 0,
+      "zIndex": 2
+    }
+  ],
+  "name": "GE1- Billie Dialogue 2",
+  "node": "asset_1792094149468_yrq3nth03",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792094149468_yrq3nth03",
+    "text": "It's not my problem if Vic  has no sense of humour either! They can benefit from relaxing a bit more.\n"
+  },
+  "type": "infoText",
+  "x": 4192.244450676819,
+  "y": -726.6304123399105
+}

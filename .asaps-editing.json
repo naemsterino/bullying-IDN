@@ -1,15 +1,30 @@
 {
   "v": 1,
   "locks": {
-    "beat_64": {
+    "beat_64_copymva32lxh1_copymva41n7h1_copymva41obw1_copymva41pe81": {
       "user": "PixellyAAA",
-      "since": "2026-10-15T20:43:23.611Z",
-      "beat": "InfoText beat_64"
+      "since": "2026-10-15T23:05:24.814Z",
+      "beat": "GE1 -Stan 8"
     },
-    "beat_63": {
+    "beat_64_copymva1z9h31_copymva3d1m11": {
       "user": "PixellyAAA",
-      "since": "2026-10-15T20:43:28.304Z",
-      "beat": "GE1-1"
+      "since": "2026-10-15T23:05:32.191Z",
+      "beat": "GE1- Billie 9"
+    },
+    "beat_64_copymva32lxh1_copymva41n7h1_copymva41obw1": {
+      "user": "PixellyAAA",
+      "since": "2026-10-15T23:05:37.004Z",
+      "beat": "GE1 -Stan 9"
+    },
+    "beat_64_copymva1z9h31_copymva3d1m11_copymva4fdcw1": {
+      "user": "PixellyAAA",
+      "since": "2026-10-15T23:05:41.028Z",
+      "beat": "GE1- Billie  10"
+    },
+    "beat_64_copymva1z9h31_copymva3cyf81": {
+      "user": "PixellyAAA",
+      "since": "2026-10-15T23:09:52.827Z",
+      "beat": "GE1- Billie 5"
     }
   }
 }
