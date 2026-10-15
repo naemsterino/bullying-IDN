@@ -28,6 +28,12 @@
     "showCredits": false,
     "showRestart": true
   },
+  "sound": {
+    "assetId": "asset_1792063279418_xjyfarnlp",
+    "file": "asset_1792063279418_xjyfarnlp",
+    "loop": false,
+    "volume": 1
+  },
   "type": "endScreen",
   "x": 3318.780698468848,
   "y": -517.1919676299228
