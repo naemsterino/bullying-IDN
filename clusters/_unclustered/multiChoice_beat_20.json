@@ -24,7 +24,7 @@
           {
             "operator": "==",
             "type": "variable",
-            "value": "true",
+            "value": true,
             "variableName": "intervention"
           }
         ],
