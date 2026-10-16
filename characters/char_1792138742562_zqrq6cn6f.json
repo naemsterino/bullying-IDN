@@ -19,14 +19,24 @@
       "displayName": "Default",
       "id": "default",
       "name": "default",
-      "visual": {}
+      "visual": {
+        "assetId": "asset_1792139612023_hrnai2bk4"
+      }
+    },
+    {
+      "displayName": "angry",
+      "id": "state_1792139784102",
+      "name": "Angry",
+      "visual": {
+        "assetId": "asset_1792138926736_g9qbi8idp"
+      }
     }
   ],
   "tags": [
     "victim"
   ],
   "traits": [],
-  "updatedAt": "2026-10-16T08:33:33.103Z",
+  "updatedAt": "2026-10-16T08:36:35.985Z",
   "visual": {
     "defaultAssetId": "asset_1792139612023_hrnai2bk4",
     "type": "static"
