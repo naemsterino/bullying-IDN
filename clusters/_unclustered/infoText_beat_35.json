@@ -2,7 +2,7 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_36"
+      "targetId": "beat_37"
     }
   ],
   "id": "beat_35",
@@ -10,7 +10,7 @@
   "name": "NE 1",
   "parameters": {
     "backgroundSound": "",
-    "buttonText": "Go to bed",
+    "buttonText": "Go to sleep",
     "slotIntent": {
       "actions": {
         "anchor": {

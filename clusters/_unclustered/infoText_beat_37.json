@@ -12,7 +12,7 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Leave the house",
-    "text": "You go through your morning routine in a daze. You can't stop thinking about what will happen in class."
+    "text": "The next day, you go through your morning routine in a daze. You can't stop thinking about what will happen in class."
   },
   "type": "infoText",
   "x": 3438.8470446564143,

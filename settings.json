@@ -58,8 +58,8 @@
     },
     "textEffects": {
       "animation": "none",
-      "fadeInDuration": 200,
-      "typewriterSpeed": 15
+      "fadeInDuration": 500,
+      "typewriterSpeed": 50
     },
     "textbox": {
       "borderWidth": 1,

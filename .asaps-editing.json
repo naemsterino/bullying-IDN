@@ -1,10 +1,15 @@
 {
   "v": 1,
   "locks": {
-    "beat_49": {
+    "beat_46_copymv7zppeu1": {
       "user": "Naemi",
-      "since": "2026-10-16T10:04:52.237Z",
-      "beat": "NE 14"
+      "since": "2026-10-16T10:25:42.984Z",
+      "beat": "NE 11.5"
+    },
+    "beat_35": {
+      "user": "Naemi",
+      "since": "2026-10-16T10:26:09.088Z",
+      "beat": "NE 1"
     }
   }
 }
