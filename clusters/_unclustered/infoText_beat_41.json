@@ -8,9 +8,11 @@
   "id": "beat_41",
   "locations": [],
   "name": "NE 7",
+  "node": "asset_1792148623066_1",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Ignore them",
+    "node": "asset_1792148623066_1",
     "text": "The ringing bell jolts you awake. \n\nSome of your classmates giggle at your startled expression"
   },
   "type": "infoText",

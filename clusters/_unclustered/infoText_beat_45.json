@@ -8,9 +8,11 @@
   "id": "beat_45",
   "locations": [],
   "name": "NE 10",
+  "node": "asset_1792149123788_0",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Talk to your parents",
+    "node": "asset_1792149123788_0",
     "text": "A few days pass, each similar to the one you just had. Each chipping away at you. You hate this feeling. \n\nSoon, you start finding excuses not to go to school. A dry throat in the morning becomes a cough, becomes a cold that gives you a killer headache. A late night avoiding sleep becomes a vague illness you struggle to convince your parents of the next day. \n\nIt doesn't always work, and one evening after another week of failing to convince them that everything is totally okay actually, you cave."
   },
   "type": "infoText",

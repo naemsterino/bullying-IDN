@@ -8,9 +8,11 @@
   "id": "beat_42",
   "locations": [],
   "name": "NE 8",
+  "node": "asset_1792148623066_1",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Listen in",
+    "node": "asset_1792148623066_1",
     "text": "A few moments later, your teacher addresses the class."
   },
   "type": "infoText",

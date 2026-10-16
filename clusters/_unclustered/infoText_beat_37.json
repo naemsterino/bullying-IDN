@@ -9,9 +9,11 @@
   "id": "beat_37",
   "locations": [],
   "name": "NE 3",
+  "node": "asset_1792149123788_0",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Leave the house",
+    "node": "asset_1792149123788_0",
     "text": "The next day, you go through your morning routine in a daze. You can't stop thinking about what will happen in class."
   },
   "type": "infoText",

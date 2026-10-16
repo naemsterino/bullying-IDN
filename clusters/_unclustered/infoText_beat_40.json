@@ -8,9 +8,11 @@
   "id": "beat_40",
   "locations": [],
   "name": "NE  6",
+  "node": "asset_1792148623066_1",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "And wait",
+    "node": "asset_1792148623066_1",
     "text": "You are the first one here. Unsurprising, considering class doesn't start for another 30 minutes. \n\nThis is the first time you have been this early, you think to yourself, as you sit down toward the back and wait. And wait."
   },
   "type": "infoText",

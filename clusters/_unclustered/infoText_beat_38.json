@@ -8,9 +8,11 @@
   "id": "beat_38",
   "locations": [],
   "name": "NE 4",
+  "node": "asset_1792148623122_2",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Think about it anyway",
+    "node": "asset_1792148623122_2",
     "text": "You try not to think about it on your journey to school."
   },
   "type": "infoText",
