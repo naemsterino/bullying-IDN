@@ -141,13 +141,31 @@
       "uploadedAt": "2026-10-16T08:21:36.920Z"
     },
     "asset_1792138926736_g9qbi8idp": {
-      "filename": "Skärmavbild 2026-10-16 kl. 10.21.28.png",
+      "filename": "Skärmavbild 2026-10-16 kl. 10.21.28_2.png",
       "folder": "backgrounds",
       "id": "asset_1792138926736_g9qbi8idp",
       "mimeType": "image/png",
       "size": 218647,
       "type": "image",
       "uploadedAt": "2026-10-16T08:22:06.736Z"
+    },
+    "asset_1792139593810_48wjsnoed": {
+      "filename": "Skärmavbild 2026-10-16 kl. 10.32.57.png",
+      "folder": "backgrounds",
+      "id": "asset_1792139593810_48wjsnoed",
+      "mimeType": "image/png",
+      "size": 224955,
+      "type": "image",
+      "uploadedAt": "2026-10-16T08:33:13.810Z"
+    },
+    "asset_1792139612023_hrnai2bk4": {
+      "filename": "Skärmavbild 2026-10-16 kl. 10.32.57.png",
+      "folder": "backgrounds",
+      "id": "asset_1792139612023_hrnai2bk4",
+      "mimeType": "image/png",
+      "size": 224955,
+      "type": "image",
+      "uploadedAt": "2026-10-16T08:33:32.023Z"
     }
   }
 }
