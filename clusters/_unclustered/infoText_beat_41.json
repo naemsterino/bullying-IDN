@@ -11,7 +11,7 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Ignore them",
-    "text": "The ringing bell jolts you awake. \n\nSome of your classmates giggle at your startled expression, and you feel your cheeks flush with heat."
+    "text": "The ringing bell jolts you awake. \n\nSome of your classmates giggle at your startled expression"
   },
   "type": "infoText",
   "x": 4130.021747912347,

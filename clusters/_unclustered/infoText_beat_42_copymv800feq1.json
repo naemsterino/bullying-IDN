@@ -11,9 +11,9 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Look away",
-    "text": "It has come to their attention, they say, that some of you have not been very considerate toward your fellow classmates. \n\nThat, even if unintentional, sometimes the words we use hurt the people around us. That they are sure that none of you mean any harm and that they think that you are all such great kids, but that we all need to think about the things we do and the words we say, or we can end up being the reason why someone else's day gets ruined. That from now on, you should all take care to treat each other with the respect you all deserve. \n\nThey look at you and smile."
+    "text": "They have noticed, they say, that some of you have not been very considerate toward your fellow classmates. \n\nThat, even if unintentional, sometimes the words we use hurt the people around us. That they are sure that none of you mean any harm and that they think that you are all such great kids, but that we should always think about the things we do and the words we say, or we can end up being the reason why someone else's day gets ruined. That from now on, you should all take care to treat each other with the respect you all deserve. \n\nThey look at you and smile."
   },
   "type": "infoText",
-  "x": 4484.804886776612,
+  "x": 4486.054886776612,
   "y": -330.6556601080604
 }
