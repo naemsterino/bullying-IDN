@@ -1,0 +1,32 @@
+{
+  "_format": "1.0",
+  "counters": [],
+  "createdAt": "2026-10-16T08:19:02.562Z",
+  "defaultState": "default",
+  "description": "the VIC tim",
+  "displayName": "Vic",
+  "id": "char_1792138742562_zqrq6cn6f",
+  "inventory": [],
+  "name": "vic",
+  "portrait": {
+    "assetId": "asset_1792138896919_39j5x8kpi",
+    "image": "blob:file:///e6e95de1-dc89-4878-88fe-9bb3d226b84d"
+  },
+  "role": "npc",
+  "states": [
+    {
+      "displayName": "Default",
+      "id": "default",
+      "name": "default",
+      "visual": {}
+    }
+  ],
+  "tags": [
+    "victim"
+  ],
+  "updatedAt": "2026-10-16T08:22:08.644Z",
+  "visual": {
+    "defaultAssetId": "asset_1792138926736_g9qbi8idp",
+    "type": "static"
+  }
+}

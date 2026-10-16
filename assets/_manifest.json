@@ -75,6 +75,7 @@
       "filename": "WhiteSchoolBusangel.jpg",
       "folder": "backgrounds",
       "id": "asset_1792094149468_yrq3nth03",
+      "metadata": {},
       "mimeType": "image/jpeg",
       "size": 99416,
       "type": "image",
@@ -84,6 +85,7 @@
       "filename": "Screenshot 2026-10-15 212821.png",
       "folder": "backgrounds",
       "id": "asset_1792094443472_tg4wngwa7",
+      "metadata": {},
       "mimeType": "image/png",
       "size": 2281498,
       "type": "image",
@@ -93,6 +95,7 @@
       "filename": "Screenshot 2026-10-15 220319.png",
       "folder": "backgrounds",
       "id": "asset_1792094616840_by97a7t5b",
+      "metadata": {},
       "mimeType": "image/png",
       "size": 417874,
       "type": "image",
@@ -102,6 +105,7 @@
       "filename": "Screenshot 2026-10-15 213008.png",
       "folder": "backgrounds",
       "id": "asset_1792097043010_awzg87g8k",
+      "metadata": {},
       "mimeType": "image/png",
       "size": 1065019,
       "type": "image",
@@ -111,6 +115,7 @@
       "filename": "Screenshot 2026-10-15 213008_2.png",
       "folder": "backgrounds",
       "id": "asset_1792097054478_u3l90w2zu",
+      "metadata": {},
       "mimeType": "image/png",
       "size": 1065019,
       "type": "image",
@@ -120,10 +125,29 @@
       "filename": "Stan.png",
       "folder": "backgrounds",
       "id": "asset_1792101231456_cxas2l7nn",
+      "metadata": {},
       "mimeType": "image/png",
       "size": 124805,
       "type": "image",
       "uploadedAt": "2026-10-15T21:53:51.456Z"
+    },
+    "asset_1792138896919_39j5x8kpi": {
+      "filename": "Skärmavbild 2026-10-16 kl. 10.21.28.png",
+      "folder": "backgrounds",
+      "id": "asset_1792138896919_39j5x8kpi",
+      "mimeType": "image/png",
+      "size": 218647,
+      "type": "image",
+      "uploadedAt": "2026-10-16T08:21:36.920Z"
+    },
+    "asset_1792138926736_g9qbi8idp": {
+      "filename": "Skärmavbild 2026-10-16 kl. 10.21.28.png",
+      "folder": "backgrounds",
+      "id": "asset_1792138926736_g9qbi8idp",
+      "mimeType": "image/png",
+      "size": 218647,
+      "type": "image",
+      "uploadedAt": "2026-10-16T08:22:06.736Z"
     }
   }
 }
