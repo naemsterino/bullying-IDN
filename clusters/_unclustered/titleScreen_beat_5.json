@@ -11,6 +11,11 @@
   "parameters": {
     "author": "Ellie, Ivan, Jeremy, Maria, Milo, and Oğuz",
     "buttonText": "Start",
+    "slotIntent": {
+      "title": {
+        "preferredLines": 1
+      }
+    },
     "title": "Untitled Story"
   },
   "type": "titleScreen",

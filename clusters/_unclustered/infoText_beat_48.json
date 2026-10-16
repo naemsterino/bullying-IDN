@@ -8,9 +8,11 @@
   "id": "beat_48",
   "locations": [],
   "name": "NE 13",
+  "node": "asset_1792148623062_0",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Hear them out",
+    "node": "asset_1792148623062_0",
     "text": "As you wake, you see your parents standing next to your bed, dark circles under their tired eyes. \n\nThey stayed up last night after you went to sleep, discussing different ways to fix your difficult situation, and they are very happy to tell you that they have found a solution to all of your problems!"
   },
   "type": "infoText",

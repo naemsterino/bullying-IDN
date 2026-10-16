@@ -12,6 +12,7 @@
       "characterId": "char_1792094383279_wzb17mkkt",
       "characterName": "Stan",
       "height": 541,
+      "heightPercent": 75.13888888888889,
       "id": "element_1792101247696",
       "kind": "character",
       "manuallyResized": true,
@@ -19,22 +20,12 @@
       "size": 28,
       "stateId": "default",
       "width": 294,
+      "widthPercent": 22.96875,
       "x": 16,
+      "xPercent": 1.25,
       "y": 488,
+      "yPercent": 67.77777777777779,
       "zIndex": 0
-    },
-    {
-      "autosize": true,
-      "height": 150,
-      "id": "element_1792101310651",
-      "kind": "text",
-      "manuallyResized": true,
-      "name": "Text",
-      "textAlign": "center",
-      "width": 898,
-      "x": 118,
-      "y": 488,
-      "zIndex": 1
     }
   ],
   "name": "GE1 -Stan 8",
