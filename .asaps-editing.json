@@ -1,15 +1,9 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_27_copymv54nxbi1": {
-      "user": "elliezero",
-      "since": "2026-10-19T13:13:03.438Z",
-      "beat": "schoolyard, intervene"
-    },
+  "locks": {
     "beat_52": {
       "user": "elliezero",
-      "since": "2026-10-19T13:13:06.284Z",
+      "since": "2026-10-19T13:16:04.118Z",
       "beat": "Intervene Dialogue"
     }
   }

@@ -11,8 +11,8 @@
   "inventory": [],
   "name": "Billie",
   "portrait": {
-    "assetId": "asset_1792403794234_lrpxvdg6b",
-    "image": "blob:file:///ab622f2b-ec1a-42c4-a1c4-ca5dc2569a1e"
+    "assetId": "asset_1792415993247_4iu8cx8n5",
+    "image": "blob:file:///4d97ed92-a46c-4d39-bec6-1ad231ef491f"
   },
   "pronouns": "she",
   "role": "npc",
@@ -22,7 +22,7 @@
       "id": "default",
       "name": "default",
       "visual": {
-        "assetId": "asset_1792403828360_qdtgk75mp"
+        "assetId": "asset_1792415993247_4iu8cx8n5"
       }
     },
     {
@@ -46,7 +46,7 @@
     "bully"
   ],
   "traits": [],
-  "updatedAt": "2026-10-19T13:14:42.226Z",
+  "updatedAt": "2026-10-19T13:22:30.985Z",
   "visual": {
     "defaultAssetId": "asset_1792415480970_jdngdk1ad",
     "type": "static"

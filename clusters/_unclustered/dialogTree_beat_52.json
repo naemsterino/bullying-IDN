@@ -5,6 +5,21 @@
   "locations": [
     {
       "autosize": true,
+      "characterId": "char_1792095472673_hlp3ie1dh",
+      "characterName": "Billie",
+      "height": 1080,
+      "id": "element_1792416030079_0.17756214982744256",
+      "kind": "character",
+      "name": "Billie",
+      "size": 100,
+      "stateId": "default",
+      "width": 1920,
+      "x": 0,
+      "y": 0,
+      "zIndex": 4
+    },
+    {
+      "autosize": true,
       "height": 73,
       "id": "npc",
       "kind": "dialog",
@@ -12,7 +27,7 @@
       "width": 266,
       "x": 507,
       "y": 50,
-      "zIndex": 0
+      "zIndex": 2
     },
     {
       "autosize": true,
@@ -23,7 +38,7 @@
       "width": 200,
       "x": 540,
       "y": 143,
-      "zIndex": 1
+      "zIndex": 3
     }
   ],
   "name": "Intervene Dialogue",

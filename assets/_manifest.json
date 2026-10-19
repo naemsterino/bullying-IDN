@@ -281,6 +281,42 @@
       "size": 397624,
       "type": "image",
       "uploadedAt": "2026-10-19T13:14:18.886Z"
+    },
+    "asset_1792415817806_9wxdl42x6": {
+      "filename": "Billie_Neutral_2.png",
+      "folder": "backgrounds",
+      "id": "asset_1792415817806_9wxdl42x6",
+      "mimeType": "image/png",
+      "size": 163603,
+      "type": "image",
+      "uploadedAt": "2026-10-19T13:16:57.806Z"
+    },
+    "asset_1792415978738_2lq6602di": {
+      "filename": "Billie_Neutral.png",
+      "folder": "backgrounds",
+      "id": "asset_1792415978738_2lq6602di",
+      "mimeType": "image/png",
+      "size": 163603,
+      "type": "image",
+      "uploadedAt": "2026-10-19T13:19:38.739Z"
+    },
+    "asset_1792415988805_0ixoey8n1": {
+      "filename": "Billie_Neutral_2.png",
+      "folder": "backgrounds",
+      "id": "asset_1792415988805_0ixoey8n1",
+      "mimeType": "image/png",
+      "size": 163603,
+      "type": "image",
+      "uploadedAt": "2026-10-19T13:19:48.805Z"
+    },
+    "asset_1792415993247_4iu8cx8n5": {
+      "filename": "Billie_Neutral_3.png",
+      "folder": "backgrounds",
+      "id": "asset_1792415993247_4iu8cx8n5",
+      "mimeType": "image/png",
+      "size": 163603,
+      "type": "image",
+      "uploadedAt": "2026-10-19T13:19:53.247Z"
     }
   }
 }
