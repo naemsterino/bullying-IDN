@@ -11,11 +11,12 @@
       "id": "element_1792139021268_0.7443878187952708",
       "kind": "character",
       "name": "vic",
+      "size": 200,
       "stateId": "default",
       "width": 357,
-      "x": 334,
-      "y": 297,
-      "zIndex": 2
+      "x": 336,
+      "y": 589,
+      "zIndex": 3
     },
     {
       "autosize": true,
@@ -30,7 +31,7 @@
     },
     {
       "autosize": true,
-      "height": 74,
+      "height": 80,
       "id": "choice_0",
       "kind": "button",
       "name": "Choice 0",
@@ -159,7 +160,7 @@
       "text": "\"…\""
     },
     "effectsOncePerChoice": false,
-    "layoutTemplate": "stacked",
+    "layoutTemplate": "custom",
     "markVisited": false,
     "node": "asset_1791985733410_nufvbhp",
     "phaseOverrides": {
@@ -170,6 +171,7 @@
         }
       }
     },
+    "presentationMode": "positioned",
     "showAvatars": true
   },
   "showSpeaker": true,
