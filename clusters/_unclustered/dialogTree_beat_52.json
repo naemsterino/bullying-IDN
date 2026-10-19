@@ -27,7 +27,7 @@
       "width": 266,
       "x": 507,
       "y": 50,
-      "zIndex": 2
+      "zIndex": 5
     },
     {
       "autosize": true,
@@ -38,7 +38,7 @@
       "width": 200,
       "x": 540,
       "y": 143,
-      "zIndex": 3
+      "zIndex": 6
     }
   ],
   "name": "Intervene Dialogue",

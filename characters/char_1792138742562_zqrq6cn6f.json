@@ -28,14 +28,16 @@
       "displayName": "looking up",
       "id": "state_1792415304558",
       "name": "Looking up",
-      "visual": {}
+      "visual": {
+        "assetId": "asset_1792415310033_zb1a4jmg9"
+      }
     }
   ],
   "tags": [
     "victim"
   ],
   "traits": [],
-  "updatedAt": "2026-10-19T13:08:51.295Z",
+  "updatedAt": "2026-10-19T13:25:04.530Z",
   "visual": {
     "defaultAssetId": "asset_1792415278679_jbreo1kna",
     "type": "static"
