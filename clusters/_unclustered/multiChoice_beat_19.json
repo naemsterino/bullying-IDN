@@ -59,6 +59,7 @@
     "markVisited": false,
     "node": "asset_1791985733410_nufvbhp",
     "question": "What do you do?",
+    "slotIntent": {},
     "speaker": ""
   },
   "type": "multiChoice",

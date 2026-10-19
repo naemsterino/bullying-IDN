@@ -8,24 +8,42 @@
       "characterId": "char_1792138742562_zqrq6cn6f",
       "characterName": "vic",
       "height": 332,
-      "heightPercent": 46.111111111111114,
       "id": "element_1792139021268_0.7443878187952708",
       "kind": "character",
-      "manuallyResized": true,
       "name": "vic",
       "stateId": "default",
       "width": 357,
-      "widthPercent": 27.890625000000004,
       "x": 334,
-      "xPercent": 26.09375,
       "y": 297,
-      "yPercent": 41.25,
       "zIndex": 2
+    },
+    {
+      "autosize": true,
+      "height": 73,
+      "id": "npc",
+      "kind": "dialog",
+      "name": "NPC: Vic",
+      "width": 200,
+      "x": 860,
+      "y": 50,
+      "zIndex": 3
+    },
+    {
+      "autosize": true,
+      "height": 74,
+      "id": "choice_0",
+      "kind": "button",
+      "name": "Choice 0",
+      "width": 439,
+      "x": 286,
+      "y": 143,
+      "zIndex": 4
     }
   ],
   "name": "apologise conversation",
   "node": "asset_1791985733410_nufvbhp",
   "parameters": {
+    "allowSkipAhead": true,
     "backgroundAssetId": "asset_1791985733410_nufvbhp",
     "dialogTree": {
       "characterRef": "char_1792138742562_zqrq6cn6f",
@@ -141,11 +159,26 @@
       "root": {
         "choice_0": {
           "width": 439,
-          "x": 285.83333333333337
+          "x": 286
         }
       }
     },
-    "showAvatars": true
+    "presentationMode": "positioned",
+    "showAvatars": true,
+    "slotIntent": {
+      "actions": {
+        "anchor": {
+          "h": "center",
+          "v": "bottom"
+        }
+      },
+      "text": {
+        "anchor": {
+          "h": "center",
+          "v": "top"
+        }
+      }
+    }
   },
   "showSpeaker": true,
   "type": "dialogTree",

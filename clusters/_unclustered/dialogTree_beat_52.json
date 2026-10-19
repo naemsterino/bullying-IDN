@@ -2,7 +2,30 @@
   "_format": "1.0",
   "connections": [],
   "id": "beat_52",
-  "locations": [],
+  "locations": [
+    {
+      "autosize": true,
+      "height": 73,
+      "id": "npc",
+      "kind": "dialog",
+      "name": "NPC: Billie",
+      "width": 266,
+      "x": 507,
+      "y": 50,
+      "zIndex": 0
+    },
+    {
+      "autosize": true,
+      "height": 74,
+      "id": "choice_0",
+      "kind": "button",
+      "name": "Choice 0",
+      "width": 200,
+      "x": 540,
+      "y": 143,
+      "zIndex": 1
+    }
+  ],
   "name": "Intervene Dialogue",
   "node": "asset_1791983560572_k7h6c1ji3",
   "parameters": {
@@ -61,7 +84,25 @@
     "layoutTemplate": "stacked",
     "markVisited": false,
     "node": "asset_1791983560572_k7h6c1ji3",
-    "showAvatars": true
+    "phaseOverrides": {
+      "root": {
+        "choice_0": {
+          "width": 200,
+          "x": 540
+        }
+      }
+    },
+    "showAvatars": true,
+    "slotIntent": {
+      "actions": {
+        "anchor": {
+          "gap": 0,
+          "h": "center",
+          "relativeTo": "stage",
+          "v": "bottom"
+        }
+      }
+    }
   },
   "showSpeaker": true,
   "type": "dialogTree",

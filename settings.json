@@ -40,11 +40,11 @@
     },
     "project": {
       "aspectRatio": "16:9",
-      "height": 720,
+      "height": 1080,
       "layoutMode": "responsive",
       "orientation": "landscape",
       "scalingMode": "fit",
-      "width": 1280
+      "width": 1920
     },
     "sound": {
       "backgroundMusic": "",
@@ -58,7 +58,7 @@
       "nameStyle": "label"
     },
     "textEffects": {
-      "animation": "none",
+      "animation": "typewriter",
       "fadeInDuration": 300,
       "typewriterSpeed": 40
     },
