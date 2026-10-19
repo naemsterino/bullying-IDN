@@ -24,7 +24,7 @@
       "btnFont": "\"Noto Sans\", \"Segoe UI\", sans-serif",
       "fontSize": {
         "button": 18,
-        "text": 18,
+        "text": 20,
         "title": 42
       },
       "textFont": "\"Noto Sans\", \"Segoe UI\", sans-serif",
@@ -58,7 +58,7 @@
       "nameStyle": "label"
     },
     "textEffects": {
-      "animation": "typewriter",
+      "animation": "none",
       "fadeInDuration": 300,
       "typewriterSpeed": 40
     },

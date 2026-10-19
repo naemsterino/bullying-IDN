@@ -1,21 +1,15 @@
 {
   "v": 1,
-  "locks": {}
-}
-beat_29_copymv54phfs1": {
-      "user": "elliezero",
-      "since": "2026-10-19T09:52:17.350Z",
-      "beat": "cafeteria, ignore"
+  "locks": {
+    "beat_14": {
+      "user": "Naemi",
+      "since": "2026-10-19T10:05:01.036Z",
+      "beat": "victim start - after school"
     },
     "beat_57": {
-      "user": "elliezero",
-      "since": "2026-10-19T09:52:21.135Z",
+      "user": "Naemi",
+      "since": "2026-10-19T10:05:08.348Z",
       "beat": "transition screen bully to victim"
-    },
-    "beat_54": {
-      "user": "elliezero",
-      "since": "2026-10-19T09:54:09.341Z",
-      "beat": "apologise conversation"
     }
   }
 }
