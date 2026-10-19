@@ -11,8 +11,8 @@
   "inventory": [],
   "name": "Billie",
   "portrait": {
-    "assetId": "asset_1792403794234_lrpxvdg6b",
-    "image": "blob:file:///ab622f2b-ec1a-42c4-a1c4-ca5dc2569a1e"
+    "assetId": "asset_1792415993247_4iu8cx8n5",
+    "image": "blob:file:///4d97ed92-a46c-4d39-bec6-1ad231ef491f"
   },
   "pronouns": "she",
   "role": "npc",
@@ -21,16 +21,34 @@
       "displayName": "Default",
       "id": "default",
       "name": "default",
-      "visual": {}
+      "visual": {
+        "assetId": "asset_1792415993247_4iu8cx8n5"
+      }
+    },
+    {
+      "displayName": "eyeroll",
+      "id": "state_1792415408524",
+      "name": "eyeroll",
+      "visual": {
+        "assetId": "asset_1792415414711_aggv08bsv"
+      }
+    },
+    {
+      "displayName": "angry",
+      "id": "state_1792415613088",
+      "name": "angry",
+      "visual": {
+        "assetId": "asset_1792415658886_tahrqpbh4"
+      }
     }
   ],
   "tags": [
     "bully"
   ],
   "traits": [],
-  "updatedAt": "2026-10-19T09:57:09.231Z",
+  "updatedAt": "2026-10-19T13:22:30.985Z",
   "visual": {
-    "defaultAssetId": "asset_1792403828360_qdtgk75mp",
+    "defaultAssetId": "asset_1792415480970_jdngdk1ad",
     "type": "static"
   }
 }

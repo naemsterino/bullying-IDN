@@ -1,5 +1,6 @@
 {
   "_format": "1.0",
+  "color": "#8099c2",
   "counters": [],
   "createdAt": "2026-10-16T08:19:02.562Z",
   "defaultState": "default",
@@ -10,8 +11,8 @@
   "inventory": [],
   "name": "vic",
   "portrait": {
-    "assetId": "asset_1792139593810_48wjsnoed",
-    "image": "blob:file:///0826f246-ce58-44a0-ad10-1f7830bc721b"
+    "assetId": "asset_1792415278679_jbreo1kna",
+    "image": "blob:file:///7afee616-8aaa-4244-bdbb-732f5e637c64"
   },
   "role": "npc",
   "states": [
@@ -20,15 +21,15 @@
       "id": "default",
       "name": "default",
       "visual": {
-        "assetId": "asset_1792139612023_hrnai2bk4"
+        "assetId": "asset_1792415278679_jbreo1kna"
       }
     },
     {
-      "displayName": "angry",
-      "id": "state_1792139784102",
-      "name": "Angry",
+      "displayName": "looking up",
+      "id": "state_1792415304558",
+      "name": "Looking up",
       "visual": {
-        "assetId": "asset_1792138926736_g9qbi8idp"
+        "assetId": "asset_1792415310033_zb1a4jmg9"
       }
     }
   ],
@@ -36,9 +37,9 @@
     "victim"
   ],
   "traits": [],
-  "updatedAt": "2026-10-16T08:36:35.985Z",
+  "updatedAt": "2026-10-19T13:25:04.530Z",
   "visual": {
-    "defaultAssetId": "asset_1792139612023_hrnai2bk4",
+    "defaultAssetId": "asset_1792415278679_jbreo1kna",
     "type": "static"
   }
 }

@@ -1,26 +1,10 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_64_copymva32lxh1_copymva32rxq1_copymva331d41": {
-      "user": "PixellyAAA",
-      "since": "2026-10-19T13:29:04.484Z",
-      "beat": "GE1-Stan Dialogue 3"
-    },
-    "beat_64_copymva1z9h31_copymva3cs2o1": {
-      "user": "PixellyAAA",
-      "since": "2026-10-19T13:29:06.892Z",
-      "beat": "GE1- Billie Dialogue 3"
-    },
-    "beat_64_copymva32lxh1_copymva32rxq1": {
-      "user": "PixellyAAA",
-      "since": "2026-10-19T13:29:10.431Z",
-      "beat": "GE1-Stan 4"
-    },
-    "beat_81": {
-      "user": "PixellyAAA",
-      "since": "2026-10-19T13:29:20.944Z",
-      "beat": "DialogTree beat_81"
+  "locks": {
+    "beat_54": {
+      "user": "elliezero",
+      "since": "2026-10-19T13:24:54.006Z",
+      "beat": "apologise conversation"
     }
   }
 }
