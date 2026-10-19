@@ -129,7 +129,7 @@
                   ],
                   "id": "node_1791979055267",
                   "speaker": "Vic",
-                  "text": "Come on Billie, just leave me alone.\n"
+                  "text": "\"Come on Billie, just leave me alone.\"\n"
                 },
                 "id": "choice_1791979043910",
                 "text": "\"I just wanted to talk.\"\n",
@@ -148,7 +148,7 @@
       "emotion": "neutral",
       "id": "root",
       "speaker": "Vic",
-      "text": "====\"…\""
+      "text": "\"…\""
     },
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
