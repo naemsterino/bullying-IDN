@@ -1,0 +1,153 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "defaultTarget": "beat_7",
+  "defaultTargetDelay": 5,
+  "id": "beat_82",
+  "locations": [],
+  "name": "DialogTree Stan and Vic.",
+  "parameters": {
+    "dialogTree": {
+      "characterRef": "char_1792094383279_wzb17mkkt",
+      "choices": [
+        {
+          "continue": true,
+          "dialogNode": {
+            "characterRef": "char_1792138742562_zqrq6cn6f",
+            "choices": [
+              {
+                "continue": true,
+                "dialogNode": {
+                  "choices": [
+                    {
+                      "continue": true,
+                      "dialogNode": {
+                        "characterRef": "char_1792138742562_zqrq6cn6f",
+                        "choices": [
+                          {
+                            "continue": true,
+                            "dialogNode": {
+                              "choices": [
+                                {
+                                  "continue": true,
+                                  "dialogNode": {
+                                    "characterRef": "char_1792138742562_zqrq6cn6f",
+                                    "choices": [
+                                      {
+                                        "continue": true,
+                                        "dialogNode": {
+                                          "choices": [
+                                            {
+                                              "continue": true,
+                                              "dialogNode": {
+                                                "characterRef": "char_1792138742562_zqrq6cn6f",
+                                                "choices": [
+                                                  {
+                                                    "continue": true,
+                                                    "dialogNode": {
+                                                      "choices": [
+                                                        {
+                                                          "continue": true,
+                                                          "dialogNode": {
+                                                            "characterRef": "char_1792094383279_wzb17mkkt",
+                                                            "choices": [
+                                                              {
+                                                                "continue": true,
+                                                                "dialogNode": {
+                                                                  "characterRef": "char_1792138742562_zqrq6cn6f",
+                                                                  "choices": [],
+                                                                  "id": "node_1792429556955",
+                                                                  "speaker": "Vic",
+                                                                  "text": "Thank you!"
+                                                                },
+                                                                "id": "continue_1792429556955",
+                                                                "text": ""
+                                                              }
+                                                            ],
+                                                            "id": "node_1792429320224",
+                                                            "speaker": "Stan",
+                                                            "text": "Vic I apologize. I should have stopped Billie when she was mocking Tim and I should have stopped her when she was harassing you. I thought it was just jokes and you were ok with it. I didn't notice she was hurting you, even though deep down I knew what she was doing. I should not have been helping her by looking the other way. But those excuses are not acceptable. So, I'm truly sorry Vic. "
+                                                          },
+                                                          "id": "continue_1792429320224",
+                                                          "text": ""
+                                                        }
+                                                      ],
+                                                      "id": "node_1792429236326",
+                                                      "speaker": "Stan",
+                                                      "text": " It could be.  If I can't stop it, then I could at least try to reach someone who can.\n\nThat's why I have to apologize. I'm not apologizing for her. She should do it herself.\n"
+                                                    },
+                                                    "id": "continue_1792429236326",
+                                                    "text": ""
+                                                  }
+                                                ],
+                                                "id": "node_1792429223149",
+                                                "speaker": "Vic",
+                                                "text": "Isn't that dangerous? Stopping crimes."
+                                              },
+                                              "id": "continue_1792429223149",
+                                              "text": ""
+                                            }
+                                          ],
+                                          "id": "node_1792429066677",
+                                          "speaker": "Stan",
+                                          "text": "I don't know if I could stop it but I could at least try! My parents taught me that if someone does not try to stop a crime they see, they are guilty, too.\n"
+                                        },
+                                        "id": "continue_1792429066677",
+                                        "text": ""
+                                      }
+                                    ],
+                                    "id": "node_1792429024465",
+                                    "speaker": "Vic",
+                                    "text": "To me? Why would you need that?"
+                                  },
+                                  "id": "continue_1792429024465",
+                                  "text": ""
+                                }
+                              ],
+                              "id": "node_1792428976981",
+                              "speaker": "Stan",
+                              "text": "Me. I need to apologize to you...and to Tim.\n"
+                            },
+                            "id": "continue_1792428976981",
+                            "text": ""
+                          }
+                        ],
+                        "id": "node_1792428883775",
+                        "speaker": "Vic",
+                        "text": "What do you mean? Who needs to apologize?"
+                      },
+                      "id": "continue_1792428883775",
+                      "text": ""
+                    }
+                  ],
+                  "id": "node_1792428812955",
+                  "speaker": "Stan",
+                  "text": " That's not true, besides I should've done that earlier. Then maybe Tim wouldn't have to change schools.\n\nSpeaking of that, an apology is in order.\n"
+                },
+                "id": "continue_1792428812955",
+                "text": ""
+              }
+            ],
+            "id": "node_1792428724182",
+            "speaker": "Vic",
+            "text": " I’m fine. \nWhy did you do that? I thought you didn't really care about me?\n"
+          },
+          "id": "continue_1792428724182",
+          "text": ""
+        }
+      ],
+      "emotion": "neutral",
+      "id": "root",
+      "speaker": "Stan",
+      "text": "How do you feel?"
+    },
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "showAvatars": true
+  },
+  "showSpeaker": true,
+  "type": "dialogTree",
+  "x": 4804.92859652665,
+  "y": -782.9466772650951
+}

@@ -109,7 +109,7 @@
                                                                                                 ],
                                                                                                 "id": "node_1792419396793",
                                                                                                 "speaker": "Billie",
-                                                                                                "text": "*Screeches*. WHAT DO YOU WANT FROM ME? YOU ALWAYS DO THIS! YOU'RE ALWAYS BLAMING FOR EVERYTHING! I JUST WANNA HAVE A NICE DAY PLAYING SOME GAMES  ON MY PHONE. CAN YOU JUST LET ME BE!"
+                                                                                                "text": "*Screeches*. WHAT DO YOU WANT FROM ME? YOU ALWAYS DO THIS! YOU'RE ALWAYS BLAMING ME FOR EVERYTHING! I JUST WANNA HAVE A NICE DAY PLAYING SOME GAMES  ON MY PHONE. CAN YOU JUST LET ME BE!"
                                                                                               },
                                                                                               "id": "continue_1792419396793",
                                                                                               "text": ""
@@ -239,6 +239,6 @@
   },
   "showSpeaker": true,
   "type": "dialogTree",
-  "x": 4902.01990193951,
-  "y": -903.4940806534547
+  "x": 3953.123268639167,
+  "y": -738.0894713819512
 }

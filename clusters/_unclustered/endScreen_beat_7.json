@@ -11,7 +11,7 @@
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
-    "creditsPageBody": "",
+    "creditsPageBody": "They hug and walk home. In the coming weeks Vic and Stan start to hangout more. Billie at first  acts like nothing happened and was extra nice to Pete, Cece and Neo.\n\nHowever, she starts to do the same to Neo pushing them out. After Neo, Cece was next then eventually Pete.\nDuring this time Stan tries to warn Billie but she doesn't listen until it's too late. Billie shows everyone in the class that anybody could be her next victim without any reason. She starts to sit alone and acts like everything is fine. \n\n(Note: At this part, I feel like, would she even reflect and decide to apologize to Vic?)\n\nAfter a while Billie could not hide her sadness. Gets more quiet. \nOne day she approaches Vic with remorse.\nShe asks for forgiveness and looks really sorry.\n\nYou accept. ",
     "creditsPageTitle": "Credits",
     "message": "yay",
     "reset": true,
@@ -27,6 +27,6 @@
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 6631.807149943805,
-  "y": -870.3991541208588
+  "x": 5148.344411782586,
+  "y": -793.7567091785282
 }

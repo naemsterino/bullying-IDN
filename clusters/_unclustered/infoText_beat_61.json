@@ -2,7 +2,7 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_82"
+      "targetId": "beat_59"
     }
   ],
   "id": "beat_61",
@@ -11,11 +11,11 @@
   "node": "asset_1791985733410_nufvbhp",
   "parameters": {
     "backgroundSound": "",
-    "buttonText": "Laugh",
+    "buttonText": "\"PFF Looks like you grew a beard, Gandalf!\"",
     "node": "asset_1791985733410_nufvbhp",
-    "text": "Just as Vic walks past you, you put your leg out in front of them, making them fall over and land face-first onto their own tray of food. Their face is covered in mashed potatoes."
+    "text": "Just as Vic walks past you, you put your leg out in front of them, making them fall over and land face-first onto their own tray of food. Their face is covered in mashed potatoes.\n\nThe surprise of Vic falling over more comically than you expected makes you burst out laughing and you can’t help yourself from saying something about it."
   },
   "type": "infoText",
-  "x": 628.5708532682662,
-  "y": -93.87720371770712
+  "x": 664.4671681933052,
+  "y": -80.9545303446931
 }
