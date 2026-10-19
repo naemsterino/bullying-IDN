@@ -1,10 +1,16 @@
 {
   "v": 1,
-  "locks": {
-    "beat_17": {
-      "user": "Naemi",
-      "since": "2026-10-19T10:42:11.479Z",
-      "beat": "intro"
+  "locks": {}
+}
+ "beat_63": {
+      "user": "PixellyAAA",
+      "since": "2026-10-19T12:49:14.101Z",
+      "beat": "GE1-1"
+    },
+    "beat_64": {
+      "user": "PixellyAAA",
+      "since": "2026-10-19T12:49:10.758Z",
+      "beat": "GE1-Stan Dialogue 1"
     }
   }
 }
