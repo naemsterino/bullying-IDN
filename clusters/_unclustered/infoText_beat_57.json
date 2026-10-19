@@ -11,6 +11,18 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
+    "slotIntent": {
+      "actions": {
+        "buttonAnchors": {
+          "continueButton": {
+            "gap": 16,
+            "h": "right",
+            "relativeTo": "stage",
+            "v": "top"
+          }
+        }
+      }
+    },
     "text": "The day continues…\n\nYou are now playing as **Vic**."
   },
   "type": "infoText",

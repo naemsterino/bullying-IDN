@@ -24,7 +24,7 @@
       "kind": "dialog",
       "name": "NPC: Vic",
       "width": 200,
-      "x": 860,
+      "x": 540,
       "y": 50,
       "zIndex": 3
     },
@@ -43,7 +43,6 @@
   "name": "apologise conversation",
   "node": "asset_1791985733410_nufvbhp",
   "parameters": {
-    "allowSkipAhead": true,
     "backgroundAssetId": "asset_1791985733410_nufvbhp",
     "dialogTree": {
       "characterRef": "char_1792138742562_zqrq6cn6f",
@@ -159,26 +158,11 @@
       "root": {
         "choice_0": {
           "width": 439,
-          "x": 286
+          "x": 285.83333333333337
         }
       }
     },
-    "presentationMode": "positioned",
-    "showAvatars": true,
-    "slotIntent": {
-      "actions": {
-        "anchor": {
-          "h": "center",
-          "v": "bottom"
-        }
-      },
-      "text": {
-        "anchor": {
-          "h": "center",
-          "v": "top"
-        }
-      }
-    }
+    "showAvatars": true
   },
   "showSpeaker": true,
   "type": "dialogTree",

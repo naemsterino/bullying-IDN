@@ -41,7 +41,6 @@
       "filename": "Lady_Stops_Knife_Attack_while_Little_Mix_is_Playing_in_the_Background_Stan_Twitter_Meme.gif",
       "folder": "backgrounds",
       "id": "asset_1792062872848_uo2nedill",
-      "metadata": {},
       "mimeType": "image/gif",
       "size": 2846726,
       "type": "image",
@@ -207,6 +206,24 @@
       "size": 813748,
       "type": "image",
       "uploadedAt": "2026-10-16T11:24:04.827Z"
+    },
+    "asset_1792403794234_lrpxvdg6b": {
+      "filename": "Billie_1.png",
+      "folder": "backgrounds",
+      "id": "asset_1792403794234_lrpxvdg6b",
+      "mimeType": "image/png",
+      "size": 180382,
+      "type": "image",
+      "uploadedAt": "2026-10-19T09:56:34.234Z"
+    },
+    "asset_1792403828360_qdtgk75mp": {
+      "filename": "Billie_1.png",
+      "folder": "backgrounds",
+      "id": "asset_1792403828360_qdtgk75mp",
+      "mimeType": "image/png",
+      "size": 180382,
+      "type": "image",
+      "uploadedAt": "2026-10-19T09:57:08.360Z"
     }
   }
 }
