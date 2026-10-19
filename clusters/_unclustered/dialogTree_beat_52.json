@@ -16,7 +16,7 @@
     },
     {
       "autosize": true,
-      "height": 74,
+      "height": 80,
       "id": "choice_0",
       "kind": "button",
       "name": "Choice 0",

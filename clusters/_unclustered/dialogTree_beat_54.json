@@ -120,7 +120,7 @@
                         ],
                         "id": "node_1791979080254",
                         "speaker": "Vic",
-                        "text": "\"*sigh* ...fine.\""
+                        "text": "*sigh* \"...fine.\""
                       },
                       "id": "choice_1791979065058",
                       "text": "\"Please, don’t be like that! Just listen to me!\"",
@@ -166,6 +166,6 @@
   },
   "showSpeaker": true,
   "type": "dialogTree",
-  "x": 683.1234854658667,
+  "x": 685.6234854658667,
   "y": -513.2691593782349
 }
