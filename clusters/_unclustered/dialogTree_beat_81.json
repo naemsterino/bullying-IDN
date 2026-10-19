@@ -1,0 +1,98 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_81",
+  "locations": [],
+  "name": "DialogTree beat_81",
+  "parameters": {
+    "dialogTree": {
+      "characterRef": "char_1792094383279_wzb17mkkt",
+      "choices": [
+        {
+          "continue": true,
+          "dialogNode": {
+            "characterRef": "char_1792095472673_hlp3ie1dh",
+            "choices": [
+              {
+                "continue": true,
+                "dialogNode": {
+                  "choices": [
+                    {
+                      "continue": true,
+                      "dialogNode": {
+                        "choices": [
+                          {
+                            "continue": true,
+                            "dialogNode": {
+                              "choices": [
+                                {
+                                  "continue": true,
+                                  "dialogNode": {
+                                    "choices": [
+                                      {
+                                        "continue": true,
+                                        "dialogNode": {
+                                          "choices": [],
+                                          "id": "node_1792416510252",
+                                          "speaker": "Stan",
+                                          "text": "Did he also have no sense of humour?\nYou don't see it do you?"
+                                        },
+                                        "id": "continue_1792416510252",
+                                        "text": ""
+                                      }
+                                    ],
+                                    "id": "node_1792416470801",
+                                    "speaker": "Billie",
+                                    "text": "What about him?"
+                                  },
+                                  "id": "continue_1792416470801",
+                                  "text": ""
+                                }
+                              ],
+                              "id": "node_1792416453191",
+                              "speaker": "Stan",
+                              "text": "What about Tim?"
+                            },
+                            "id": "continue_1792416453191",
+                            "text": ""
+                          }
+                        ],
+                        "id": "node_1792416413184",
+                        "speaker": "Billie",
+                        "text": "It's not my problem if Vic  has no sense of humour either! They can benefit from relaxing a bit more."
+                      },
+                      "id": "continue_1792416413184",
+                      "text": ""
+                    }
+                  ],
+                  "id": "node_1792416376515",
+                  "speaker": "Stan",
+                  "text": "Are you though? I don't see Vic laughing?"
+                },
+                "id": "continue_1792416376515",
+                "text": ""
+              }
+            ],
+            "id": "node_1792415986124",
+            "speaker": "Billie",
+            "text": "What the hell! Have you have lost your sense of humour? I'm just joking here."
+          },
+          "id": "continue_1792415986124",
+          "text": ""
+        }
+      ],
+      "emotion": "neutral",
+      "id": "root",
+      "speaker": "Stan",
+      "text": "-You know what, that's enough Billie!"
+    },
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "showAvatars": true
+  },
+  "showSpeaker": true,
+  "type": "dialogTree",
+  "x": 3735.655416764682,
+  "y": -803.4753569219812
+}
