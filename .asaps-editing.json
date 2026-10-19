@@ -1,30 +1,4 @@
 {
   "v": 1,
-  "locks": {
-    "beat_81": {
-      "user": "PixellyAAA",
-      "since": "2026-10-19T17:14:31.297Z",
-      "beat": "Stan and Billie Dialogue- Good Ending 1"
-    },
-    "beat_64_copymva1z9h31_copymva3d1m11_copymva4fbgc1": {
-      "user": "PixellyAAA",
-      "since": "2026-10-19T17:14:34.039Z",
-      "beat": "GE1- Stan and Vic"
-    },
-    "beat_82": {
-      "user": "PixellyAAA",
-      "since": "2026-10-19T17:14:37.579Z",
-      "beat": "DialogTree Stan and Vic."
-    },
-    "beat_7": {
-      "user": "PixellyAAA",
-      "since": "2026-10-19T17:15:11.462Z",
-      "beat": "friend, no bully"
-    },
-    "beat_43": {
-      "user": "PixellyAAA",
-      "since": "2026-10-19T17:15:01.360Z",
-      "beat": "NE 9 Stan"
-    }
-  }
+  "locks": {}
 }

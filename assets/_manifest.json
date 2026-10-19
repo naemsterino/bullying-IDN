@@ -317,6 +317,24 @@
       "size": 163603,
       "type": "image",
       "uploadedAt": "2026-10-19T13:19:53.247Z"
+    },
+    "asset_1792444272233_bcu10w3od": {
+      "filename": "Alley.png",
+      "folder": "backgrounds",
+      "id": "asset_1792444272233_bcu10w3od",
+      "mimeType": "image/png",
+      "size": 2418033,
+      "type": "image",
+      "uploadedAt": "2026-10-19T21:11:12.233Z"
+    },
+    "asset_1792444493427_4kbiua3x1": {
+      "filename": "Alley.png",
+      "folder": "backgrounds",
+      "id": "asset_1792444493427_4kbiua3x1",
+      "mimeType": "image/png",
+      "size": 1439277,
+      "type": "image",
+      "uploadedAt": "2026-10-19T21:14:53.427Z"
     }
   }
 }

@@ -27,7 +27,7 @@
       "width": 200,
       "x": 540,
       "y": 50,
-      "zIndex": 3
+      "zIndex": 4
     },
     {
       "autosize": true,
@@ -38,7 +38,7 @@
       "width": 439,
       "x": 286,
       "y": 143,
-      "zIndex": 4
+      "zIndex": 5
     }
   ],
   "name": "apologise conversation",

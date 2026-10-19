@@ -4,9 +4,53 @@
   "defaultTarget": "beat_7",
   "defaultTargetDelay": 5,
   "id": "beat_82",
-  "locations": [],
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792094383279_wzb17mkkt",
+      "characterName": "Stan",
+      "height": 1080,
+      "id": "element_1792444834649",
+      "kind": "character",
+      "name": "Stan",
+      "size": 74,
+      "stateId": "default",
+      "width": 1000,
+      "x": 0,
+      "y": 184,
+      "zIndex": 1
+    },
+    {
+      "autosize": true,
+      "height": 76,
+      "id": "npc",
+      "kind": "dialog",
+      "name": "NPC: Stan",
+      "width": 224,
+      "x": 848,
+      "y": 50,
+      "zIndex": 2
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792138742562_zqrq6cn6f",
+      "characterName": "vic",
+      "height": 1080,
+      "id": "element_1792444927589",
+      "kind": "character",
+      "name": "vic",
+      "size": 82,
+      "stateId": "default",
+      "width": 1000,
+      "x": 1229,
+      "y": 146,
+      "zIndex": 2
+    }
+  ],
   "name": "DialogTree Stan and Vic.",
+  "node": "asset_1792444493427_4kbiua3x1",
   "parameters": {
+    "backgroundAssetId": "asset_1792444493427_4kbiua3x1",
     "dialogTree": {
       "characterRef": "char_1792094383279_wzb17mkkt",
       "choices": [
@@ -130,6 +174,7 @@
             ],
             "id": "node_1792428724182",
             "speaker": "Vic",
+            "speakerState": "state_1792415304558",
             "text": " I’m fine. \nWhy did you do that? I thought you didn't really care about me?\n"
           },
           "id": "continue_1792428724182",
@@ -144,7 +189,9 @@
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
-    "showAvatars": true
+    "node": "asset_1792444493427_4kbiua3x1",
+    "showAvatars": true,
+    "spatialFit": "cover"
   },
   "showSpeaker": true,
   "type": "dialogTree",
