@@ -1,10 +1,6 @@
 {
   "_format": "1.0",
-  "connections": [
-    {
-      "targetId": "beat_64_copymva1z9h31_copymva3d1m11_copymva4fbgc1"
-    }
-  ],
+  "connections": [],
   "id": "beat_64_copymva32lxh1_copymva41n7h1",
   "locations": [
     {
