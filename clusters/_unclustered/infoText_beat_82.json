@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_59"
+    }
+  ],
+  "id": "beat_82",
+  "locations": [],
+  "name": "trip continued 2",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "\"PFF Looks like you grew a beard, Gandalf!\"",
+    "text": "\nThe surprise of Vic falling over more comically than you expected makes you burst out laughing and you can’t help yourself from saying something about it."
+  },
+  "type": "infoText",
+  "x": 707.957850423965,
+  "y": -20.610691381646348
+}

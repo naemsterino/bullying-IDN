@@ -1,11 +1,25 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_81": {
-      "user": "PixellyAAA",
-      "since": "2026-10-19T15:31:35.817Z",
-      "beat": "Stan and Billie Dialogue- Good Ending 1"
+  "locks": {
+    "beat_59": {
+      "user": "elliezero",
+      "since": "2026-10-19T14:52:54.639Z",
+      "beat": "trip continued 3"
+    },
+    "beat_82": {
+      "user": "elliezero",
+      "since": "2026-10-19T14:52:53.501Z",
+      "beat": "trip continued 2"
+    },
+    "beat_60": {
+      "user": "elliezero",
+      "since": "2026-10-19T14:52:56.440Z",
+      "beat": "trip conclusion"
+    },
+    "beat_61": {
+      "user": "elliezero",
+      "since": "2026-10-19T14:52:51.543Z",
+      "beat": "trip continued 1"
     }
   }
 }
