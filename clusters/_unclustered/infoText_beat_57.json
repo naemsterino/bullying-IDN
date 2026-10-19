@@ -16,9 +16,9 @@
         "buttonAnchors": {
           "continueButton": {
             "gap": 16,
-            "h": "right",
+            "h": "center",
             "relativeTo": "stage",
-            "v": "top"
+            "v": "bottom"
           }
         }
       }

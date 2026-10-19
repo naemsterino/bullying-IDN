@@ -24,7 +24,7 @@
       "btnFont": "\"Noto Sans\", \"Segoe UI\", sans-serif",
       "fontSize": {
         "button": 18,
-        "text": 18,
+        "text": 20,
         "title": 42
       },
       "textFont": "\"Noto Sans\", \"Segoe UI\", sans-serif",
@@ -40,11 +40,11 @@
     },
     "project": {
       "aspectRatio": "16:9",
-      "height": 720,
+      "height": 1080,
       "layoutMode": "responsive",
       "orientation": "landscape",
       "scalingMode": "fit",
-      "width": 1280
+      "width": 1920
     },
     "sound": {
       "backgroundMusic": "",
