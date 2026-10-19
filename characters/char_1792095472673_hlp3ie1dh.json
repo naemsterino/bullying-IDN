@@ -21,16 +21,26 @@
       "displayName": "Default",
       "id": "default",
       "name": "default",
-      "visual": {}
+      "visual": {
+        "assetId": "asset_1792403828360_qdtgk75mp"
+      }
+    },
+    {
+      "displayName": "eyeroll",
+      "id": "state_1792415408524",
+      "name": "eyeroll",
+      "visual": {
+        "assetId": "asset_1792415414711_aggv08bsv"
+      }
     }
   ],
   "tags": [
     "bully"
   ],
   "traits": [],
-  "updatedAt": "2026-10-19T09:57:09.231Z",
+  "updatedAt": "2026-10-19T13:11:22.940Z",
   "visual": {
-    "defaultAssetId": "asset_1792403828360_qdtgk75mp",
+    "defaultAssetId": "asset_1792415480970_jdngdk1ad",
     "type": "static"
   }
 }

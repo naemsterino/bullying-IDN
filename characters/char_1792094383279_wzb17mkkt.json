@@ -1,5 +1,6 @@
 {
   "_format": "1.0",
+  "color": "#bf71fe",
   "counters": [],
   "createdAt": "2026-10-15T19:59:43.279Z",
   "defaultState": "default",
@@ -10,8 +11,8 @@
   "inventory": [],
   "name": "Stan",
   "portrait": {
-    "assetId": "asset_1792094443472_tg4wngwa7",
-    "image": "blob:file:///b9e8f022-3d88-43c0-92c5-367fc7bc3cf7"
+    "assetId": "asset_1792415339862_769mb1x9l",
+    "image": "blob:file:///24bba8d7-7c92-43b9-ae1a-8457ff29a559"
   },
   "pronouns": "he",
   "role": "npc",
@@ -19,15 +20,19 @@
     {
       "displayName": "Default",
       "id": "default",
-      "name": "default",
-      "visual": {}
+      "name": "stan",
+      "visual": {
+        "assetId": "asset_1792415339862_769mb1x9l"
+      }
     }
   ],
-  "tags": [],
+  "tags": [
+    "bystander"
+  ],
   "traits": [],
-  "updatedAt": "2026-10-15T21:53:53.269Z",
+  "updatedAt": "2026-10-19T13:09:50.848Z",
   "visual": {
-    "defaultAssetId": "asset_1792101231456_cxas2l7nn",
+    "defaultAssetId": "asset_1792415371132_jdcwpelen",
     "type": "static"
   }
 }

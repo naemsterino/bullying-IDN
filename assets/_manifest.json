@@ -218,6 +218,51 @@
       "size": 180382,
       "type": "image",
       "uploadedAt": "2026-10-19T09:57:08.360Z"
+    },
+    "asset_1792415278679_jbreo1kna": {
+      "filename": "Vic_Neutral.png",
+      "folder": "backgrounds",
+      "id": "asset_1792415278679_jbreo1kna",
+      "mimeType": "image/png",
+      "size": 110411,
+      "type": "image",
+      "uploadedAt": "2026-10-19T13:07:58.679Z"
+    },
+    "asset_1792415310033_zb1a4jmg9": {
+      "filename": "Vic_Looking_Up.png",
+      "folder": "backgrounds",
+      "id": "asset_1792415310033_zb1a4jmg9",
+      "mimeType": "image/png",
+      "size": 110938,
+      "type": "image",
+      "uploadedAt": "2026-10-19T13:08:30.033Z"
+    },
+    "asset_1792415371132_jdcwpelen": {
+      "filename": "Stan_Neutral.png",
+      "folder": "backgrounds",
+      "id": "asset_1792415371132_jdcwpelen",
+      "mimeType": "image/png",
+      "size": 109234,
+      "type": "image",
+      "uploadedAt": "2026-10-19T13:09:31.132Z"
+    },
+    "asset_1792415414711_aggv08bsv": {
+      "filename": "Billie_Rolls_Eyes.png",
+      "folder": "backgrounds",
+      "id": "asset_1792415414711_aggv08bsv",
+      "mimeType": "image/png",
+      "size": 163479,
+      "type": "image",
+      "uploadedAt": "2026-10-19T13:10:14.711Z"
+    },
+    "asset_1792415480970_jdngdk1ad": {
+      "filename": "Billie_Neutral.png",
+      "folder": "backgrounds",
+      "id": "asset_1792415480970_jdngdk1ad",
+      "mimeType": "image/png",
+      "size": 163603,
+      "type": "image",
+      "uploadedAt": "2026-10-19T13:11:20.970Z"
     }
   }
 }
