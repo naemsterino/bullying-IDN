@@ -32,13 +32,21 @@
       "visual": {
         "assetId": "asset_1792415414711_aggv08bsv"
       }
+    },
+    {
+      "displayName": "angry",
+      "id": "state_1792415613088",
+      "name": "angry",
+      "visual": {
+        "assetId": "asset_1792415658886_tahrqpbh4"
+      }
     }
   ],
   "tags": [
     "bully"
   ],
   "traits": [],
-  "updatedAt": "2026-10-19T13:11:22.940Z",
+  "updatedAt": "2026-10-19T13:14:42.226Z",
   "visual": {
     "defaultAssetId": "asset_1792415480970_jdngdk1ad",
     "type": "static"

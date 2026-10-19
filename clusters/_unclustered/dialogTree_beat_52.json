@@ -50,6 +50,7 @@
                         ],
                         "id": "node_1791975375033",
                         "speaker": "Billie",
+                        "speakerState": "state_1792415408524",
                         "text": "\"Whatever. You’re no fun.\""
                       },
                       "id": "choice_1791975365359",
@@ -59,6 +60,7 @@
                   ],
                   "id": "node_1791975355751",
                   "speaker": "Billie",
+                  "speakerState": "state_1792415613088",
                   "text": "\"Vic raised their voice at me!\""
                 },
                 "id": "choice_1791975340685",
@@ -68,6 +70,7 @@
             ],
             "id": "node_1791975332812",
             "speaker": "Billie",
+            "speakerState": "default",
             "text": "\"And what are you going to do if I don’t?\"\n"
           },
           "id": "choice_1791975319893",
@@ -78,6 +81,7 @@
       "emotion": "neutral",
       "id": "root",
       "speaker": "Billie",
+      "speakerState": "state_1792415613088",
       "text": "\"What the hell, Vic!?\""
     },
     "effectsOncePerChoice": false,

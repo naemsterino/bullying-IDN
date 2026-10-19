@@ -237,8 +237,17 @@
       "type": "image",
       "uploadedAt": "2026-10-19T13:08:30.033Z"
     },
-    "asset_1792415371132_jdcwpelen": {
+    "asset_1792415339862_769mb1x9l": {
       "filename": "Stan_Neutral.png",
+      "folder": "backgrounds",
+      "id": "asset_1792415339862_769mb1x9l",
+      "mimeType": "image/png",
+      "size": 109234,
+      "type": "image",
+      "uploadedAt": "2026-10-19T13:08:59.862Z"
+    },
+    "asset_1792415371132_jdcwpelen": {
+      "filename": "Stan_Neutral_2.png",
       "folder": "backgrounds",
       "id": "asset_1792415371132_jdcwpelen",
       "mimeType": "image/png",
@@ -263,6 +272,15 @@
       "size": 163603,
       "type": "image",
       "uploadedAt": "2026-10-19T13:11:20.970Z"
+    },
+    "asset_1792415658886_tahrqpbh4": {
+      "filename": "Billie VAD.png",
+      "folder": "backgrounds",
+      "id": "asset_1792415658886_tahrqpbh4",
+      "mimeType": "image/png",
+      "size": 397624,
+      "type": "image",
+      "uploadedAt": "2026-10-19T13:14:18.886Z"
     }
   }
 }
