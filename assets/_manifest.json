@@ -219,6 +219,24 @@
       "type": "image",
       "uploadedAt": "2026-10-19T09:57:08.360Z"
     },
+    "asset_1792406791015_0": {
+      "filename": "cafeteria.mp3",
+      "folder": "sounds",
+      "id": "asset_1792406791015_0",
+      "mimeType": "audio/mpeg",
+      "size": 1645440,
+      "type": "audio",
+      "uploadedAt": "2026-10-19T10:46:31.015Z"
+    },
+    "asset_1792406791034_1": {
+      "filename": "schoolyard.mp3",
+      "folder": "sounds",
+      "id": "asset_1792406791034_1",
+      "mimeType": "audio/mpeg",
+      "size": 2294595,
+      "type": "audio",
+      "uploadedAt": "2026-10-19T10:46:31.034Z"
+    },
     "asset_1792415278679_jbreo1kna": {
       "filename": "Vic_Neutral.png",
       "folder": "backgrounds",
