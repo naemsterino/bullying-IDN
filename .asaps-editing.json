@@ -1,22 +1,16 @@
 {
   "v": 1,
-  "locks": {
-    "beat_14_copymvgtua5r1": {
-      "user": "ivanmanueltorres04",
-      "since": "2026-10-20T15:23:44.421Z",
-      "beat": "victim start - after school (Paste)"
-    }
-  }
+  "locks": {}
 }
-beat_29_copymv54phfs1_copymv54po2v1": {
+ "beat_56": {
       "user": "elliezero",
-      "since": "2026-10-20T16:04:37.793Z",
-      "beat": "cafeteria, trip"
+      "since": "2026-10-20T16:11:13.386Z",
+      "beat": "start of school"
     },
-    "beat_61": {
+    "beat_52": {
       "user": "elliezero",
-      "since": "2026-10-20T16:04:40.013Z",
-      "beat": "trip continued 1"
+      "since": "2026-10-20T16:11:18.364Z",
+      "beat": "Intervene Dialogue"
     }
   }
 }
