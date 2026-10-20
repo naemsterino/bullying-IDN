@@ -106,7 +106,14 @@
                                                                                                             "choices": [
                                                                                                               {
                                                                                                                 "dialogNode": {
-                                                                                                                  "choices": [],
+                                                                                                                  "choices": [
+                                                                                                                    {
+                                                                                                                      "id": "choice_1792488474035",
+                                                                                                                      "target": "beat_64_copymva1z9h31_copymva3d1m11_copymva4fbgc1",
+                                                                                                                      "text": "Player response...",
+                                                                                                                      "visible": true
+                                                                                                                    }
+                                                                                                                  ],
                                                                                                                   "id": "node_1792420577008",
                                                                                                                   "speaker": "Stan",
                                                                                                                   "text": "Billie, your apology does not matter if you continue to behave the same way, and worse of it if it happens on the very same day. Otherwise it's not a real apology!\n"
@@ -280,6 +287,6 @@
   },
   "showSpeaker": true,
   "type": "dialogTree",
-  "x": 3953.123268639167,
+  "x": 3951.473883739506,
   "y": -738.0894713819512
 }
