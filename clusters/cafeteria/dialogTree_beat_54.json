@@ -6,21 +6,6 @@
   "locations": [
     {
       "autosize": true,
-      "characterId": "char_1792138742562_zqrq6cn6f",
-      "characterName": "vic",
-      "height": 332,
-      "id": "element_1792139021268_0.7443878187952708",
-      "kind": "character",
-      "name": "vic",
-      "size": 200,
-      "stateId": "default",
-      "width": 357,
-      "x": 336,
-      "y": 589,
-      "zIndex": 3
-    },
-    {
-      "autosize": true,
       "height": 73,
       "id": "npc",
       "kind": "dialog",
@@ -40,6 +25,21 @@
       "x": 286,
       "y": 143,
       "zIndex": 5
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792138742562_zqrq6cn6f",
+      "characterName": "vic",
+      "height": 1080,
+      "id": "element_1792512952639",
+      "kind": "character",
+      "name": "vic",
+      "size": 100,
+      "stateId": "default",
+      "width": 1000,
+      "x": 0,
+      "y": 0,
+      "zIndex": 2
     }
   ],
   "name": "apologise conversation",
@@ -86,6 +86,7 @@
                                                 ],
                                                 "id": "node_1791979224432",
                                                 "speaker": "Vic",
+                                                "speakerState": "state_1792415304558",
                                                 "text": "\"thanks… bye.\""
                                               },
                                               "id": "choice_1791979196003",
@@ -95,6 +96,7 @@
                                           ],
                                           "id": "node_1791979186495",
                                           "speaker": "Vic",
+                                          "speakerState": "default",
                                           "text": "\"…cool.\""
                                         },
                                         "id": "choice_1791979172228",
@@ -104,6 +106,7 @@
                                     ],
                                     "id": "node_1791979131680",
                                     "speaker": "Vic",
+                                    "speakerState": "default",
                                     "text": "\"Oh, well… thanks.\""
                                   },
                                   "id": "choice_1791979119268",
@@ -113,6 +116,7 @@
                               ],
                               "id": "node_1791979109666",
                               "speaker": "Vic",
+                              "speakerState": "state_1792415304558",
                               "text": "\"Oh… okay.\""
                             },
                             "id": "choice_1791979095327",
@@ -122,6 +126,7 @@
                         ],
                         "id": "node_1791979080254",
                         "speaker": "Vic",
+                        "speakerState": "default",
                         "text": "\\*sigh\\* \"...fine.\""
                       },
                       "id": "choice_1791979065058",
@@ -131,6 +136,7 @@
                   ],
                   "id": "node_1791979055267",
                   "speaker": "Vic",
+                  "speakerState": "default",
                   "text": "\"Come on Billie, just leave me alone.\"\n"
                 },
                 "id": "choice_1791979043910",
@@ -140,6 +146,7 @@
             ],
             "id": "node_1791979034605",
             "speaker": "Vic",
+            "speakerState": "state_1792415304558",
             "text": "\"…What do you want now?\""
           },
           "id": "choice_1791979024309",
@@ -150,6 +157,7 @@
       "emotion": "neutral",
       "id": "root",
       "speaker": "Vic",
+      "speakerState": "default",
       "text": "\"…\""
     },
     "effectsOncePerChoice": false,

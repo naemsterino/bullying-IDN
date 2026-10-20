@@ -1,16 +1,10 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_56": {
+  "locks": {
+    "beat_54": {
       "user": "elliezero",
-      "since": "2026-10-20T16:11:13.386Z",
-      "beat": "start of school"
-    },
-    "beat_52": {
-      "user": "elliezero",
-      "since": "2026-10-20T16:11:18.364Z",
-      "beat": "Intervene Dialogue"
+      "since": "2026-10-20T16:15:17.289Z",
+      "beat": "apologise conversation"
     }
   }
 }
