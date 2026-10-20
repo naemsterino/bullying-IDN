@@ -13,8 +13,8 @@
   ],
   "id": "beat_59",
   "locations": [],
-  "name": "trip continued 2",
-  "node": "asset_1791985733410_nufvbhp",
+  "name": "trip continued 3",
+  "node": "asset_1792503371646_1",
   "parameters": {
     "choices": [
       {
@@ -33,7 +33,7 @@
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
-    "node": "asset_1791985733410_nufvbhp",
+    "node": "asset_1792503371646_1",
     "question": "Vic stands up and tries to wipe off as much food from their face as they can. They abandon their tray on the floor and storm off, running far away from the cafeteria.",
     "speaker": ""
   },
