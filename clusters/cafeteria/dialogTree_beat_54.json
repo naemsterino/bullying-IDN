@@ -116,7 +116,7 @@
                               ],
                               "id": "node_1791979109666",
                               "speaker": "Vic",
-                              "speakerState": "state_1792415304558",
+                              "speakerState": "default",
                               "text": "\"Oh… okay.\""
                             },
                             "id": "choice_1791979095327",
@@ -126,7 +126,7 @@
                         ],
                         "id": "node_1791979080254",
                         "speaker": "Vic",
-                        "speakerState": "default",
+                        "speakerState": "state_1792415304558",
                         "text": "\\*sigh\\* \"...fine.\""
                       },
                       "id": "choice_1791979065058",
