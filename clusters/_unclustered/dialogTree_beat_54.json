@@ -85,7 +85,6 @@
                                                 ],
                                                 "id": "node_1791979224432",
                                                 "speaker": "Vic",
-                                                "speakerState": "state_1792415304558",
                                                 "text": "\"thanks… bye.\""
                                               },
                                               "id": "choice_1791979196003",
@@ -95,7 +94,6 @@
                                           ],
                                           "id": "node_1791979186495",
                                           "speaker": "Vic",
-                                          "speakerState": "default",
                                           "text": "\"…cool.\""
                                         },
                                         "id": "choice_1791979172228",
@@ -105,7 +103,6 @@
                                     ],
                                     "id": "node_1791979131680",
                                     "speaker": "Vic",
-                                    "speakerState": "state_1792415304558",
                                     "text": "\"Oh, well… thanks.\""
                                   },
                                   "id": "choice_1791979119268",
@@ -115,7 +112,6 @@
                               ],
                               "id": "node_1791979109666",
                               "speaker": "Vic",
-                              "speakerState": "default",
                               "text": "\"Oh… okay.\""
                             },
                             "id": "choice_1791979095327",
@@ -125,7 +121,6 @@
                         ],
                         "id": "node_1791979080254",
                         "speaker": "Vic",
-                        "speakerState": "default",
                         "text": "\\*sigh\\* \"...fine.\""
                       },
                       "id": "choice_1791979065058",
@@ -135,7 +130,6 @@
                   ],
                   "id": "node_1791979055267",
                   "speaker": "Vic",
-                  "speakerState": "default",
                   "text": "\"Come on Billie, just leave me alone.\"\n"
                 },
                 "id": "choice_1791979043910",
@@ -145,7 +139,6 @@
             ],
             "id": "node_1791979034605",
             "speaker": "Vic",
-            "speakerState": "state_1792415304558",
             "text": "\"…What do you want now?\""
           },
           "id": "choice_1791979024309",
@@ -156,7 +149,6 @@
       "emotion": "neutral",
       "id": "root",
       "speaker": "Vic",
-      "speakerState": "default",
       "text": "\"…\""
     },
     "effectsOncePerChoice": false,

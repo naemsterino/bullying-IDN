@@ -3,11 +3,11 @@
   "connections": [
     {
       "label": "true",
-      "targetId": "beat_24"
+      "targetId": "beat_24_copymv51siub1"
     },
     {
       "label": "false",
-      "targetId": "beat_24_copymv51siub1"
+      "targetId": "beat_24"
     }
   ],
   "id": "beat_26",
@@ -22,11 +22,11 @@
       "variableName": "friend"
     },
     "conditionType": "variable",
-    "falseTarget": "beat_24_copymv51siub1",
+    "falseTarget": "beat_24",
     "moodAxis": "valence",
     "operator": "==",
     "quantityCheck": false,
-    "trueTarget": "beat_24",
+    "trueTarget": "beat_24_copymv51siub1",
     "value": "true",
     "variableName": "friend"
   },

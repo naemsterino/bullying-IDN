@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_9_copymv4yiwma1"
+    }
+  ],
+  "id": "beat_94",
+  "locations": [],
+  "name": "Neutral bad 4",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "The end",
+    "text": "You’re not particularly excited for high school, what if there is another bully there? What if you can’t make any more friends? Thoughts circle inside your head. Overthinking. Is this all life really has to offer?  "
+  },
+  "type": "infoText",
+  "x": 4301.922995512637,
+  "y": 46.77454072218677
+}

@@ -53,76 +53,58 @@
       "characterRef": "char_1792094383279_wzb17mkkt",
       "choices": [
         {
-          "continue": true,
           "dialogNode": {
             "characterRef": "char_1792095472673_hlp3ie1dh",
             "choices": [
               {
-                "continue": true,
                 "dialogNode": {
                   "choices": [
                     {
-                      "continue": true,
                       "dialogNode": {
                         "choices": [
                           {
-                            "continue": true,
                             "dialogNode": {
                               "choices": [
                                 {
-                                  "continue": true,
                                   "dialogNode": {
                                     "choices": [
                                       {
-                                        "continue": true,
                                         "dialogNode": {
                                           "choices": [
                                             {
-                                              "continue": true,
                                               "dialogNode": {
                                                 "choices": [
                                                   {
-                                                    "continue": true,
                                                     "dialogNode": {
                                                       "choices": [
                                                         {
-                                                          "continue": true,
                                                           "dialogNode": {
                                                             "choices": [
                                                               {
-                                                                "continue": true,
                                                                 "dialogNode": {
                                                                   "choices": [
                                                                     {
-                                                                      "continue": true,
                                                                       "dialogNode": {
                                                                         "choices": [
                                                                           {
-                                                                            "continue": true,
                                                                             "dialogNode": {
                                                                               "choices": [
                                                                                 {
-                                                                                  "continue": true,
                                                                                   "dialogNode": {
                                                                                     "choices": [
                                                                                       {
-                                                                                        "continue": true,
                                                                                         "dialogNode": {
                                                                                           "choices": [
                                                                                             {
-                                                                                              "continue": true,
                                                                                               "dialogNode": {
                                                                                                 "choices": [
                                                                                                   {
-                                                                                                    "continue": true,
                                                                                                     "dialogNode": {
                                                                                                       "choices": [
                                                                                                         {
-                                                                                                          "continue": true,
                                                                                                           "dialogNode": {
                                                                                                             "choices": [
                                                                                                               {
-                                                                                                                "continue": true,
                                                                                                                 "dialogNode": {
                                                                                                                   "choices": [],
                                                                                                                   "id": "node_1792420577008",

@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_92"
+    }
+  ],
+  "id": "beat_91",
+  "locations": [],
+  "name": "Neutral bad sleep",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Wake up, go to school",
+    "text": "Stan sleeps over. While you have trouble sleeping, you can at least find some comfort in your new friend. You lay down in your bed, Stan hopping in beside you, hugging you from the side to comfort you.\n“Don’t worry Vic, everything will be fine, we will take this together day by day, you and me. Okay?”"
+  },
+  "type": "infoText",
+  "x": 3680.6729955126366,
+  "y": 58.524563610370365
+}

@@ -2,7 +2,7 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_9"
+      "targetId": "beat_85"
     }
   ],
   "id": "beat_24",
@@ -10,10 +10,10 @@
   "name": "bad end 1",
   "parameters": {
     "backgroundSound": "",
-    "buttonText": "Continue",
-    "text": "you have a new friend but are still being bullied"
+    "buttonText": "Go to your room",
+    "text": "You come home, your bruises sting on your skin as your parents come to greet you in the hallway. They are worried, yet you claim it’s fine still, you don’t eat dinner, you’re not hungry. "
   },
   "type": "infoText",
-  "x": 3214.2665137204112,
-  "y": -149.24396532176263
+  "x": 3233.0165137204112,
+  "y": -145.49396532176266
 }

@@ -40,146 +40,112 @@
       "characterRef": "char_1792138742562_zqrq6cn6f",
       "choices": [
         {
-          "continue": true,
           "dialogNode": {
             "choices": [
               {
-                "continue": true,
                 "dialogNode": {
                   "choices": [
                     {
-                      "continue": true,
                       "dialogNode": {
                         "choices": [
                           {
-                            "continue": true,
                             "dialogNode": {
                               "characterRef": "char_1792138742562_zqrq6cn6f",
                               "choices": [
                                 {
-                                  "continue": true,
                                   "dialogNode": {
                                     "choices": [
                                       {
-                                        "continue": true,
                                         "dialogNode": {
                                           "choices": [
                                             {
-                                              "continue": true,
                                               "dialogNode": {
                                                 "choices": [
                                                   {
-                                                    "continue": true,
                                                     "dialogNode": {
                                                       "choices": [
                                                         {
-                                                          "continue": true,
                                                           "dialogNode": {
                                                             "choices": [
                                                               {
-                                                                "continue": true,
                                                                 "dialogNode": {
                                                                   "characterRef": "char_1792138742562_zqrq6cn6f",
                                                                   "choices": [
                                                                     {
-                                                                      "continue": true,
                                                                       "dialogNode": {
                                                                         "choices": [
                                                                           {
-                                                                            "continue": true,
                                                                             "dialogNode": {
                                                                               "choices": [
                                                                                 {
-                                                                                  "continue": true,
                                                                                   "dialogNode": {
                                                                                     "characterRef": "char_1792138742562_zqrq6cn6f",
                                                                                     "choices": [
                                                                                       {
-                                                                                        "continue": true,
                                                                                         "dialogNode": {
                                                                                           "choices": [
                                                                                             {
-                                                                                              "continue": true,
                                                                                               "dialogNode": {
                                                                                                 "characterRef": "char_1792138742562_zqrq6cn6f",
                                                                                                 "choices": [
                                                                                                   {
-                                                                                                    "continue": true,
                                                                                                     "dialogNode": {
                                                                                                       "choices": [
                                                                                                         {
-                                                                                                          "continue": true,
                                                                                                           "dialogNode": {
                                                                                                             "characterRef": "char_1792138742562_zqrq6cn6f",
                                                                                                             "choices": [
                                                                                                               {
-                                                                                                                "continue": true,
                                                                                                                 "dialogNode": {
                                                                                                                   "choices": [
                                                                                                                     {
-                                                                                                                      "continue": true,
                                                                                                                       "dialogNode": {
                                                                                                                         "choices": [
                                                                                                                           {
-                                                                                                                            "continue": true,
                                                                                                                             "dialogNode": {
                                                                                                                               "choices": [
                                                                                                                                 {
-                                                                                                                                  "continue": true,
                                                                                                                                   "dialogNode": {
                                                                                                                                     "choices": [
                                                                                                                                       {
-                                                                                                                                        "continue": true,
                                                                                                                                         "dialogNode": {
                                                                                                                                           "choices": [
                                                                                                                                             {
-                                                                                                                                              "continue": true,
                                                                                                                                               "dialogNode": {
                                                                                                                                                 "choices": [
                                                                                                                                                   {
-                                                                                                                                                    "continue": true,
                                                                                                                                                     "dialogNode": {
                                                                                                                                                       "characterRef": "char_1792138742562_zqrq6cn6f",
                                                                                                                                                       "choices": [
                                                                                                                                                         {
-                                                                                                                                                          "continue": true,
                                                                                                                                                           "dialogNode": {
                                                                                                                                                             "choices": [
                                                                                                                                                               {
-                                                                                                                                                                "continue": true,
                                                                                                                                                                 "dialogNode": {
                                                                                                                                                                   "choices": [
                                                                                                                                                                     {
-                                                                                                                                                                      "continue": true,
                                                                                                                                                                       "dialogNode": {
                                                                                                                                                                         "choices": [
                                                                                                                                                                           {
-                                                                                                                                                                            "continue": true,
                                                                                                                                                                             "dialogNode": {
                                                                                                                                                                               "choices": [
                                                                                                                                                                                 {
-                                                                                                                                                                                  "continue": true,
                                                                                                                                                                                   "dialogNode": {
                                                                                                                                                                                     "choices": [
                                                                                                                                                                                       {
-                                                                                                                                                                                        "continue": true,
                                                                                                                                                                                         "dialogNode": {
                                                                                                                                                                                           "choices": [
                                                                                                                                                                                             {
-                                                                                                                                                                                              "continue": true,
                                                                                                                                                                                               "dialogNode": {
                                                                                                                                                                                                 "characterRef": "char_1792138742562_zqrq6cn6f",
                                                                                                                                                                                                 "choices": [
                                                                                                                                                                                                   {
-                                                                                                                                                                                                    "continue": true,
                                                                                                                                                                                                     "dialogNode": {
                                                                                                                                                                                                       "choices": [
                                                                                                                                                                                                         {
-                                                                                                                                                                                                          "continue": true,
                                                                                                                                                                                                           "dialogNode": {
                                                                                                                                                                                                             "choices": [
                                                                                                                                                                                                               {
-                                                                                                                                                                                                                "continue": true,
                                                                                                                                                                                                                 "dialogNode": {
                                                                                                                                                                                                                   "choices": [],
                                                                                                                                                                                                                   "id": "node_1792456790818",
@@ -376,7 +342,6 @@
                                                                   ],
                                                                   "id": "node_1792453580032",
                                                                   "speaker": "Vic",
-                                                                  "speakerState": "state_1792415304558",
                                                                   "text": "She was mocking Tim before. He changed schools."
                                                                 },
                                                                 "id": "continue_1792453580032",
@@ -425,7 +390,6 @@
                               ],
                               "id": "node_1792452838370",
                               "speaker": "Vic",
-                              "speakerState": "default",
                               "text": "I'm sorry, Mom!"
                             },
                             "id": "continue_1792452838370",
@@ -459,7 +423,6 @@
       "emotion": "neutral",
       "id": "root",
       "speaker": "Vic",
-      "speakerState": "state_1792415304558",
       "text": "Hi Mom, Dad! I'm home!"
     },
     "effectsOncePerChoice": false,
