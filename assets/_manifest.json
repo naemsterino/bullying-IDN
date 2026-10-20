@@ -510,6 +510,33 @@
       "size": 126472,
       "type": "image",
       "uploadedAt": "2026-10-20T16:57:17.739Z"
+    },
+    "asset_1792517765532_sb72gnavt": {
+      "filename": "Stan_fistbump.png",
+      "folder": "backgrounds",
+      "id": "asset_1792517765532_sb72gnavt",
+      "mimeType": "image/png",
+      "size": 112154,
+      "type": "image",
+      "uploadedAt": "2026-10-20T17:36:05.532Z"
+    },
+    "asset_1792518011783_40zz3lse4": {
+      "filename": "Stan_shyhappy.png",
+      "folder": "backgrounds",
+      "id": "asset_1792518011783_40zz3lse4",
+      "mimeType": "image/png",
+      "size": 113996,
+      "type": "image",
+      "uploadedAt": "2026-10-20T17:40:11.783Z"
+    },
+    "asset_1792518119551_x4wldgu8z": {
+      "filename": "Stan_openhandlookingdown.png",
+      "folder": "backgrounds",
+      "id": "asset_1792518119551_x4wldgu8z",
+      "mimeType": "image/png",
+      "size": 113949,
+      "type": "image",
+      "uploadedAt": "2026-10-20T17:41:59.551Z"
     }
   }
 }
