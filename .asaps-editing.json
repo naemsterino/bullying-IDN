@@ -1,10 +1,15 @@
 {
   "v": 1,
   "locks": {
-    "beat_5": {
-      "user": "Naemi",
-      "since": "2026-10-20T13:39:06.829Z",
-      "beat": "start"
+    "beat_95": {
+      "user": "elliezero",
+      "since": "2026-10-20T13:47:39.643Z",
+      "beat": "trip continued 2"
+    },
+    "beat_59": {
+      "user": "elliezero",
+      "since": "2026-10-20T13:47:49.155Z",
+      "beat": "trip continued 3"
     }
   }
 }

@@ -9,11 +9,11 @@
   "id": "beat_61",
   "locations": [],
   "name": "trip continued 1",
-  "node": "asset_1792503371664_2",
+  "node": "asset_1792504018951_2",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Laugh",
-    "node": "asset_1792503371664_2",
+    "node": "asset_1792504018951_2",
     "text": "Just as Vic walks past you, you put your leg out in front of them, making them fall over and land face-first onto their own tray of food. Their face is covered in mashed potatoes."
   },
   "type": "infoText",
