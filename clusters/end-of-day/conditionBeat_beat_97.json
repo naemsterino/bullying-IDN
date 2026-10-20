@@ -1,0 +1,37 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "label": "true",
+      "targetId": "beat_99"
+    },
+    {
+      "label": "false",
+      "targetId": "beat_100"
+    }
+  ],
+  "id": "beat_97",
+  "locations": [],
+  "name": "Check apology (Paste)",
+  "parameters": {
+    "compareSource": "inventory",
+    "condition": {
+      "operator": "==",
+      "type": "variable",
+      "value": true,
+      "variableName": "apology"
+    },
+    "conditionType": "variable",
+    "falseTarget": "beat_100",
+    "moodAxis": "valence",
+    "operator": "==",
+    "quantityCheck": false,
+    "trueTarget": "beat_99",
+    "value": true,
+    "variableName": "apology"
+  },
+  "type": "conditionBeat",
+  "x": 2114.0734356859584,
+  "y": 783.8647916035056
+}

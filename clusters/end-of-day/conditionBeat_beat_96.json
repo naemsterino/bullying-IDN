@@ -1,0 +1,37 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "label": "true",
+      "targetId": "beat_97"
+    },
+    {
+      "label": "false",
+      "targetId": "beat_102"
+    }
+  ],
+  "id": "beat_96",
+  "locations": [],
+  "name": "intervention = false (Paste)",
+  "parameters": {
+    "compareSource": "inventory",
+    "condition": {
+      "operator": "==",
+      "type": "variable",
+      "value": true,
+      "variableName": "intervention"
+    },
+    "conditionType": "variable",
+    "falseTarget": "beat_102",
+    "moodAxis": "valence",
+    "operator": "==",
+    "quantityCheck": false,
+    "trueTarget": "beat_97",
+    "value": true,
+    "variableName": "intervention"
+  },
+  "type": "conditionBeat",
+  "x": 1934.0734356859582,
+  "y": 843.8647916035056
+}

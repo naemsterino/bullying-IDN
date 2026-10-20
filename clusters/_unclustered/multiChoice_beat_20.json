@@ -1,6 +1,5 @@
 {
   "_format": "1.0",
-  "cluster": "cluster_1792502673601",
   "connections": [
     {
       "label": "talk to bystander",
@@ -76,6 +75,6 @@
     "speaker": ""
   },
   "type": "multiChoice",
-  "x": 1596.0648893184782,
-  "y": -291.2629770311868
+  "x": 218.0000000000016,
+  "y": -1117.9999999999998
 }

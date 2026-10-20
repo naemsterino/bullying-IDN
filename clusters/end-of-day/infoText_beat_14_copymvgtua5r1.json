@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_96"
+    }
+  ],
+  "id": "beat_14_copymvgtua5r1",
+  "locations": [],
+  "name": "victim start - after school (Paste)",
+  "node": "db2e1380-ffc6-4d0c-97ce-a39a013a5b16",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "db2e1380-ffc6-4d0c-97ce-a39a013a5b16",
+    "text": "The final few hours of the school day that you have to endure are, as usual, painfully insipid. You can barely keep your eyes open while the different teachers hold lectures that you couldn’t possibly have any less interest in. Just as you’re about to doze off from boredom, the ring of the school bell reverberates throughout the building, signaling that it’s finally time to go home. You pack your bag while trying your best to evade the stern look of your teacher, they definitely noticed that you weren’t exactly giving the lecture your full attention. As you walk out of the classroom and head toward the main entrance to the school, you find yourself reflecting over what has transpired during the day…"
+  },
+  "type": "infoText",
+  "x": 1754.0734356859582,
+  "y": 901.6884151952652
+}

@@ -1,6 +1,5 @@
 {
   "_format": "1.0",
-  "cluster": "cluster_1792502673601",
   "connections": [
     {
       "targetId": "beat_20"
@@ -15,6 +14,6 @@
     "text": "school has ended and you are sad :c"
   },
   "type": "infoText",
-  "x": 1379.378180532646,
-  "y": -291.24477126871113
+  "x": -1.9999999999984084,
+  "y": -1117.9999999999998
 }

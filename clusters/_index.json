@@ -184,74 +184,164 @@
       }
     },
     {
-      "beatId": "beat_57",
-      "clusterId": "cluster_1792502673601",
-      "position": {
-        "x": 60,
-        "y": 300,
-        "z": 0
-      }
-    },
-    {
-      "beatId": "beat_14",
-      "clusterId": "cluster_1792502673601",
-      "position": {
-        "x": 260,
-        "y": 300,
-        "z": 0
-      }
-    },
-    {
-      "beatId": "beat_20",
-      "clusterId": "cluster_1792502673601",
-      "position": {
-        "x": 480,
-        "y": 300,
-        "z": 0
-      }
-    },
-    {
-      "beatId": "beat_31",
-      "clusterId": "cluster_1792502673601",
-      "position": {
-        "x": 780,
-        "y": 120,
-        "z": 0
-      }
-    },
-    {
-      "beatId": "beat_30",
-      "clusterId": "cluster_1792502673601",
-      "position": {
-        "x": 800,
-        "y": 300,
-        "z": 0
-      }
-    },
-    {
-      "beatId": "beat_32",
-      "clusterId": "cluster_1792502673601",
-      "position": {
-        "x": 800,
-        "y": 460,
-        "z": 0
-      }
-    },
-    {
-      "beatId": "beat_33",
-      "clusterId": "cluster_1792502673601",
-      "position": {
-        "x": 1060,
-        "y": 300,
-        "z": 0
-      }
-    },
-    {
       "beatId": "beat_95",
       "clusterId": "cluster_1792502468225",
       "position": {
         "x": 900,
         "y": 620,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_100",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 900,
+        "y": 420,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_101",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1100,
+        "y": 440,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_102",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 680,
+        "y": 520,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_103",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1280,
+        "y": 320,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_104",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1460,
+        "y": 320,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_105",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1640,
+        "y": 340,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_106",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1280,
+        "y": 440,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_107",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1460,
+        "y": 460,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_108",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1640,
+        "y": 480,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_109",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1280,
+        "y": 580,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_14_copymvgtua5r1",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 1360,
+        "y": 560,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_96",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 480,
+        "y": 400,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_97",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 660,
+        "y": 340,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_98",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1100,
+        "y": 320,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_99",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 900,
+        "y": 280,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_14_copymvgtua5r1",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 280,
+        "y": 400,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_57",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 60,
+        "y": 400,
         "z": 0
       }
     }

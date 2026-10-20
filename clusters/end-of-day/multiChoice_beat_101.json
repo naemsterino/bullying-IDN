@@ -1,0 +1,65 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "label": "Look for Stan and talk to him",
+      "targetId": "beat_103"
+    },
+    {
+      "label": "Call your parents",
+      "targetId": "beat_106"
+    },
+    {
+      "label": "Maybe not…",
+      "targetId": "beat_109"
+    }
+  ],
+  "id": "beat_101",
+  "locations": [],
+  "name": "apology = false multi choice (Paste)",
+  "parameters": {
+    "choices": [
+      {
+        "effects": [
+          {
+            "target": "friend",
+            "type": "setVariable",
+            "value": true
+          }
+        ],
+        "id": "choice_1792506392095",
+        "location": "",
+        "target": "beat_103",
+        "text": "Look for Stan and talk to him"
+      },
+      {
+        "effects": [
+          {
+            "target": "call",
+            "type": "setVariable",
+            "value": true
+          }
+        ],
+        "id": "choice_1792506392644",
+        "location": "",
+        "target": "beat_106",
+        "text": "Call your parents"
+      },
+      {
+        "id": "choice_1792506393722",
+        "location": "",
+        "target": "beat_109",
+        "text": "Maybe not…"
+      }
+    ],
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "question": "Even so, Stan’s actions make you think that there might be something you can do to solve this situation. Maybe if you talk to someone, they could help you.",
+    "speaker": ""
+  },
+  "type": "multiChoice",
+  "x": 2554.0734356859584,
+  "y": 846.0411680117459
+}

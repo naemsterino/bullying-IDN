@@ -1,0 +1,57 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [],
+  "id": "beat_104",
+  "locations": [],
+  "name": "Talk to Stan dialogue tree (Paste)",
+  "parameters": {
+    "dialogTree": {
+      "characterRef": "char_1792094383279_wzb17mkkt",
+      "choices": [
+        {
+          "dialogNode": {
+            "choices": [
+              {
+                "dialogNode": {
+                  "choices": [
+                    {
+                      "id": "choice_1792507236852",
+                      "target": "beat_105",
+                      "text": "“Sounds like a deal, thanks Stan.”",
+                      "visible": true
+                    }
+                  ],
+                  "id": "node_1792507188921",
+                  "speaker": "Stan",
+                  "text": "“Yeah, well she still sucks and I should have given her a piece of my mind way sooner. Tell you what, to make up for it, if she ever tries anything again while I’m not around you can come talk to me about it later. I’d be happy to remind you that whatever messed up stuff she’s said about you isn’t true… and that she's a massive jerk.”"
+                },
+                "id": "choice_1792507172663",
+                "text": "“Don’t say that… I know better than anyone how scary Billie can be.”",
+                "visible": true
+              }
+            ],
+            "id": "node_1792507147903",
+            "speaker": "Stan",
+            "text": "“Nah, don’t worry about it! I’m sorry I didn’t do anything sooner.”"
+          },
+          "id": "choice_1792507053768",
+          "text": "“Not yet… I wanted to talk to you. Thanks for what you did on the yard, you helped out big time.”",
+          "visible": true
+        }
+      ],
+      "emotion": "neutral",
+      "id": "root",
+      "speaker": "Stan",
+      "text": "“Hm? oh, hey Vic! What’s up, not going home?”"
+    },
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "showAvatars": true
+  },
+  "showSpeaker": true,
+  "type": "dialogTree",
+  "x": 2914.0734356859584,
+  "y": 710.3939208282263
+}

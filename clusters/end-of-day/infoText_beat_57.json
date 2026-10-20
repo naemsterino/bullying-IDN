@@ -3,7 +3,7 @@
   "cluster": "cluster_1792502673601",
   "connections": [
     {
-      "targetId": "beat_14"
+      "targetId": "beat_14_copymvgtua5r1"
     }
   ],
   "id": "beat_57",
@@ -27,6 +27,6 @@
     "text": "The day continues…\n\nYou are now playing as **Vic**."
   },
   "type": "infoText",
-  "x": 1137.2302253071755,
-  "y": -291.3134229513183
+  "x": 1100,
+  "y": -280
 }

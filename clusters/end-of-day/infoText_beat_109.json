@@ -1,0 +1,20 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_10"
+    }
+  ],
+  "id": "beat_109",
+  "locations": [],
+  "name": "Go home (Paste)",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "You decide to just get home as quickly as possible. Telling people won’t help, what can they do? You would just be worrying them for no good reason. No one needs to know. Maybe if you just endure long enough, it will all go away by itself… Eventually… Hopefully…"
+  },
+  "type": "infoText",
+  "x": 2734.0734356859584,
+  "y": 970.3939208282263
+}

@@ -1,0 +1,20 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_10"
+    }
+  ],
+  "id": "beat_105",
+  "locations": [],
+  "name": "Talk to Stan end (Paste)",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "Stan smiles at you and offers a fistbump. You return it rather awkwardly but he doesn’t seem to mind. He asks if you would like to walk to the bus stop together and you gladly agree. You enjoy small talk with Stan on the way there, maybe school won’t be so bad from now on."
+  },
+  "type": "infoText",
+  "x": 3094.0734356859584,
+  "y": 730.3939208282263
+}

@@ -1,0 +1,80 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [],
+  "id": "beat_107",
+  "locations": [],
+  "name": "Call your parents dialogue tree (Paste)",
+  "parameters": {
+    "dialogTree": {
+      "choices": [
+        {
+          "dialogNode": {
+            "choices": [
+              {
+                "dialogNode": {
+                  "choices": [
+                    {
+                      "dialogNode": {
+                        "choices": [
+                          {
+                            "dialogNode": {
+                              "choices": [
+                                {
+                                  "id": "choice_1792507829768",
+                                  "target": "beat_108",
+                                  "text": "“Yes mom, no detours.”",
+                                  "visible": true
+                                }
+                              ],
+                              "id": "node_1792507824969",
+                              "speaker": "Mom",
+                              "text": "“*Sigh*… Alright, I get it. I’m glad you changed your mind and decided to bring it up. Come home so we can talk about this in detail with your father, and no detours!”"
+                            },
+                            "id": "choice_1792507801310",
+                            "text": "“I don’t know… I guess I didn’t think solving this would be as easy as talking to someone about it.”",
+                            "visible": true
+                          }
+                        ],
+                        "id": "node_1792507796583",
+                        "speaker": "Mom",
+                        "text": "“That’s terrible! Why haven’t you told us about this sooner?”"
+                      },
+                      "id": "choice_1792507764212",
+                      "text": "“No mom, ew! I’m being serious! It’s like she hates me for some reason… She keeps harassing me every day and I'm tired of it. I just want to have a peaceful school life without having to worry about getting shoved in a locker, figuratively speaking, although I wouldn’t put it past her.”",
+                      "visible": true
+                    }
+                  ],
+                  "id": "node_1792507746089",
+                  "speaker": "Mom",
+                  "text": "“Oh well, Vic, some people just have a hard time expressing their feelings. So when they find someone they really like they-”"
+                },
+                "id": "choice_1792507692101",
+                "text": "“No mom… Or, well… Kind of? The thing is, there's this girl in my class that keeps messing with me and I don’t know why, it’s like she thinks I'm her personal punching bag.”",
+                "visible": true
+              }
+            ],
+            "id": "node_1792507644990",
+            "speaker": "Mom",
+            "text": "“Oh! That makes more sense! I did think this was a weird time to be skipping school… But then, why are you calling? Are you in trouble!?”"
+          },
+          "id": "choice_1792507611562",
+          "text": "“*sigh*… No mom, I’m not skipping school. The school day is over, I’m on my way home.”",
+          "visible": true
+        }
+      ],
+      "emotion": "neutral",
+      "id": "root",
+      "speaker": "Mom",
+      "text": "“Hi Vic! How are you doing? you don’t usually call while at school, did something happen? Since you're calling I'm assuming you’re on break, or… are you skipping school!? you better not be skipping school Vic!”"
+    },
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "showAvatars": true
+  },
+  "showSpeaker": true,
+  "type": "dialogTree",
+  "x": 2914.0734356859584,
+  "y": 850.3939208282263
+}

@@ -1,0 +1,20 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_10"
+    }
+  ],
+  "id": "beat_108",
+  "locations": [],
+  "name": "Call your parents end (Paste)",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "You hang up the phone and quickly head back home. When you arrive your mom greets you at the door with a complicated expression on her face. As you head into the living room you see your dad sitting by a table looking more serious than you’ve ever seen him be. You tell both your parents everything that has happened between you and Billie and they listen very carefully. All you can do now is hope that whatever they decide to do with this information will actually help you in the long run."
+  },
+  "type": "infoText",
+  "x": 3094.0734356859584,
+  "y": 872.5702972364668
+}

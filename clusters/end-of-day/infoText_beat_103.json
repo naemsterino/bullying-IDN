@@ -1,0 +1,20 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_104"
+    }
+  ],
+  "id": "beat_103",
+  "locations": [],
+  "name": "Talk to Stan (Paste)",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "“H-hello… hi Stan.”",
+    "text": "Stan was the one person that stood up for you against Billie. You don’t really know why he did what he did, but that doesn’t mean you aren’t grateful. You decide to find him so that you can thank him properly. Wandering the halls of the school you find Stan rummaging in his locker, seemingly getting ready to leave. This seems as good of a time as any to approach him, as such you call out in a somewhat meek voice."
+  },
+  "type": "infoText",
+  "x": 2734.0734356859584,
+  "y": 728.2175444199861
+}

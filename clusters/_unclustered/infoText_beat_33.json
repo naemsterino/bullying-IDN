@@ -1,11 +1,6 @@
 {
   "_format": "1.0",
-  "cluster": "cluster_1792502673601",
-  "connections": [
-    {
-      "targetId": "beat_10"
-    }
-  ],
+  "connections": [],
   "id": "beat_33",
   "locations": [],
   "name": "end of day",
@@ -15,6 +10,6 @@
     "text": "end of day"
   },
   "type": "infoText",
-  "x": 2223.3793943317987,
-  "y": -300.2557336185122
+  "x": 804.3723065030761,
+  "y": -1153.7816836772522
 }
