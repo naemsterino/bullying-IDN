@@ -362,6 +362,24 @@
       "size": 29824,
       "type": "image",
       "uploadedAt": "2026-10-19T22:55:26.456Z"
+    },
+    "asset_1792487603879_vh7s6rgbn": {
+      "filename": "Stan_Smile.png",
+      "folder": "backgrounds",
+      "id": "asset_1792487603879_vh7s6rgbn",
+      "mimeType": "image/png",
+      "size": 108064,
+      "type": "image",
+      "uploadedAt": "2026-10-20T09:13:23.879Z"
+    },
+    "asset_1792487633368_bq9q98pek": {
+      "filename": "Billie_Angry.png",
+      "folder": "backgrounds",
+      "id": "asset_1792487633368_bq9q98pek",
+      "mimeType": "image/png",
+      "size": 167270,
+      "type": "image",
+      "uploadedAt": "2026-10-20T09:13:53.368Z"
     }
   }
 }

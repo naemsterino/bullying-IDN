@@ -38,7 +38,7 @@
       "id": "state_1792415613088",
       "name": "angry",
       "visual": {
-        "assetId": "asset_1792415658886_tahrqpbh4"
+        "assetId": "asset_1792487633368_bq9q98pek"
       }
     }
   ],
@@ -46,7 +46,7 @@
     "bully"
   ],
   "traits": [],
-  "updatedAt": "2026-10-19T13:22:30.985Z",
+  "updatedAt": "2026-10-20T09:13:57.689Z",
   "visual": {
     "defaultAssetId": "asset_1792415480970_jdngdk1ad",
     "type": "static"
