@@ -1,6 +1,10 @@
 {
   "_format": "1.0",
-  "connections": [],
+  "connections": [
+    {
+      "targetId": "beat_94"
+    }
+  ],
   "id": "beat_93",
   "locations": [],
   "name": "Neutral bad 3",

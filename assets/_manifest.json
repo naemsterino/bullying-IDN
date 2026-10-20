@@ -127,42 +127,6 @@
       "type": "image",
       "uploadedAt": "2026-10-15T21:53:51.456Z"
     },
-    "asset_1792138896919_39j5x8kpi": {
-      "filename": "Skärmavbild 2026-10-16 kl. 10.21.28.png",
-      "folder": "backgrounds",
-      "id": "asset_1792138896919_39j5x8kpi",
-      "mimeType": "image/png",
-      "size": 218647,
-      "type": "image",
-      "uploadedAt": "2026-10-16T08:21:36.920Z"
-    },
-    "asset_1792138926736_g9qbi8idp": {
-      "filename": "Skärmavbild 2026-10-16 kl. 10.21.28_2.png",
-      "folder": "backgrounds",
-      "id": "asset_1792138926736_g9qbi8idp",
-      "mimeType": "image/png",
-      "size": 218647,
-      "type": "image",
-      "uploadedAt": "2026-10-16T08:22:06.736Z"
-    },
-    "asset_1792139593810_48wjsnoed": {
-      "filename": "Skärmavbild 2026-10-16 kl. 10.32.57.png",
-      "folder": "backgrounds",
-      "id": "asset_1792139593810_48wjsnoed",
-      "mimeType": "image/png",
-      "size": 224955,
-      "type": "image",
-      "uploadedAt": "2026-10-16T08:33:13.810Z"
-    },
-    "asset_1792139612023_hrnai2bk4": {
-      "filename": "Skärmavbild 2026-10-16 kl. 10.32.57_2.png",
-      "folder": "backgrounds",
-      "id": "asset_1792139612023_hrnai2bk4",
-      "mimeType": "image/png",
-      "size": 224955,
-      "type": "image",
-      "uploadedAt": "2026-10-16T08:33:32.023Z"
-    },
     "asset_1792148623062_0": {
       "filename": "bedroom.jpg",
       "folder": "backgrounds",
@@ -425,6 +389,24 @@
       "size": 108064,
       "type": "image",
       "uploadedAt": "2026-10-20T09:16:27.604Z"
+    },
+    "asset_1792503059766_0": {
+      "filename": "cafeteria_2.mp3",
+      "folder": "sounds",
+      "id": "asset_1792503059766_0",
+      "mimeType": "audio/mpeg",
+      "size": 1645440,
+      "type": "audio",
+      "uploadedAt": "2026-10-20T13:30:59.766Z"
+    },
+    "asset_1792503059772_1": {
+      "filename": "schoolyard_2.mp3",
+      "folder": "sounds",
+      "id": "asset_1792503059772_1",
+      "mimeType": "audio/mpeg",
+      "size": 2294595,
+      "type": "audio",
+      "uploadedAt": "2026-10-20T13:30:59.772Z"
     }
   }
 }

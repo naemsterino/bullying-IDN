@@ -52,8 +52,8 @@
       "beatId": "beat_27_copymv54nxbi1",
       "clusterId": "cluster_1792501948337",
       "position": {
-        "x": 700,
-        "y": 100,
+        "x": 720,
+        "y": 120,
         "z": 0
       }
     },
@@ -79,8 +79,8 @@
       "beatId": "beat_52",
       "clusterId": "cluster_1792501948337",
       "position": {
-        "x": 980,
-        "y": 100,
+        "x": 960,
+        "y": 40,
         "z": 0
       }
     },
