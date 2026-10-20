@@ -48,9 +48,9 @@
     },
     "sound": {
       "backgroundMusic": "",
-      "backgroundMusicAssetId": "asset_1792501826580_0",
+      "backgroundMusicAssetId": "asset_1792503596181_0",
       "backgroundMusicName": "Evans Full.wav",
-      "backgroundVolume": 100,
+      "backgroundVolume": 70,
       "mute": false
     },
     "speakerDisplay": {
@@ -61,6 +61,7 @@
     },
     "textEffects": {
       "animation": "none",
+      "buttonEntrance": "none",
       "fadeInDuration": 300,
       "typewriterSpeed": 40
     },

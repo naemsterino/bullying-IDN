@@ -1,25 +1,10 @@
 {
   "v": 1,
   "locks": {
-    "beat_95": {
-      "user": "elliezero",
-      "since": "2026-10-20T13:40:40.836Z",
-      "beat": "trip continued 2"
-    },
-    "beat_59": {
-      "user": "elliezero",
-      "since": "2026-10-20T13:40:49.909Z",
-      "beat": "trip continued 3"
-    },
-    "beat_60": {
-      "user": "elliezero",
-      "since": "2026-10-20T13:40:52.745Z",
-      "beat": "trip conclusion"
-    },
-    "beat_19": {
-      "user": "elliezero",
-      "since": "2026-10-20T13:40:55.432Z",
-      "beat": "apologise or not"
+    "beat_5": {
+      "user": "Naemi",
+      "since": "2026-10-20T13:39:06.829Z",
+      "beat": "start"
     }
   }
 }
