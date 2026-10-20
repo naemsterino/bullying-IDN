@@ -1,7 +1,7 @@
 {
   "_format": "1.0",
   "connections": [],
-  "defaultTarget": "beat_64_copymva1z9h31_copymva3d1m11_copymva4fbgc1",
+  "defaultTarget": "beat_0dh2uu32",
   "defaultTargetDelay": 10,
   "id": "beat_81",
   "locations": [
@@ -109,7 +109,7 @@
                                                                                                                   "choices": [
                                                                                                                     {
                                                                                                                       "id": "choice_1792488474035",
-                                                                                                                      "target": "beat_64_copymva1z9h31_copymva3d1m11_copymva4fbgc1",
+                                                                                                                      "target": "beat_0dh2uu32",
                                                                                                                       "text": "Player response...",
                                                                                                                       "visible": true
                                                                                                                     }
