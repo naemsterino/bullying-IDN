@@ -54,48 +54,38 @@
       "characterRef": "char_1792094383279_wzb17mkkt",
       "choices": [
         {
-          "continue": true,
           "dialogNode": {
             "characterRef": "char_1792138742562_zqrq6cn6f",
             "choices": [
               {
-                "continue": true,
                 "dialogNode": {
                   "choices": [
                     {
-                      "continue": true,
                       "dialogNode": {
                         "characterRef": "char_1792138742562_zqrq6cn6f",
                         "choices": [
                           {
-                            "continue": true,
                             "dialogNode": {
                               "choices": [
                                 {
-                                  "continue": true,
                                   "dialogNode": {
                                     "characterRef": "char_1792138742562_zqrq6cn6f",
                                     "choices": [
                                       {
-                                        "continue": true,
                                         "dialogNode": {
                                           "choices": [
                                             {
-                                              "continue": true,
                                               "dialogNode": {
                                                 "characterRef": "char_1792138742562_zqrq6cn6f",
                                                 "choices": [
                                                   {
-                                                    "continue": true,
                                                     "dialogNode": {
                                                       "choices": [
                                                         {
-                                                          "continue": true,
                                                           "dialogNode": {
                                                             "characterRef": "char_1792094383279_wzb17mkkt",
                                                             "choices": [
                                                               {
-                                                                "continue": true,
                                                                 "dialogNode": {
                                                                   "characterRef": "char_1792138742562_zqrq6cn6f",
                                                                   "choices": [
@@ -181,7 +171,6 @@
             ],
             "id": "node_1792428724182",
             "speaker": "Vic",
-            "speakerState": "state_1792415304558",
             "text": " I’m fine. \nWhy did you do that? I thought you didn't really care about me?\n"
           },
           "id": "continue_1792428724182",

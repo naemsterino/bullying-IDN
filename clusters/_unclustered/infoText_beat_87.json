@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_88"
+    }
+  ],
+  "id": "beat_87",
+  "locations": [],
+  "name": "bad end ignored your parents",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Go to sleep",
+    "text": "You ignore them, they try to talk with you but become increasingly impatient. They eventually give in and close the door without saying anything more"
+  },
+  "type": "infoText",
+  "x": 3701.6433248347744,
+  "y": -69.18331981390196
+}

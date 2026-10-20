@@ -24,13 +24,21 @@
       "visual": {
         "assetId": "asset_1792415339862_769mb1x9l"
       }
+    },
+    {
+      "displayName": "smile",
+      "id": "state_1792487573790",
+      "name": "smile",
+      "visual": {
+        "assetId": "asset_1792487787604_0"
+      }
     }
   ],
   "tags": [
     "bystander"
   ],
   "traits": [],
-  "updatedAt": "2026-10-19T13:09:50.848Z",
+  "updatedAt": "2026-10-20T09:16:53.102Z",
   "visual": {
     "defaultAssetId": "asset_1792415371132_jdcwpelen",
     "type": "static"

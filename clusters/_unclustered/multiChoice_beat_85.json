@@ -1,0 +1,40 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "label": "Yell at your parents",
+      "targetId": "beat_86"
+    },
+    {
+      "label": "Ignore your parents",
+      "targetId": "beat_87"
+    }
+  ],
+  "id": "beat_85",
+  "locations": [],
+  "name": "bad end multi choice 1",
+  "parameters": {
+    "choices": [
+      {
+        "id": "choice_1792493105166",
+        "location": "",
+        "target": "beat_86",
+        "text": "Yell at your parents"
+      },
+      {
+        "id": "choice_1792493124607",
+        "location": "",
+        "target": "beat_87",
+        "text": "Ignore your parents"
+      }
+    ],
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "question": "You can hear the murmurs of your parents from outside your room. You know they are worried but you don’t want to talk to them, you don’t want to talk to anyone right now. You hear your parents come closer as they gently open the door. They want to know what has happened. ",
+    "speaker": ""
+  },
+  "type": "multiChoice",
+  "x": 3455.765070722267,
+  "y": -146.93331218450743
+}

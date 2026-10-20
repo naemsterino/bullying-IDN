@@ -1,4 +1,15 @@
 {
   "v": 1,
-  "locks": {}
+  "locks": {
+    "beat_89": {
+      "user": "DukeSallos",
+      "since": "2026-10-20T11:01:43.810Z",
+      "beat": "Bad end monologue"
+    },
+    "beat_94": {
+      "user": "DukeSallos",
+      "since": "2026-10-20T11:02:13.448Z",
+      "beat": "Neutral bad 4"
+    }
+  }
 }

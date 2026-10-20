@@ -7,13 +7,13 @@
   ],
   "id": "beat_9_copymv4yiwma1",
   "locations": [],
-  "name": "no friend, still bully",
+  "name": "friend, still bully",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
     "creditsPageBody": "",
     "creditsPageTitle": "Credits",
-    "message": "nay",
+    "message": "Neutral bad ending",
     "reset": true,
     "resetCharacters": true,
     "resetCounters": true,
@@ -27,6 +27,6 @@
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 3439.1597105859896,
-  "y": -37.32910086175633
+  "x": 4601.42376939978,
+  "y": 46.24998534609165
 }
