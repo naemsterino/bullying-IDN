@@ -11,5 +11,10 @@
   "id": "cluster_1792502468225",
   "isExpanded": true,
   "name": "cafeteria",
+  "sound": {
+    "file": "asset_1792406791015_0",
+    "loop": true,
+    "volume": 0.5
+  },
   "type": "spatial"
 }
