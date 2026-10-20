@@ -3,7 +3,45 @@
   "cluster": "cluster_1792502673601",
   "connections": [],
   "id": "beat_107",
-  "locations": [],
+  "locations": [
+    {
+      "autosize": true,
+      "height": 104,
+      "id": "npc",
+      "kind": "dialog",
+      "name": "NPC: Mom",
+      "width": 1536,
+      "x": 192,
+      "y": 50,
+      "zIndex": 0
+    },
+    {
+      "autosize": true,
+      "height": 80,
+      "id": "choice_0",
+      "kind": "button",
+      "name": "Choice 0",
+      "width": 825,
+      "x": 548,
+      "y": 174,
+      "zIndex": 1
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792138742562_zqrq6cn6f",
+      "characterName": "vic",
+      "height": 1080,
+      "id": "element_1792515501130",
+      "kind": "character",
+      "name": "vic",
+      "size": 100,
+      "stateId": "state_1792515485173",
+      "width": 1000,
+      "x": 1152,
+      "y": 0,
+      "zIndex": 2
+    }
+  ],
   "name": "Call your parents dialogue tree (Paste)",
   "parameters": {
     "dialogTree": {

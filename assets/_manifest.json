@@ -483,6 +483,33 @@
       "size": 1165217,
       "type": "image",
       "uploadedAt": "2026-10-20T16:04:20.646Z"
+    },
+    "asset_1792515125460_ou6oid2s3": {
+      "filename": "Stan_Angry.png",
+      "folder": "backgrounds",
+      "id": "asset_1792515125460_ou6oid2s3",
+      "mimeType": "image/png",
+      "size": 114387,
+      "type": "image",
+      "uploadedAt": "2026-10-20T16:52:05.460Z"
+    },
+    "asset_1792515147151_1y5pvpn38": {
+      "filename": "Stan_AngryClosedHand.png",
+      "folder": "backgrounds",
+      "id": "asset_1792515147151_1y5pvpn38",
+      "mimeType": "image/png",
+      "size": 112648,
+      "type": "image",
+      "uploadedAt": "2026-10-20T16:52:27.151Z"
+    },
+    "asset_1792515437738_0": {
+      "filename": "VicOnPhone.png",
+      "folder": "backgrounds",
+      "id": "asset_1792515437738_0",
+      "mimeType": "image/png",
+      "size": 126472,
+      "type": "image",
+      "uploadedAt": "2026-10-20T16:57:17.739Z"
     }
   }
 }

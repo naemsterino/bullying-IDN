@@ -3,7 +3,45 @@
   "cluster": "cluster_1792502673601",
   "connections": [],
   "id": "beat_104",
-  "locations": [],
+  "locations": [
+    {
+      "autosize": true,
+      "height": 76,
+      "id": "npc",
+      "kind": "dialog",
+      "name": "NPC: Stan",
+      "width": 543,
+      "x": 689,
+      "y": 50,
+      "zIndex": 0
+    },
+    {
+      "autosize": true,
+      "height": 80,
+      "id": "choice_0",
+      "kind": "button",
+      "name": "Choice 0",
+      "width": 896,
+      "x": 512,
+      "y": 146,
+      "zIndex": 1
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792094383279_wzb17mkkt",
+      "characterName": "Stan",
+      "height": 1080,
+      "id": "element_1792514972673",
+      "kind": "character",
+      "name": "Stan",
+      "size": 100,
+      "stateId": "default",
+      "width": 1000,
+      "x": 0,
+      "y": 0,
+      "zIndex": 2
+    }
+  ],
   "name": "Talk to Stan dialogue tree (Paste)",
   "parameters": {
     "dialogTree": {
@@ -24,6 +62,7 @@
                   ],
                   "id": "node_1792507188921",
                   "speaker": "Stan",
+                  "speakerState": "default",
                   "text": "“Yeah, well she still sucks and I should have given her a piece of my mind way sooner. Tell you what, to make up for it, if she ever tries anything again while I’m not around you can come talk to me about it later. I’d be happy to remind you that whatever messed up stuff she’s said about you isn’t true… and that she's a massive jerk.”"
                 },
                 "id": "choice_1792507172663",
@@ -33,6 +72,7 @@
             ],
             "id": "node_1792507147903",
             "speaker": "Stan",
+            "speakerState": "state_1792487573790",
             "text": "“Nah, don’t worry about it! I’m sorry I didn’t do anything sooner.”"
           },
           "id": "choice_1792507053768",
@@ -43,6 +83,7 @@
       "emotion": "neutral",
       "id": "root",
       "speaker": "Stan",
+      "speakerState": "default",
       "text": "“Hm? oh, hey Vic! What’s up, not going home?”"
     },
     "effectsOncePerChoice": false,
