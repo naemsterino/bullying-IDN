@@ -1,0 +1,15 @@
+{
+  "_format": "1.0",
+  "containerBounds": {
+    "height": 300,
+    "width": 400
+  },
+  "containerPosition": {
+    "x": 100,
+    "y": 100
+  },
+  "id": "cluster_1792501998835",
+  "isExpanded": true,
+  "name": "cafeteria trip",
+  "type": "spatial"
+}

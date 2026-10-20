@@ -1,0 +1,20 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792501948337",
+  "connections": [
+    {
+      "targetId": "beat_16"
+    }
+  ],
+  "id": "beat_56",
+  "locations": [],
+  "name": "start of school",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "It's the start of the school day.\n\nYou are now playing as **Stan**.\n"
+  },
+  "type": "infoText",
+  "x": -1682.0634895463004,
+  "y": -285.6594396406392
+}

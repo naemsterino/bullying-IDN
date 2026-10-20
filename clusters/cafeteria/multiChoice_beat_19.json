@@ -1,0 +1,69 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "label": "Approach Vic to apologise for earlier",
+      "targetId": "beat_29"
+    },
+    {
+      "label": "Ignore Vic and go to your friends",
+      "targetId": "beat_29_copymv54phfs1"
+    },
+    {
+      "label": "Attempt to trip Vic over as a joke",
+      "targetId": "beat_29_copymv54phfs1_copymv54po2v1"
+    }
+  ],
+  "id": "beat_19",
+  "locations": [],
+  "name": "apologise or not",
+  "node": "asset_1791985733410_nufvbhp",
+  "parameters": {
+    "choices": [
+      {
+        "conditions": [
+          {
+            "operator": "==",
+            "type": "variable",
+            "value": true,
+            "variableName": "intervention"
+          }
+        ],
+        "effects": [
+          {
+            "target": "apology",
+            "type": "setVariable",
+            "value": "true"
+          }
+        ],
+        "id": "choice_1791798479933",
+        "location": "",
+        "target": "beat_29",
+        "text": "Approach Vic to apologise for earlier"
+      },
+      {
+        "id": "choice_1791798482885",
+        "location": "",
+        "target": "beat_29_copymv54phfs1",
+        "text": "Ignore Vic and go to your friends"
+      },
+      {
+        "id": "choice_1791798581947",
+        "location": "",
+        "target": "beat_29_copymv54phfs1_copymv54po2v1",
+        "text": "Attempt to trip Vic over as a joke"
+      }
+    ],
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "node": "asset_1791985733410_nufvbhp",
+    "question": "What do you do?",
+    "slotIntent": {},
+    "speaker": ""
+  },
+  "type": "multiChoice",
+  "x": 230.1301490367539,
+  "y": -283.6378701709645
+}

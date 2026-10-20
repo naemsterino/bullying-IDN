@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792501948337",
+  "connections": [
+    {
+      "targetId": "beat_53"
+    }
+  ],
+  "id": "beat_27",
+  "locations": [],
+  "name": "schoolyard, ignore",
+  "node": "asset_1791983560572_k7h6c1ji3",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791983560572_k7h6c1ji3",
+    "text": "You decide to simply try your best and ignore it, like you’ve done many times before. Though, you haven’t been this consciously aware of it for a while, ignoring it is what you, and everyone else, always does. Risking drawing Billie’s attention to yourself just isn’t worth it.\n"
+  },
+  "type": "infoText",
+  "x": -820.7477602503895,
+  "y": -283.9818509395409
+}

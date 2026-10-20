@@ -1,0 +1,15 @@
+{
+  "_format": "1.0",
+  "containerBounds": {
+    "height": 300,
+    "width": 400
+  },
+  "containerPosition": {
+    "x": -926.6491547786001,
+    "y": -424.09362446739726
+  },
+  "id": "cluster_1792502269121",
+  "isExpanded": true,
+  "name": "schoolyard ignore",
+  "type": "spatial"
+}

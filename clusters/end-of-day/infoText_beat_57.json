@@ -1,0 +1,32 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_14"
+    }
+  ],
+  "id": "beat_57",
+  "locations": [],
+  "name": "transition screen bully to victim",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "slotIntent": {
+      "actions": {
+        "buttonAnchors": {
+          "continueButton": {
+            "gap": 16,
+            "h": "center",
+            "relativeTo": "stage",
+            "v": "bottom"
+          }
+        }
+      }
+    },
+    "text": "The day continues…\n\nYou are now playing as **Vic**."
+  },
+  "type": "infoText",
+  "x": 1137.2302253071755,
+  "y": -291.3134229513183
+}

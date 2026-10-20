@@ -1,0 +1,20 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_20"
+    }
+  ],
+  "id": "beat_14",
+  "locations": [],
+  "name": "victim start - after school",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "school has ended and you are sad :c"
+  },
+  "type": "infoText",
+  "x": 1379.378180532646,
+  "y": -291.24477126871113
+}

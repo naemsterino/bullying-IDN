@@ -1,0 +1,20 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_33"
+    }
+  ],
+  "id": "beat_31",
+  "locations": [],
+  "name": "after school, talk to bystander",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "talk to Stan"
+  },
+  "type": "infoText",
+  "x": 1972.8009685802663,
+  "y": -434.26186615934205
+}

@@ -1,0 +1,127 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792501948337",
+  "connections": [],
+  "id": "beat_52",
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792095472673_hlp3ie1dh",
+      "characterName": "Billie",
+      "height": 1080,
+      "id": "element_1792416030079_0.17756214982744256",
+      "kind": "character",
+      "name": "Billie",
+      "size": 100,
+      "stateId": "default",
+      "width": 1920,
+      "x": 0,
+      "y": 0,
+      "zIndex": 4
+    },
+    {
+      "autosize": true,
+      "height": 73,
+      "id": "npc",
+      "kind": "dialog",
+      "name": "NPC: Billie",
+      "width": 266,
+      "x": 507,
+      "y": 50,
+      "zIndex": 5
+    },
+    {
+      "autosize": true,
+      "height": 80,
+      "id": "choice_0",
+      "kind": "button",
+      "name": "Choice 0",
+      "width": 200,
+      "x": 540,
+      "y": 143,
+      "zIndex": 6
+    }
+  ],
+  "name": "Intervene Dialogue",
+  "node": "asset_1791983560572_k7h6c1ji3",
+  "parameters": {
+    "backgroundAssetId": "asset_1791983560572_k7h6c1ji3",
+    "dialogTree": {
+      "choices": [
+        {
+          "dialogNode": {
+            "choices": [
+              {
+                "dialogNode": {
+                  "choices": [
+                    {
+                      "dialogNode": {
+                        "choices": [
+                          {
+                            "id": "choice_1791975395441",
+                            "target": "beat_53",
+                            "text": "\"Bye, meanie.\"",
+                            "visible": true
+                          }
+                        ],
+                        "id": "node_1791975375033",
+                        "speaker": "Billie",
+                        "text": "\"Whatever. You’re no fun.\""
+                      },
+                      "id": "choice_1791975365359",
+                      "text": "\"You started it.\"",
+                      "visible": true
+                    }
+                  ],
+                  "id": "node_1791975355751",
+                  "speaker": "Billie",
+                  "text": "\"Vic raised their voice at me!\""
+                },
+                "id": "choice_1791975340685",
+                "text": "\"Why are you getting so aggressive?\"",
+                "visible": true
+              }
+            ],
+            "id": "node_1791975332812",
+            "speaker": "Billie",
+            "text": "\"And what are you going to do if I don’t?\"\n"
+          },
+          "id": "choice_1791975319893",
+          "text": "\"Knock it off, Billie!\"",
+          "visible": true
+        }
+      ],
+      "emotion": "neutral",
+      "id": "root",
+      "speaker": "Billie",
+      "text": "\"What the hell, Vic!?\""
+    },
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "node": "asset_1791983560572_k7h6c1ji3",
+    "phaseOverrides": {
+      "root": {
+        "choice_0": {
+          "width": 200,
+          "x": 540
+        }
+      }
+    },
+    "showAvatars": true,
+    "slotIntent": {
+      "actions": {
+        "anchor": {
+          "gap": 0,
+          "h": "center",
+          "relativeTo": "stage",
+          "v": "bottom"
+        }
+      }
+    }
+  },
+  "showSpeaker": true,
+  "type": "dialogTree",
+  "x": -587.5748089677414,
+  "y": -447.7064107446269
+}

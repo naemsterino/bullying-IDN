@@ -1,5 +1,250 @@
 {
   "_format": "1.0",
-  "clusters": [],
-  "containerBeatPositions": []
+  "clusters": [
+    {
+      "id": "cluster_1792501948337",
+      "name": "schoolyard",
+      "slug": "schoolyard",
+      "type": "spatial"
+    },
+    {
+      "id": "cluster_1792502468225",
+      "name": "cafeteria",
+      "slug": "cafeteria",
+      "type": "spatial"
+    },
+    {
+      "id": "cluster_1792502673601",
+      "name": "end of day",
+      "slug": "end-of-day",
+      "type": "spatial"
+    }
+  ],
+  "containerBeatPositions": [
+    {
+      "beatId": "beat_56",
+      "clusterId": "cluster_1792501948337",
+      "position": {
+        "x": 40,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_16",
+      "clusterId": "cluster_1792501948337",
+      "position": {
+        "x": 240,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_18",
+      "clusterId": "cluster_1792501948337",
+      "position": {
+        "x": 440,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_27_copymv54nxbi1",
+      "clusterId": "cluster_1792501948337",
+      "position": {
+        "x": 700,
+        "y": 100,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_27",
+      "clusterId": "cluster_1792501948337",
+      "position": {
+        "x": 860,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_28",
+      "clusterId": "cluster_1792501948337",
+      "position": {
+        "x": 840,
+        "y": 460,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_52",
+      "clusterId": "cluster_1792501948337",
+      "position": {
+        "x": 980,
+        "y": 100,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_53",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 40,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_15",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 260,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_29",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 700,
+        "y": 160,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_54",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 920,
+        "y": 80,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_19",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 480,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_55",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 1140,
+        "y": 40,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_29_copymv54phfs1",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 840,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_29_copymv54phfs1_copymv54po2v1",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 680,
+        "y": 440,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_61",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 860,
+        "y": 520,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_59",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 1040,
+        "y": 580,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_60",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 1220,
+        "y": 640,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_57",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 60,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_14",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 260,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_20",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 480,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_31",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 780,
+        "y": 120,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_30",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 800,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_32",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 800,
+        "y": 460,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_33",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1060,
+        "y": 300,
+        "z": 0
+      }
+    }
+  ]
 }

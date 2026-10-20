@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "targetId": "beat_57"
+    }
+  ],
+  "id": "beat_55",
+  "locations": [],
+  "name": "apology-conclusion",
+  "node": "asset_1791985733410_nufvbhp",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791985733410_nufvbhp",
+    "text": "After the exchange, you walk away to join your friends, feeling slightly less guilty, and maybe even proud of yourself for being the bigger person. \n\nWhile sitting with your friends, continuing lunch as normal, you can't help but glance over at Vic. As you do, you notice they aren’t sitting alone at lunch like usual. They seem to be accompanied by… Stan? The guy who intervened this morning during your dispute with Vic. You let out a slight smile, and then continue chatting with your friends like usual."
+  },
+  "type": "infoText",
+  "x": 814.7471880277492,
+  "y": -601.4788982484383
+}

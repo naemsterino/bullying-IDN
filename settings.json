@@ -48,6 +48,8 @@
     },
     "sound": {
       "backgroundMusic": "",
+      "backgroundMusicAssetId": "asset_1792501826580_0",
+      "backgroundMusicName": "Evans Full.wav",
       "backgroundVolume": 100,
       "mute": false
     },
