@@ -2,16 +2,18 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_7_copymv4yin381"
+      "targetId": "beat_83"
     }
   ],
   "id": "beat_22_copymv51rgbz1",
   "locations": [],
   "name": "good end 2",
+  "node": "asset_1792450526456_pjnlstkuq",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": "you are still lonely but no longer being bullied"
+    "node": "asset_1792450526456_pjnlstkuq",
+    "text": "You came home after long day of school. Your parents are in the living room waiting for you. A delicious smell comes from the kitchen.  You put you backpack on the floor and say hi to them."
   },
   "type": "infoText",
   "x": 3084.054037481142,

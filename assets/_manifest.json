@@ -328,13 +328,22 @@
       "uploadedAt": "2026-10-19T21:11:12.233Z"
     },
     "asset_1792444493427_4kbiua3x1": {
-      "filename": "Alley.png",
+      "filename": "Alley_2.png",
       "folder": "backgrounds",
       "id": "asset_1792444493427_4kbiua3x1",
       "mimeType": "image/png",
       "size": 1439277,
       "type": "image",
       "uploadedAt": "2026-10-19T21:14:53.427Z"
+    },
+    "asset_1792450526456_pjnlstkuq": {
+      "filename": "Parents1.jpg",
+      "folder": "backgrounds",
+      "id": "asset_1792450526456_pjnlstkuq",
+      "mimeType": "image/jpeg",
+      "size": 29824,
+      "type": "image",
+      "uploadedAt": "2026-10-19T22:55:26.456Z"
     }
   }
 }

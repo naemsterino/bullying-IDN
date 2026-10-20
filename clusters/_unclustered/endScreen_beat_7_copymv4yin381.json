@@ -14,7 +14,7 @@
     "creditsCloseText": "Close",
     "creditsPageBody": "",
     "creditsPageTitle": "Credits",
-    "message": "yay",
+    "message": "You had a wonderful evening with your parents. Their support made you feel like you could protect yourself or even your friends against the bullies.  \nYou are watching your favourite movie with your parents. It's the best evening ever! But your eyelids are getting heavier. It feels like you might not make it to the end of the movie and fall asleep. But it feels alright.",
     "node": "asset_1792062872848_uo2nedill",
     "reset": true,
     "resetCharacters": true,
@@ -35,6 +35,6 @@
     "volume": 1
   },
   "type": "endScreen",
-  "x": 3318.780698468848,
-  "y": -517.1919676299228
+  "x": 3749.957205323995,
+  "y": -546.0899627211384
 }
