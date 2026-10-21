@@ -40,13 +40,37 @@
       "visual": {
         "assetId": "asset_1792487633368_bq9q98pek"
       }
+    },
+    {
+      "displayName": "angry flip",
+      "id": "state_1792594329217",
+      "name": "angry flip",
+      "visual": {
+        "assetId": "asset_1792594277652_0"
+      }
+    },
+    {
+      "displayName": "eyeroll flip",
+      "id": "state_1792594346878",
+      "name": "eyeroll flip",
+      "visual": {
+        "assetId": "asset_1792594277684_2"
+      }
+    },
+    {
+      "displayName": "normal flip",
+      "id": "state_1792594659041",
+      "name": "normal flip",
+      "visual": {
+        "assetId": "asset_1792594277654_1"
+      }
     }
   ],
   "tags": [
     "bully"
   ],
   "traits": [],
-  "updatedAt": "2026-10-20T09:13:57.689Z",
+  "updatedAt": "2026-10-21T14:58:21.536Z",
   "visual": {
     "defaultAssetId": "asset_1792415480970_jdngdk1ad",
     "type": "static"
