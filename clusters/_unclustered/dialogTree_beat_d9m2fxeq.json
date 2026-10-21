@@ -49,6 +49,20 @@
                                                                   "characterRef": "char_1792094383279_wzb17mkkt",
                                                                   "choices": [
                                                                     {
+                                                                      "dialogNode": {
+                                                                        "characterRef": "char_1792095472673_hlp3ie1dh",
+                                                                        "choices": [
+                                                                          {
+                                                                            "id": "choice_1792586297805",
+                                                                            "text": "Player response...",
+                                                                            "visible": true
+                                                                          }
+                                                                        ],
+                                                                        "id": "node_1792586163162",
+                                                                        "speaker": "Billie",
+                                                                        "speakerState": "state_1792415408524",
+                                                                        "text": "I have nothing to do with that. He chose to do it. I can't be responsible for what he chooses. \n"
+                                                                      },
                                                                       "id": "choice_1792585150768",
                                                                       "text": "...",
                                                                       "visible": true
@@ -56,7 +70,7 @@
                                                                   ],
                                                                   "id": "node_1792585091653",
                                                                   "speaker": "Stan",
-                                                                  "text": "our jokes are only funny to you and Tim was always the butt of the joke. To the point that he had to change schools."
+                                                                  "text": "Your jokes are only funny to you and Tim was always the butt of the joke. To the point that he had to change schools."
                                                                 },
                                                                 "id": "choice_1792584716847",
                                                                 "text": "...",

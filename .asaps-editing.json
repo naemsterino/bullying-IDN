@@ -1,22 +1,4 @@
 {
   "v": 1,
-  "locks": {
-    "beat_d9m2fxeq": {
-      "user": "PixellyAAA",
-      "since": "2026-10-21T11:44:08.509Z",
-      "beat": "Stan and Billie Dialogue- Good Ending 1"
-    }
-  }
-}
-beat_104": {
-      "user": "ivanmanueltorres04",
-      "since": "2026-10-21T12:30:07.920Z",
-      "beat": "Talk to Stan dialogue tree (Paste)"
-    },
-    "beat_99": {
-      "user": "ivanmanueltorres04",
-      "since": "2026-10-21T12:33:55.145Z",
-      "beat": "apology = true (Paste)"
-    }
-  }
+  "locks": {}
 }
