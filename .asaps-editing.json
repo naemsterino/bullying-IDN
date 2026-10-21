@@ -1,15 +1,9 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_63": {
-      "user": "elliezero",
-      "since": "2026-10-21T10:30:29.921Z",
-      "beat": "GE1-1"
-    },
+  "locks": {
     "beat_5": {
-      "user": "elliezero",
-      "since": "2026-10-21T10:31:03.396Z",
+      "user": "Naemi",
+      "since": "2026-10-21T10:37:08.791Z",
       "beat": "start"
     }
   }

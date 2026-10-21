@@ -8,9 +8,11 @@
   "id": "beat_5",
   "locations": [],
   "name": "start",
+  "node": "asset_1791983560572_k7h6c1ji3",
   "parameters": {
     "author": "Ellie, Ivan, Jeremy, Maria, Milo, and Oğuz",
     "buttonText": "Start",
+    "node": "asset_1791983560572_k7h6c1ji3",
     "slotIntent": {
       "title": {
         "preferredLines": 1
