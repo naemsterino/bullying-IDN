@@ -1,4 +1,15 @@
 {
   "v": 1,
-  "locks": {}
+  "locks": {
+    "beat_44": {
+      "user": "Naemi",
+      "since": "2026-10-21T10:09:58.995Z",
+      "beat": "NE 9 no Stan"
+    },
+    "beat_45": {
+      "user": "Naemi",
+      "since": "2026-10-21T10:10:10.748Z",
+      "beat": "NE 10"
+    }
+  }
 }

@@ -12,7 +12,7 @@
   ],
   "id": "beat_51",
   "locations": [],
-  "name": "check for Stan",
+  "name": "check for apology",
   "parameters": {
     "compareSource": "inventory",
     "condition": {
@@ -31,6 +31,6 @@
     "variableName": "intervention"
   },
   "type": "conditionBeat",
-  "x": 4659.0929822842945,
-  "y": -404.43043256454234
+  "x": 4369.634919988334,
+  "y": -401.1658679521819
 }
