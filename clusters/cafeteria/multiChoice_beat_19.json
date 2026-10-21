@@ -49,6 +49,13 @@
         "text": "Ignore Vic and go to your friends"
       },
       {
+        "effects": [
+          {
+            "target": "trip",
+            "type": "setVariable",
+            "value": true
+          }
+        ],
         "id": "choice_1791798581947",
         "location": "",
         "target": "beat_na22e6b5",

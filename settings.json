@@ -101,6 +101,12 @@
         "description": "",
         "name": "friend",
         "type": "boolean"
+      },
+      {
+        "defaultValue": false,
+        "description": "",
+        "name": "trip",
+        "type": "boolean"
       }
     ]
   },

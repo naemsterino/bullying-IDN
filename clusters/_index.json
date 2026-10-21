@@ -344,6 +344,33 @@
         "y": 400,
         "z": 0
       }
+    },
+    {
+      "beatId": "beat_29_copymv54phfs1",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 920,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_kwuq5isk",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 220,
+        "y": 580,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_kwuq5isk",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 480,
+        "y": 520,
+        "z": 0
+      }
     }
   ]
 }
