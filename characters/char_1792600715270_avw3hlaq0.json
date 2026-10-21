@@ -4,6 +4,7 @@
   "createdAt": "2026-10-21T16:38:35.270Z",
   "defaultState": "default",
   "displayName": "Mom",
+  "goals": [],
   "id": "char_1792600715270_avw3hlaq0",
   "inventory": [],
   "name": "new_character",
@@ -31,6 +32,7 @@
     }
   ],
   "tags": [],
+  "traits": [],
   "updatedAt": "2026-10-21T16:39:43.293Z",
   "visual": {
     "defaultAssetId": "asset_1792600739891_eat1jvzuv",

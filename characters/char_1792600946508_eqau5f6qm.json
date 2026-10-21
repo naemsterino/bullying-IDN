@@ -1,0 +1,54 @@
+{
+  "_format": "1.0",
+  "counters": [
+    {
+      "color": "#ff4444",
+      "displayName": "Health",
+      "max": 100,
+      "min": 0,
+      "name": "health",
+      "value": 100,
+      "visible": true
+    },
+    {
+      "color": "#4444ff",
+      "displayName": "Energy",
+      "max": 100,
+      "min": 0,
+      "name": "energy",
+      "value": 100,
+      "visible": true
+    }
+  ],
+  "createdAt": "2026-10-21T16:42:26.508Z",
+  "defaultState": "default",
+  "displayName": "Player",
+  "id": "char_1792600946508_eqau5f6qm",
+  "initialMood": {
+    "arousal": 0,
+    "valence": 0
+  },
+  "inventory": [],
+  "name": "player",
+  "role": "player",
+  "states": [
+    {
+      "displayName": "Default",
+      "id": "default",
+      "name": "default",
+      "visual": {}
+    }
+  ],
+  "tags": [],
+  "traits": {
+    "agreeableness": 0.5,
+    "conscientiousness": 0.5,
+    "extraversion": 0.5,
+    "neuroticism": 0.5,
+    "openness": 0.5
+  },
+  "updatedAt": "2026-10-21T16:42:26.508Z",
+  "visual": {
+    "type": "static"
+  }
+}
