@@ -576,6 +576,15 @@
       "size": 113949,
       "type": "image",
       "uploadedAt": "2026-10-20T17:41:59.551Z"
+    },
+    "asset_1792593194808_0": {
+      "filename": "bully_friend_files.png",
+      "folder": "backgrounds",
+      "id": "asset_1792593194808_0",
+      "mimeType": "image/png",
+      "size": 184089,
+      "type": "image",
+      "uploadedAt": "2026-10-21T14:33:14.808Z"
     }
   }
 }
