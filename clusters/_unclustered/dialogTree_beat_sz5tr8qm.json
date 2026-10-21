@@ -20,21 +20,6 @@
     },
     {
       "autosize": true,
-      "characterId": "char_1792600987473_glbvfkd4j",
-      "characterName": "vic_Dad",
-      "height": 150,
-      "id": "element_1792606155181",
-      "kind": "character",
-      "name": "vic_Dad",
-      "size": 61,
-      "stateId": "default",
-      "width": 150,
-      "x": 528,
-      "y": 238,
-      "zIndex": 3
-    },
-    {
-      "autosize": true,
       "height": 76,
       "id": "npc",
       "kind": "dialog",
@@ -54,11 +39,27 @@
       "x": 824,
       "y": 146,
       "zIndex": 5
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792600987473_glbvfkd4j",
+      "characterName": "vic_Dad",
+      "height": 1080,
+      "id": "element_1792609864464",
+      "kind": "character",
+      "name": "vic_Dad",
+      "size": 79,
+      "stateId": "default",
+      "width": 1000,
+      "x": 0,
+      "y": 113,
+      "zIndex": 3
     }
   ],
   "name": "Vic & Parent Dialog Tree. ",
   "node": "asset_1792598017096_71aqigxd2",
   "parameters": {
+    "allowSkipAhead": true,
     "backgroundAssetId": "asset_1792598017096_71aqigxd2",
     "dialogTree": {
       "characterRef": "char_1792600715270_avw3hlaq0",
@@ -421,5 +422,5 @@
   "showSpeaker": true,
   "type": "dialogTree",
   "x": 3507.1049597109254,
-  "y": -534.6822280622172
+  "y": -578.2097562270234
 }
