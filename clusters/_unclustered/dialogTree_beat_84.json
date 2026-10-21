@@ -71,16 +71,41 @@
                                               "dialogNode": {
                                                 "choices": [
                                                   {
-                                                    "id": "choice_1792535199470",
-                                                    "target": "beat_7",
-                                                    "text": "Thank you!",
+                                                    "dialogNode": {
+                                                      "choices": [
+                                                        {
+                                                          "dialogNode": {
+                                                            "choices": [
+                                                              {
+                                                                "id": "choice_1792580084595",
+                                                                "target": "beat_y5p7zqk2",
+                                                                "text": "Thank you!",
+                                                                "visible": true
+                                                              }
+                                                            ],
+                                                            "id": "node_1792580070871",
+                                                            "speaker": "Stan",
+                                                            "text": "I shouldn't have been looking the other way. But those excuses are just excuses. \nSo, I’m truly sorry, Vic. "
+                                                          },
+                                                          "id": "choice_1792579693482",
+                                                          "text": "....",
+                                                          "visible": true
+                                                        }
+                                                      ],
+                                                      "id": "node_1792579675707",
+                                                      "speaker": "Stan",
+                                                      "speakerState": "state_1792518103600",
+                                                      "text": " I didn't notice she was hurting you, even though deep down I knew what she was doing. "
+                                                    },
+                                                    "id": "choice_1792579627321",
+                                                    "text": "...",
                                                     "visible": true
                                                   }
                                                 ],
                                                 "id": "node_1792535032102",
                                                 "speaker": "Stan",
                                                 "speakerState": "state_1792518103600",
-                                                "text": "I thought it was just jokes and you were ok with it. I didn't notice she was hurting you, even though deep down I knew what she was doing. I shouldn't have been looking the other way. But those excuses are just excuses. \nSo, I’m truly sorry, Vic. "
+                                                "text": "I thought it was just jokes and you were ok with it."
                                               },
                                               "id": "choice_1792535002616",
                                               "text": "You didn't know.",
@@ -120,7 +145,7 @@
                         "id": "node_1792500953828",
                         "speaker": "Stan",
                         "speakerState": "state_1792517973629",
-                        "text": "I don't know if I could stop it but I could at least try! My parents taught me that if someone does not try to stop a crime that they see, they are guilty, too.\n"
+                        "text": "I don't know if I could stop it but I could at least try! \nMy parents taught me that if someone does not try to stop a crime that they see, they are guilty, too.\n"
                       },
                       "id": "choice_1792500895804",
                       "text": "To me? Why would you need that?\n",
@@ -140,10 +165,10 @@
             "id": "node_1792500626545",
             "speaker": "Stan",
             "speakerState": "state_1792517853756",
-            "text": "That's not true! Besides, I should've done that earlier. Then maybe Tim wouldn't have to change schools.\nSpeaking of that... an apology is in order.\n"
+            "text": "That's not true! Besides, I should've done that earlier. \nThen maybe Tim wouldn't have to change schools.\nSpeaking of that... an apology is in order.\n"
           },
           "id": "choice_1792500462812",
-          "text": " I’m fine. \nWhy did you do that? I didn't think that you would care about me? You barely know me.\n",
+          "text": " I’m fine. \nWhy did you do that? I didn't think that you would care about me?\n You barely know me.",
           "visible": true
         }
       ],
@@ -160,13 +185,7 @@
     "showAvatars": true
   },
   "showSpeaker": true,
-  "sound": {
-    "assetId": "asset_1792504135285_0",
-    "file": "asset_1792504135285_0",
-    "loop": false,
-    "volume": 1
-  },
   "type": "dialogTree",
-  "x": 4810.698278854396,
-  "y": -892.6944821107409
+  "x": 4646.948278854396,
+  "y": -808.9444821107409
 }

@@ -6,14 +6,44 @@
     }
   ],
   "id": "beat_7",
-  "locations": [],
+  "locations": [
+    {
+      "autosize": true,
+      "height": 50,
+      "id": "button_restart_1792582188178",
+      "kind": "button",
+      "name": "Restart",
+      "textAlign": "center",
+      "width": 180,
+      "x": 870,
+      "y": 450,
+      "zIndex": 11
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792095472673_hlp3ie1dh",
+      "characterName": "Billie",
+      "height": 1080,
+      "id": "element_1792582194089",
+      "kind": "character",
+      "name": "Billie",
+      "size": 100,
+      "stateId": "default",
+      "width": 1000,
+      "x": 10,
+      "y": 0,
+      "zIndex": 1
+    }
+  ],
   "name": "friend, no bully",
+  "node": "asset_1792148623122_2",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
-    "creditsPageBody": "They hug and walk home. In the coming weeks Vic and Stan start to hangout more. Billie at first  acts like nothing happened and was extra nice to Pete, Cece and Neo.\n\nHowever, she starts to do the same to Neo pushing them out. After Neo, Cece was next then eventually Pete.\nDuring this time Stan tries to warn Billie but she doesn't listen until it's too late. Billie shows everyone in the class that anybody could be her next victim without any reason. She starts to sit alone and acts like everything is fine. \n\n(Note: At this part, I feel like, would she even reflect and decide to apologize to Vic?)\n\nAfter a while Billie could not hide her sadness. Gets more quiet. \nOne day she approaches Vic with remorse.\nShe asks for forgiveness and looks really sorry.\n\nYou accept. ",
+    "creditsPageBody": "After a while Billie could not hide her sadness. Gets more quiet. \nOne day she approaches Vic with remorse.\nShe asks for forgiveness and looks really sorry.\n\nYou accept. ",
     "creditsPageTitle": "Credits",
-    "message": "yay",
+    "message": "After a while Billie could not hide her sadness. Gets more quiet. \nOne day she approaches Vic with remorse.\nBillie expresses that she is sorry for her behaviour and says that she hopes Vic believe her someday. \nVic looks at her deflated gaze and simply says.\nThank you. \n",
+    "node": "asset_1792148623122_2",
     "reset": true,
     "resetCharacters": true,
     "resetCounters": true,
@@ -27,6 +57,6 @@
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 5148.344411782586,
-  "y": -793.7567091785282
+  "x": 5311.483304910031,
+  "y": -778.7567091785282
 }
