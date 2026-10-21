@@ -27,11 +27,11 @@
       "id": "element_1792582194089",
       "kind": "character",
       "name": "Billie",
-      "size": 100,
+      "size": 49,
       "stateId": "default",
       "width": 1000,
-      "x": 10,
-      "y": 0,
+      "x": 1267,
+      "y": 637,
       "zIndex": 1
     }
   ],
@@ -54,7 +54,16 @@
     "resetVariables": true,
     "resetVisitedTracking": true,
     "showCredits": false,
-    "showRestart": true
+    "showRestart": true,
+    "slotIntent": {
+      "actions": {
+        "anchor": {
+          "gap": 28,
+          "h": "center"
+        },
+        "fontSize": 19
+      }
+    }
   },
   "type": "endScreen",
   "x": 5450.762980926074,

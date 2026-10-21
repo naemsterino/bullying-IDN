@@ -79,13 +79,13 @@
                                                               {
                                                                 "id": "choice_1792580084595",
                                                                 "target": "beat_y5p7zqk2",
-                                                                "text": "Thank you!",
+                                                                "text": "\"Thank you!\"",
                                                                 "visible": true
                                                               }
                                                             ],
                                                             "id": "node_1792580070871",
                                                             "speaker": "Stan",
-                                                            "text": "I shouldn't have been looking the other way. But those excuses are just excuses. \nSo, I’m truly sorry, Vic. "
+                                                            "text": "\"I shouldn't have been looking the other way. But those excuses are just excuses. \nSo, I’m truly sorry, Vic\". "
                                                           },
                                                           "id": "choice_1792579693482",
                                                           "text": "....",
@@ -95,7 +95,7 @@
                                                       "id": "node_1792579675707",
                                                       "speaker": "Stan",
                                                       "speakerState": "state_1792518103600",
-                                                      "text": " I didn't notice she was hurting you, even though deep down I knew what she was doing. "
+                                                      "text": " \"I didn't notice she was hurting you, even though deep down I knew what she was doing\". "
                                                     },
                                                     "id": "choice_1792579627321",
                                                     "text": "...",
@@ -105,70 +105,70 @@
                                                 "id": "node_1792535032102",
                                                 "speaker": "Stan",
                                                 "speakerState": "state_1792518103600",
-                                                "text": "I thought it was just jokes and you were ok with it."
+                                                "text": "\"I thought it was just jokes and you were ok with it\"."
                                               },
                                               "id": "choice_1792535002616",
-                                              "text": "You didn't know.",
+                                              "text": "\"You didn't know.\"",
                                               "visible": true
                                             }
                                           ],
                                           "id": "node_1792534854967",
                                           "speaker": "Stan",
                                           "speakerState": "state_1792518103600",
-                                          "text": "But I do!\n Vic, I apologize. I should have stopped Billie when she was mocking Tim and I should have stopped her when she was harassing you. "
+                                          "text": "\"But I do!\n Vic, I apologize. I should have stopped Billie when she was mocking Tim and I should have stopped her when she was harassing you.\""
                                         },
                                         "id": "choice_1792534819024",
-                                        "text": "You really don't need to. It's ok.",
+                                        "text": "\"You really don't need to. It's ok.\"",
                                         "visible": true
                                       }
                                     ],
                                     "id": "node_1792534757207",
                                     "speaker": "Stan",
                                     "speakerState": "state_1792515162720",
-                                    "text": "That's why I have to apologize. I'm not apologizing for her. She should do it herself."
+                                    "text": "\"That's why I have to apologize. I'm not apologizing for her. She should do it herself.\""
                                   },
                                   "id": "choice_1792534707209",
-                                  "text": "Maybe...",
+                                  "text": "\"Maybe...\"",
                                   "visible": true
                                 }
                               ],
                               "id": "node_1792501107179",
                               "speaker": "Stan",
                               "speakerState": "state_1792517853756",
-                              "text": "It could be.  If I can't stop it, then I could at least try to reach someone who can."
+                              "text": "\"It could be.  If I can't stop it, then I could at least try to reach someone who can.\""
                             },
                             "id": "choice_1792500973500",
-                            "text": "Isn't that dangerous? Stopping crimes, I mean.\n",
+                            "text": "\"Isn't that dangerous? Stopping crimes, I mean.\"\n",
                             "visible": true
                           }
                         ],
                         "id": "node_1792500953828",
                         "speaker": "Stan",
                         "speakerState": "state_1792517973629",
-                        "text": "I don't know if I could stop it but I could at least try! \nMy parents taught me that if someone does not try to stop a crime that they see, they are guilty, too.\n"
+                        "text": "\"I don't know if I could stop it but I could at least try! \nMy parents taught me that if someone does not try to stop a crime that they see, they are guilty, too.\"\n"
                       },
                       "id": "choice_1792500895804",
-                      "text": "To me? Why would you need that?\n",
+                      "text": "\"To me? Why would you need that?\"\n",
                       "visible": true
                     }
                   ],
                   "id": "node_1792500871670",
                   "speaker": "Stan",
                   "speakerState": "state_1792517853756",
-                  "text": "Me. I need to apologize to you...and to Tim.\n"
+                  "text": "\"Me. I need to apologize to you...and to Tim.\"\n"
                 },
                 "id": "choice_1792500734863",
-                "text": "What do you mean? Who needs to apologize? \n",
+                "text": "\"What do you mean? Who needs to apologize?\"\n",
                 "visible": true
               }
             ],
             "id": "node_1792500626545",
             "speaker": "Stan",
             "speakerState": "state_1792517853756",
-            "text": "That's not true! Besides, I should've done that earlier. \nThen maybe Tim wouldn't have to change schools.\nSpeaking of that... an apology is in order.\n"
+            "text": "\"That's not true! Besides, I should've done that earlier. \nThen maybe Tim wouldn't have to change schools.\"\nSpeaking of that... an apology is in order.\n"
           },
           "id": "choice_1792500462812",
-          "text": " I’m fine. \nWhy did you do that? I didn't think that you would care about me?\n You barely know me.",
+          "text": " \"I’m fine. \nWhy did you do that? I didn't think that you would care about me?\"\n You barely know me.",
           "visible": true
         }
       ],
@@ -176,7 +176,7 @@
       "id": "root",
       "speaker": "Stan",
       "speakerState": "state_1792487573790",
-      "text": "How do you feel?"
+      "text": "\"How do you feel?\""
     },
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",

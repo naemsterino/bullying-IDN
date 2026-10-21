@@ -1,16 +1,30 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_sz5tr8qm": {
+  "locks": {
+    "beat_81": {
       "user": "PixellyAAA",
-      "since": "2026-10-21T13:08:43.303Z",
-      "beat": "Vic & Parent Dialog Tree. "
+      "since": "2026-10-21T14:05:52.673Z",
+      "beat": "Stan and Billie Dialogue- Good Ending 1 (old version)"
     },
-    "beat_83": {
+    "beat_82": {
       "user": "PixellyAAA",
-      "since": "2026-10-21T13:09:36.754Z",
-      "beat": "Vic & Parents Dialog Tree (broken)"
+      "since": "2026-10-21T14:05:57.327Z",
+      "beat": "DialogTree Stan and Vic old."
+    },
+    "beat_84": {
+      "user": "PixellyAAA",
+      "since": "2026-10-21T14:17:40.078Z",
+      "beat": "Alley Stan and Vic"
+    },
+    "beat_d9m2fxeq": {
+      "user": "PixellyAAA",
+      "since": "2026-10-21T14:15:07.411Z",
+      "beat": "Stan and Billie Dialogue- Good Ending 1"
+    },
+    "beat_7": {
+      "user": "PixellyAAA",
+      "since": "2026-10-21T14:11:43.772Z",
+      "beat": "friend, no bully"
     }
   }
 }

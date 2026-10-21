@@ -2,7 +2,49 @@
   "_format": "1.0",
   "connections": [],
   "id": "beat_d9m2fxeq",
-  "locations": [],
+  "locations": [
+    {
+      "autosize": true,
+      "height": 52,
+      "id": "choice_0",
+      "kind": "button",
+      "name": "Choice 0",
+      "width": 200,
+      "x": 860,
+      "y": 146,
+      "zIndex": 1
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792094383279_wzb17mkkt",
+      "characterName": "Stan",
+      "height": 1080,
+      "id": "element_1792591634752",
+      "kind": "character",
+      "name": "Stan",
+      "size": 73,
+      "stateId": "default",
+      "width": 1000,
+      "x": 0,
+      "y": 140,
+      "zIndex": 1
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792095472673_hlp3ie1dh",
+      "characterName": "Billie",
+      "height": 1080,
+      "id": "element_1792591665436",
+      "kind": "character",
+      "name": "Billie",
+      "size": 72,
+      "stateId": "default",
+      "width": 1000,
+      "x": 1056,
+      "y": 140,
+      "zIndex": 2
+    }
+  ],
   "name": "Stan and Billie Dialogue- Good Ending 1",
   "node": "asset_1792094149468_yrq3nth03",
   "parameters": {
@@ -53,15 +95,126 @@
                                                                         "characterRef": "char_1792095472673_hlp3ie1dh",
                                                                         "choices": [
                                                                           {
+                                                                            "dialogNode": {
+                                                                              "characterRef": "char_1792094383279_wzb17mkkt",
+                                                                              "choices": [
+                                                                                {
+                                                                                  "dialogNode": {
+                                                                                    "characterRef": "char_1792095472673_hlp3ie1dh",
+                                                                                    "choices": [
+                                                                                      {
+                                                                                        "dialogNode": {
+                                                                                          "choices": [
+                                                                                            {
+                                                                                              "dialogNode": {
+                                                                                                "characterRef": "char_1792094383279_wzb17mkkt",
+                                                                                                "choices": [
+                                                                                                  {
+                                                                                                    "dialogNode": {
+                                                                                                      "characterRef": "char_1792095472673_hlp3ie1dh",
+                                                                                                      "choices": [
+                                                                                                        {
+                                                                                                          "dialogNode": {
+                                                                                                            "characterRef": "char_1792094383279_wzb17mkkt",
+                                                                                                            "choices": [
+                                                                                                              {
+                                                                                                                "dialogNode": {
+                                                                                                                  "characterRef": "char_1792095472673_hlp3ie1dh",
+                                                                                                                  "choices": [
+                                                                                                                    {
+                                                                                                                      "dialogNode": {
+                                                                                                                        "characterRef": "char_1792094383279_wzb17mkkt",
+                                                                                                                        "choices": [
+                                                                                                                          {
+                                                                                                                            "id": "choice_1792590956957",
+                                                                                                                            "target": "beat_m7cn984b",
+                                                                                                                            "text": "...",
+                                                                                                                            "visible": true
+                                                                                                                          }
+                                                                                                                        ],
+                                                                                                                        "id": "node_1792590876197",
+                                                                                                                        "speaker": "Stan",
+                                                                                                                        "speakerState": "state_1792515162720",
+                                                                                                                        "text": "\"Billie, your apology does not matter if you continue to behave the same way, and worst of all, if it happens on the very same day. Otherwise it's not a real apology!\""
+                                                                                                                      },
+                                                                                                                      "id": "choice_1792590728860",
+                                                                                                                      "text": "...",
+                                                                                                                      "visible": true
+                                                                                                                    }
+                                                                                                                  ],
+                                                                                                                  "id": "node_1792590677955",
+                                                                                                                  "speaker": "Billie",
+                                                                                                                  "speakerState": "state_1792415613088",
+                                                                                                                  "text": "\"For what? Plus I already apologized to them earlier. I told them I didn't mean to! Why should I apologize to them again!\""
+                                                                                                                },
+                                                                                                                "id": "choice_1792590663208",
+                                                                                                                "text": "...",
+                                                                                                                "visible": true
+                                                                                                              }
+                                                                                                            ],
+                                                                                                            "id": "node_1792590641430",
+                                                                                                            "speaker": "Stan",
+                                                                                                            "speakerState": "state_1792515162720",
+                                                                                                            "text": "\"Instead of projecting, maybe you can start by apologizing to Vic!\"\n"
+                                                                                                          },
+                                                                                                          "id": "choice_1792590630656",
+                                                                                                          "text": "...",
+                                                                                                          "visible": true
+                                                                                                        }
+                                                                                                      ],
+                                                                                                      "id": "node_1792590553929",
+                                                                                                      "speaker": "Billie",
+                                                                                                      "speakerState": "state_1792415613088",
+                                                                                                      "text": "*Screeches*. \"What do you want from me? You always do this! You're always blaming me for everything. I just wanna have a nice day playing some games on my phone. Just let me be!\"\n"
+                                                                                                    },
+                                                                                                    "id": "choice_1792590068347",
+                                                                                                    "text": "...",
+                                                                                                    "visible": true
+                                                                                                  }
+                                                                                                ],
+                                                                                                "id": "node_1792589875499",
+                                                                                                "speaker": "Stan",
+                                                                                                "speakerState": "state_1792515115890",
+                                                                                                "text": "\"Real classy Billie! Now I'm Mr. Boring, aren't I? Also bringing up unhinged death threats. Are you crazy!\"\n"
+                                                                                              },
+                                                                                              "id": "choice_1792589862019",
+                                                                                              "text": "...",
+                                                                                              "visible": true
+                                                                                            }
+                                                                                          ],
+                                                                                          "id": "node_1792589788367",
+                                                                                          "speaker": "Neo, Cece, Pete",
+                                                                                          "text": "\"Uhhm, what?\""
+                                                                                        },
+                                                                                        "id": "choice_1792589761117",
+                                                                                        "text": "\"...??!\"",
+                                                                                        "visible": true
+                                                                                      }
+                                                                                    ],
+                                                                                    "id": "node_1792589686654",
+                                                                                    "speaker": "Billie",
+                                                                                    "speakerState": "state_1792415408524",
+                                                                                    "text": "\"Mr. Boring here thinks that I harassed Tim out of the school. Ugh, un-freaking-believable. I just made some jokes, not sent death threats!\"\n"
+                                                                                  },
+                                                                                  "id": "choice_1792589677232",
+                                                                                  "text": "...",
+                                                                                  "visible": true
+                                                                                }
+                                                                              ],
+                                                                              "id": "node_1792589613504",
+                                                                              "speaker": "Stan",
+                                                                              "speakerState": "state_1792515115890",
+                                                                              "text": "\"Yes, you have! You made this school unbearable with your so-called “humour” for him. Now you're doing the same to Vic!\"\n"
+                                                                            },
                                                                             "id": "choice_1792586297805",
-                                                                            "text": "Player response...",
+                                                                            "text": "...",
                                                                             "visible": true
                                                                           }
                                                                         ],
                                                                         "id": "node_1792586163162",
                                                                         "speaker": "Billie",
                                                                         "speakerState": "state_1792415408524",
-                                                                        "text": "I have nothing to do with that. He chose to do it. I can't be responsible for what he chooses. \n"
+                                                                        "text": "\"I have nothing to do with that. He chose to do it. I can't be responsible for what he chooses.\"\n"
                                                                       },
                                                                       "id": "choice_1792585150768",
                                                                       "text": "...",
@@ -70,7 +223,8 @@
                                                                   ],
                                                                   "id": "node_1792585091653",
                                                                   "speaker": "Stan",
-                                                                  "text": "Your jokes are only funny to you and Tim was always the butt of the joke. To the point that he had to change schools."
+                                                                  "speakerState": "state_1792517853756",
+                                                                  "text": "\"Your jokes are only funny to you and Tim was always the butt of the joke. To the point that he had to change schools.\""
                                                                 },
                                                                 "id": "choice_1792584716847",
                                                                 "text": "...",
@@ -79,7 +233,8 @@
                                                             ],
                                                             "id": "node_1792584696576",
                                                             "speaker": "Billie",
-                                                            "text": "What do you mean?\n"
+                                                            "speakerState": "state_1792415408524",
+                                                            "text": "\"What do you mean?\"\n"
                                                           },
                                                           "id": "choice_1792584664922",
                                                           "text": "...",
@@ -88,7 +243,8 @@
                                                       ],
                                                       "id": "node_1792584566461",
                                                       "speaker": "Stan",
-                                                      "text": "See what you're doing?"
+                                                      "speakerState": "state_1792517853756",
+                                                      "text": "\"See what you're doing?\""
                                                     },
                                                     "id": "choice_1792584560113",
                                                     "text": "...",
@@ -97,7 +253,8 @@
                                                 ],
                                                 "id": "node_1792584509952",
                                                 "speaker": "Billie",
-                                                "text": "See what?"
+                                                "speakerState": "state_1792415408524",
+                                                "text": "\"See what?\""
                                               },
                                               "id": "choice_1792584501130",
                                               "text": "...",
@@ -106,7 +263,8 @@
                                           ],
                                           "id": "node_1792584441063",
                                           "speaker": "Stan",
-                                          "text": "Did he also have no sense of humour?\nYou don't see it do you?"
+                                          "speakerState": "state_1792515162720",
+                                          "text": "\"Did he also have no sense of humour?\nYou don't see it do you?\""
                                         },
                                         "id": "choice_1792584391144",
                                         "text": "...",
@@ -115,6 +273,7 @@
                                     ],
                                     "id": "node_1792583990714",
                                     "speaker": "Billie",
+                                    "speakerState": "state_1792415613088",
                                     "text": "\"What about him?\""
                                   },
                                   "id": "choice_1792583983316",
@@ -124,6 +283,7 @@
                               ],
                               "id": "node_1792583747959",
                               "speaker": "Stan",
+                              "speakerState": "state_1792515115890",
                               "text": "\"What about Tim?\""
                             },
                             "id": "choice_1792583707881",
@@ -133,6 +293,7 @@
                         ],
                         "id": "node_1792583673931",
                         "speaker": "Billie",
+                        "speakerState": "state_1792415408524",
                         "text": " \"It's not my problem if Vic here has no sense of humour!\""
                       },
                       "id": "choice_1792583666144",
@@ -142,6 +303,7 @@
                   ],
                   "id": "node_1792583629221",
                   "speaker": "Stan",
+                  "speakerState": "state_1792515162720",
                   "text": "\"Are you though? I don't see Vic laughing?\"\n"
                 },
                 "id": "choice_1792583417844",
@@ -151,6 +313,7 @@
             ],
             "id": "node_1792583108615",
             "speaker": "Billie",
+            "speakerState": "state_1792415613088",
             "text": "\"What the hell! Now you have lost your sense of humour. I'm just joking here!\"."
           },
           "id": "choice_1792583030324",
@@ -161,6 +324,7 @@
       "emotion": "neutral",
       "id": "root",
       "speaker": "Stan",
+      "speakerState": "state_1792515115890",
       "text": "\"You know what, that's enough Billie!\""
     },
     "effectsOncePerChoice": false,
@@ -171,6 +335,6 @@
   },
   "showSpeaker": true,
   "type": "dialogTree",
-  "x": 3989.9841700778707,
-  "y": -952.0201704786112
+  "x": 4031.66637608126,
+  "y": -912.2326102026492
 }
