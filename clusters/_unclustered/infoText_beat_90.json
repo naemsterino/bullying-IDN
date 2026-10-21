@@ -8,10 +8,18 @@
   "id": "beat_90",
   "locations": [],
   "name": "neutral bad dinner",
+  "node": "asset_1792149844827_0",
   "parameters": {
-    "backgroundSound": "",
+    "backgroundSound": "asset_1792500477750_0",
     "buttonText": "Go to sleep",
+    "node": "asset_1792149844827_0",
     "text": "You eat an awkward dinner, your parents look at each other, trying to think of what to say, but can’t come with anything constructive to say. They blame themselves. You blame yourself. Stan blames himself. Perhaps a good talk could resolve this but no one dares to speak first. "
+  },
+  "sound": {
+    "assetId": "asset_1792500477750_0",
+    "file": "asset_1792500477750_0",
+    "loop": false,
+    "volume": 1
   },
   "type": "infoText",
   "x": 3473.038549266739,

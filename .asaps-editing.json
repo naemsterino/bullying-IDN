@@ -1,16 +1,25 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_sz5tr8qm": {
-      "user": "PixellyAAA",
-      "since": "2026-10-21T19:22:40.244Z",
-      "beat": "Vic & Parent Dialog Tree. "
+  "locks": {
+    "beat_92": {
+      "user": "DukeSallos",
+      "since": "2026-10-21T20:28:52.588Z",
+      "beat": "Neutral bad 2"
     },
-    "beat_7_copymv4yin381": {
-      "user": "PixellyAAA",
-      "since": "2026-10-21T19:24:02.458Z",
-      "beat": "no friend, no bully"
+    "beat_93": {
+      "user": "DukeSallos",
+      "since": "2026-10-21T20:28:59.201Z",
+      "beat": "Neutral bad 3"
+    },
+    "beat_94": {
+      "user": "DukeSallos",
+      "since": "2026-10-21T20:29:05.964Z",
+      "beat": "Neutral bad 4"
+    },
+    "beat_9_copymv4yiwma1": {
+      "user": "DukeSallos",
+      "since": "2026-10-21T20:29:12.366Z",
+      "beat": "friend, still bully"
     }
   }
 }

@@ -684,6 +684,15 @@
       "size": 131143,
       "type": "image",
       "uploadedAt": "2026-10-21T16:42:04.940Z"
+    },
+    "asset_1792614323831_0": {
+      "filename": "hallway.png",
+      "folder": "backgrounds",
+      "id": "asset_1792614323831_0",
+      "mimeType": "image/png",
+      "size": 456665,
+      "type": "image",
+      "uploadedAt": "2026-10-21T20:25:23.831Z"
     }
   }
 }

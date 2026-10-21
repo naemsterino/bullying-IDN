@@ -8,10 +8,18 @@
   "id": "beat_92",
   "locations": [],
   "name": "Neutral bad 2",
+  "node": "asset_1791983560572_k7h6c1ji3",
   "parameters": {
-    "backgroundSound": "",
+    "backgroundSound": "asset_1792500477750_0",
     "buttonText": "Continue",
+    "node": "asset_1791983560572_k7h6c1ji3",
     "text": "The following time you spend in school, while more bearable, still looms with the threat of your bully. Since Stan is now your friend, they too, have become a target for harassment. They assure you it’s fine, and it’s worth it to keep you safe, yet, horrible as it is, you don’t feel safe, nor for your new friend. "
+  },
+  "sound": {
+    "assetId": "asset_1792500477750_0",
+    "file": "asset_1792500477750_0",
+    "loop": false,
+    "volume": 1
   },
   "type": "infoText",
   "x": 3889.4229955126366,

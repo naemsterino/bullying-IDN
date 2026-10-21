@@ -8,10 +8,18 @@
   "id": "beat_24",
   "locations": [],
   "name": "bad end 1",
+  "node": "asset_1792614323831_0",
   "parameters": {
-    "backgroundSound": "",
+    "backgroundSound": "asset_1792500477750_0",
     "buttonText": "Go to your room",
+    "node": "asset_1792614323831_0",
     "text": "You come home, your bruises sting on your skin as your parents come to greet you in the hallway. They are worried, yet you claim it’s fine still, you don’t eat dinner, you’re not hungry. "
+  },
+  "sound": {
+    "assetId": "asset_1792500477750_0",
+    "file": "asset_1792500477750_0",
+    "loop": false,
+    "volume": 1
   },
   "type": "infoText",
   "x": 3240.698852202123,

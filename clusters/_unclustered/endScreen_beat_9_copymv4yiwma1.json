@@ -8,12 +8,14 @@
   "id": "beat_9_copymv4yiwma1",
   "locations": [],
   "name": "friend, still bully",
+  "node": "asset_1791983560572_k7h6c1ji3",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
     "creditsPageBody": "",
     "creditsPageTitle": "Credits",
     "message": "Neutral bad ending",
+    "node": "asset_1791983560572_k7h6c1ji3",
     "reset": true,
     "resetCharacters": true,
     "resetCounters": true,
@@ -25,6 +27,12 @@
     "resetVisitedTracking": true,
     "showCredits": false,
     "showRestart": true
+  },
+  "sound": {
+    "assetId": "asset_1792500477750_0",
+    "file": "asset_1792500477750_0",
+    "loop": false,
+    "volume": 1
   },
   "type": "endScreen",
   "x": 4601.42376939978,
