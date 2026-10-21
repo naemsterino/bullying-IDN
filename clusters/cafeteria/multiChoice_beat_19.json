@@ -12,7 +12,7 @@
     },
     {
       "label": "Attempt to trip Vic over as a joke",
-      "targetId": "beat_mu0x9q3u"
+      "targetId": "beat_na22e6b5"
     }
   ],
   "id": "beat_19",
@@ -51,7 +51,7 @@
       {
         "id": "choice_1791798581947",
         "location": "",
-        "target": "beat_mu0x9q3u",
+        "target": "beat_na22e6b5",
         "text": "Attempt to trip Vic over as a joke"
       }
     ],
