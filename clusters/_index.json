@@ -205,8 +205,8 @@
       "beatId": "beat_102",
       "clusterId": "cluster_1792502673601",
       "position": {
-        "x": 680,
-        "y": 520,
+        "x": 720,
+        "y": 600,
         "z": 0
       }
     },
@@ -268,8 +268,8 @@
       "beatId": "beat_109",
       "clusterId": "cluster_1792502673601",
       "position": {
-        "x": 1280,
-        "y": 580,
+        "x": 1360,
+        "y": 680,
         "z": 0
       }
     },
