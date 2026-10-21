@@ -1,0 +1,36 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "label": "true",
+      "targetId": "beat_24_copymv51siub1"
+    },
+    {
+      "label": "false",
+      "targetId": "beat_g34tc3ru"
+    }
+  ],
+  "id": "beat_d2ld7866",
+  "locations": [],
+  "name": "check for trip 2",
+  "parameters": {
+    "compareSource": "inventory",
+    "condition": {
+      "operator": "==",
+      "type": "variable",
+      "value": true,
+      "variableName": "trip"
+    },
+    "conditionType": "variable",
+    "falseTarget": "beat_g34tc3ru",
+    "moodAxis": "valence",
+    "operator": "==",
+    "quantityCheck": false,
+    "trueTarget": "beat_24_copymv51siub1",
+    "value": true,
+    "variableName": "trip"
+  },
+  "type": "conditionBeat",
+  "x": 2990.179821920568,
+  "y": 57.979507803075876
+}

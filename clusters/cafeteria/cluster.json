@@ -1,20 +1,20 @@
 {
   "_format": "1.0",
   "containerBounds": {
-    "height": 854,
+    "height": 868,
     "width": 1429
   },
   "containerPosition": {
-    "x": -353.58251840515663,
-    "y": -659.8463119168339
+    "x": -1166.0825184051562,
+    "y": -629.8463119168339
   },
   "id": "cluster_1792502468225",
   "isExpanded": true,
   "name": "cafeteria",
   "sound": {
-    "file": "asset_1792503059772_1",
+    "file": "asset_1792406791015_0",
     "loop": true,
-    "volume": 0.5
+    "volume": 0.2
   },
   "type": "spatial"
 }

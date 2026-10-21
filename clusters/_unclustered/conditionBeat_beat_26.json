@@ -3,11 +3,11 @@
   "connections": [
     {
       "label": "true",
-      "targetId": "beat_24_copymv51siub1"
+      "targetId": "beat_d2ld7866"
     },
     {
       "label": "false",
-      "targetId": "beat_24"
+      "targetId": "beat_zvhhni1y"
     }
   ],
   "id": "beat_26",
@@ -22,15 +22,15 @@
       "variableName": "friend"
     },
     "conditionType": "variable",
-    "falseTarget": "beat_24",
+    "falseTarget": "beat_zvhhni1y",
     "moodAxis": "valence",
     "operator": "==",
     "quantityCheck": false,
-    "trueTarget": "beat_24_copymv51siub1",
+    "trueTarget": "beat_d2ld7866",
     "value": "true",
     "variableName": "friend"
   },
   "type": "conditionBeat",
-  "x": 2943.706008591146,
-  "y": -94.76479728052925
+  "x": 2792.033212502293,
+  "y": -75.80569776942264
 }

@@ -6,21 +6,6 @@
   "locations": [
     {
       "autosize": true,
-      "characterId": "char_1792095472673_hlp3ie1dh",
-      "characterName": "Billie",
-      "height": 1080,
-      "id": "element_1792416030079_0.17756214982744256",
-      "kind": "character",
-      "name": "Billie",
-      "size": 100,
-      "stateId": "default",
-      "width": 1920,
-      "x": 0,
-      "y": 0,
-      "zIndex": 4
-    },
-    {
-      "autosize": true,
       "height": 73,
       "id": "npc",
       "kind": "dialog",
@@ -40,6 +25,21 @@
       "x": 540,
       "y": 143,
       "zIndex": 6
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792095472673_hlp3ie1dh",
+      "characterName": "Billie",
+      "height": 1080,
+      "id": "element_1792512693497",
+      "kind": "character",
+      "name": "Billie",
+      "size": 100,
+      "stateId": "default",
+      "width": 1000,
+      "x": 77,
+      "y": 0,
+      "zIndex": 2
     }
   ],
   "name": "Intervene Dialogue",
@@ -66,6 +66,7 @@
                         ],
                         "id": "node_1791975375033",
                         "speaker": "Billie",
+                        "speakerState": "state_1792415408524",
                         "text": "\"Whatever. You’re no fun.\""
                       },
                       "id": "choice_1791975365359",
@@ -75,6 +76,7 @@
                   ],
                   "id": "node_1791975355751",
                   "speaker": "Billie",
+                  "speakerState": "state_1792415613088",
                   "text": "\"Vic raised their voice at me!\""
                 },
                 "id": "choice_1791975340685",
@@ -84,6 +86,7 @@
             ],
             "id": "node_1791975332812",
             "speaker": "Billie",
+            "speakerState": "default",
             "text": "\"And what are you going to do if I don’t?\"\n"
           },
           "id": "choice_1791975319893",
@@ -94,6 +97,7 @@
       "emotion": "neutral",
       "id": "root",
       "speaker": "Billie",
+      "speakerState": "state_1792415613088",
       "text": "\"What the hell, Vic!?\""
     },
     "effectsOncePerChoice": false,

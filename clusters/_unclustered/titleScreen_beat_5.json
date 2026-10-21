@@ -8,17 +8,19 @@
   "id": "beat_5",
   "locations": [],
   "name": "start",
+  "node": "asset_1791983560572_k7h6c1ji3",
   "parameters": {
     "author": "Ellie, Ivan, Jeremy, Maria, Milo, and Oğuz",
     "buttonText": "Start",
+    "node": "asset_1791983560572_k7h6c1ji3",
     "slotIntent": {
       "title": {
         "preferredLines": 1
       }
     },
-    "title": "Untitled Story"
+    "title": "A normal day"
   },
   "type": "titleScreen",
-  "x": -2118.156853145232,
-  "y": -278.89609238303836
+  "x": -3135.6568531452317,
+  "y": -266.3960923830383
 }

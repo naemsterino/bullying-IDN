@@ -5,8 +5,8 @@
     "width": 1345
   },
   "containerPosition": {
-    "x": -1712.4999999999984,
-    "y": -634.9999999999992
+    "x": -2619.999999999998,
+    "y": -622.4999999999993
   },
   "id": "cluster_1792501948337",
   "isExpanded": true,
@@ -14,7 +14,7 @@
   "sound": {
     "file": "asset_1792503059772_1",
     "loop": true,
-    "volume": 0.5
+    "volume": 0.2
   },
   "type": "spatial"
 }

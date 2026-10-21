@@ -12,7 +12,7 @@
     },
     {
       "label": "Attempt to trip Vic over as a joke",
-      "targetId": "beat_29_copymv54phfs1_copymv54po2v1"
+      "targetId": "beat_na22e6b5"
     }
   ],
   "id": "beat_19",
@@ -49,9 +49,16 @@
         "text": "Ignore Vic and go to your friends"
       },
       {
+        "effects": [
+          {
+            "target": "trip",
+            "type": "setVariable",
+            "value": true
+          }
+        ],
         "id": "choice_1791798581947",
         "location": "",
-        "target": "beat_29_copymv54phfs1_copymv54po2v1",
+        "target": "beat_na22e6b5",
         "text": "Attempt to trip Vic over as a joke"
       }
     ],

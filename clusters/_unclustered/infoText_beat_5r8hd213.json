@@ -1,0 +1,21 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_7"
+    }
+  ],
+  "id": "beat_5r8hd213",
+  "locations": [],
+  "name": "Good good ending 2",
+  "node": "asset_1792499942812_4atk6epou",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792499942812_4atk6epou",
+    "text": "During this time Stan tries to warn Billie but she doesn't listen until it's too late. \nBillie shows everyone in the class that anybody could be her next victim without any reason. She starts to sit alone and acts like everything is fine. "
+  },
+  "type": "infoText",
+  "x": 5077.952032226753,
+  "y": -788.2139782275952
+}

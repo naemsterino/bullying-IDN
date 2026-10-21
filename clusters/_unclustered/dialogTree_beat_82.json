@@ -91,7 +91,6 @@
                                                                   "choices": [
                                                                     {
                                                                       "id": "choice_1792488367306",
-                                                                      "target": "beat_7",
                                                                       "text": "Player response...",
                                                                       "visible": true
                                                                     }
@@ -191,6 +190,6 @@
   },
   "showSpeaker": true,
   "type": "dialogTree",
-  "x": 4804.92859652665,
-  "y": -782.9466772650951
+  "x": 4750.364448421389,
+  "y": -663.4651313154361
 }

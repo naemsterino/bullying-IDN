@@ -32,13 +32,61 @@
       "visual": {
         "assetId": "asset_1792487787604_0"
       }
+    },
+    {
+      "displayName": "angry",
+      "id": "state_1792515115890",
+      "name": "angry",
+      "visual": {
+        "assetId": "asset_1792515125460_ou6oid2s3"
+      }
+    },
+    {
+      "displayName": "angryclosedhand",
+      "id": "state_1792515162720",
+      "name": "angryclosedhand",
+      "visual": {
+        "assetId": "asset_1792515147151_1y5pvpn38"
+      }
+    },
+    {
+      "displayName": "fistbump",
+      "id": "state_1792517751637",
+      "name": "fistbump",
+      "visual": {
+        "assetId": "asset_1792517765532_sb72gnavt"
+      }
+    },
+    {
+      "displayName": "sad",
+      "id": "state_1792517853756",
+      "name": "sad",
+      "visual": {
+        "assetId": "asset_1792517862026_rziu79slo"
+      }
+    },
+    {
+      "displayName": "shyhappy",
+      "id": "state_1792517973629",
+      "name": "shyhappy",
+      "visual": {
+        "assetId": "asset_1792518011783_40zz3lse4"
+      }
+    },
+    {
+      "displayName": "openhandlooking down",
+      "id": "state_1792518103600",
+      "name": "openhandlooking down",
+      "visual": {
+        "assetId": "asset_1792518119551_x4wldgu8z"
+      }
     }
   ],
   "tags": [
     "bystander"
   ],
   "traits": [],
-  "updatedAt": "2026-10-20T09:16:53.102Z",
+  "updatedAt": "2026-10-20T17:42:11.449Z",
   "visual": {
     "defaultAssetId": "asset_1792415371132_jdcwpelen",
     "type": "static"

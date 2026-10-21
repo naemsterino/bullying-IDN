@@ -31,13 +31,21 @@
       "visual": {
         "assetId": "asset_1792415310033_zb1a4jmg9"
       }
+    },
+    {
+      "displayName": "on phone",
+      "id": "state_1792515485173",
+      "name": "onPhone",
+      "visual": {
+        "assetId": "asset_1792515437738_0"
+      }
     }
   ],
   "tags": [
     "victim"
   ],
   "traits": [],
-  "updatedAt": "2026-10-19T13:25:04.530Z",
+  "updatedAt": "2026-10-20T16:58:17.491Z",
   "visual": {
     "defaultAssetId": "asset_1792415278679_jbreo1kna",
     "type": "static"

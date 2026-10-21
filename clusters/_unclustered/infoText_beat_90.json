@@ -11,7 +11,7 @@
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Go to sleep",
-    "text": "You eat an awkward dinner, your parents look at each other, trying to think of what to say, but can’t come with anything constructive to say. They blame themselves. You blame yourself. Stan blames themselves. Perhaps a good talk could resolve this but no one dares to speak first. "
+    "text": "You eat an awkward dinner, your parents look at each other, trying to think of what to say, but can’t come with anything constructive to say. They blame themselves. You blame yourself. Stan blames himself. Perhaps a good talk could resolve this but no one dares to speak first. "
   },
   "type": "infoText",
   "x": 3473.038549266739,

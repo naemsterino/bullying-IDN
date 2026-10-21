@@ -1,0 +1,162 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_d9m2fxeq",
+  "locations": [],
+  "name": "Stan and Billie Dialogue- Good Ending 1",
+  "node": "asset_1792094149468_yrq3nth03",
+  "parameters": {
+    "backgroundAssetId": "asset_1792094149468_yrq3nth03",
+    "dialogTree": {
+      "characterRef": "char_1792094383279_wzb17mkkt",
+      "choices": [
+        {
+          "dialogNode": {
+            "characterRef": "char_1792095472673_hlp3ie1dh",
+            "choices": [
+              {
+                "dialogNode": {
+                  "characterRef": "char_1792094383279_wzb17mkkt",
+                  "choices": [
+                    {
+                      "dialogNode": {
+                        "characterRef": "char_1792095472673_hlp3ie1dh",
+                        "choices": [
+                          {
+                            "dialogNode": {
+                              "characterRef": "char_1792094383279_wzb17mkkt",
+                              "choices": [
+                                {
+                                  "dialogNode": {
+                                    "choices": [
+                                      {
+                                        "dialogNode": {
+                                          "characterRef": "char_1792094383279_wzb17mkkt",
+                                          "choices": [
+                                            {
+                                              "dialogNode": {
+                                                "characterRef": "char_1792095472673_hlp3ie1dh",
+                                                "choices": [
+                                                  {
+                                                    "dialogNode": {
+                                                      "characterRef": "char_1792094383279_wzb17mkkt",
+                                                      "choices": [
+                                                        {
+                                                          "dialogNode": {
+                                                            "choices": [
+                                                              {
+                                                                "dialogNode": {
+                                                                  "characterRef": "char_1792094383279_wzb17mkkt",
+                                                                  "choices": [
+                                                                    {
+                                                                      "id": "choice_1792585150768",
+                                                                      "text": "...",
+                                                                      "visible": true
+                                                                    }
+                                                                  ],
+                                                                  "id": "node_1792585091653",
+                                                                  "speaker": "Stan",
+                                                                  "text": "our jokes are only funny to you and Tim was always the butt of the joke. To the point that he had to change schools."
+                                                                },
+                                                                "id": "choice_1792584716847",
+                                                                "text": "...",
+                                                                "visible": true
+                                                              }
+                                                            ],
+                                                            "id": "node_1792584696576",
+                                                            "speaker": "Billie",
+                                                            "text": "What do you mean?\n"
+                                                          },
+                                                          "id": "choice_1792584664922",
+                                                          "text": "...",
+                                                          "visible": true
+                                                        }
+                                                      ],
+                                                      "id": "node_1792584566461",
+                                                      "speaker": "Stan",
+                                                      "text": "See what you're doing?"
+                                                    },
+                                                    "id": "choice_1792584560113",
+                                                    "text": "...",
+                                                    "visible": true
+                                                  }
+                                                ],
+                                                "id": "node_1792584509952",
+                                                "speaker": "Billie",
+                                                "text": "See what?"
+                                              },
+                                              "id": "choice_1792584501130",
+                                              "text": "...",
+                                              "visible": true
+                                            }
+                                          ],
+                                          "id": "node_1792584441063",
+                                          "speaker": "Stan",
+                                          "text": "Did he also have no sense of humour?\nYou don't see it do you?"
+                                        },
+                                        "id": "choice_1792584391144",
+                                        "text": "...",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "id": "node_1792583990714",
+                                    "speaker": "Billie",
+                                    "text": "\"What about him?\""
+                                  },
+                                  "id": "choice_1792583983316",
+                                  "text": "...",
+                                  "visible": true
+                                }
+                              ],
+                              "id": "node_1792583747959",
+                              "speaker": "Stan",
+                              "text": "\"What about Tim?\""
+                            },
+                            "id": "choice_1792583707881",
+                            "text": "...",
+                            "visible": true
+                          }
+                        ],
+                        "id": "node_1792583673931",
+                        "speaker": "Billie",
+                        "text": " \"It's not my problem if Vic here has no sense of humour!\""
+                      },
+                      "id": "choice_1792583666144",
+                      "text": "...",
+                      "visible": true
+                    }
+                  ],
+                  "id": "node_1792583629221",
+                  "speaker": "Stan",
+                  "text": "\"Are you though? I don't see Vic laughing?\"\n"
+                },
+                "id": "choice_1792583417844",
+                "text": "...",
+                "visible": true
+              }
+            ],
+            "id": "node_1792583108615",
+            "speaker": "Billie",
+            "text": "\"What the hell! Now you have lost your sense of humour. I'm just joking here!\"."
+          },
+          "id": "choice_1792583030324",
+          "text": "...?!",
+          "visible": true
+        }
+      ],
+      "emotion": "neutral",
+      "id": "root",
+      "speaker": "Stan",
+      "text": "\"You know what, that's enough Billie!\""
+    },
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "node": "asset_1792094149468_yrq3nth03",
+    "showAvatars": true
+  },
+  "showSpeaker": true,
+  "type": "dialogTree",
+  "x": 3967.0102028999663,
+  "y": -873.0471583045656
+}

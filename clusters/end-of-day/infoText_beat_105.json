@@ -7,7 +7,23 @@
     }
   ],
   "id": "beat_105",
-  "locations": [],
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792094383279_wzb17mkkt",
+      "characterName": "Stan",
+      "height": 1080,
+      "id": "element_1792517727833",
+      "kind": "character",
+      "name": "Stan",
+      "size": 100,
+      "stateId": "state_1792517751637",
+      "width": 1000,
+      "x": 0,
+      "y": 0,
+      "zIndex": 0
+    }
+  ],
   "name": "Talk to Stan end (Paste)",
   "parameters": {
     "backgroundSound": "",

@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_85"
+    }
+  ],
+  "id": "beat_npb5euno",
+  "locations": [],
+  "name": "bad end 1 (Paste)",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Go to your room",
+    "text": "You come home, you put your head down as your parents come to greet you in the hallway. They are worried, yet you claim it’s fine still, you don’t eat dinner, you’re not hungry. "
+  },
+  "type": "infoText",
+  "x": 3242.11444365269,
+  "y": -112.37007251024522
+}
