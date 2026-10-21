@@ -54,16 +54,40 @@
                 "dialogNode": {
                   "choices": [
                     {
+                      "dialogNode": {
+                        "choices": [
+                          {
+                            "dialogNode": {
+                              "choices": [
+                                {
+                                  "id": "choice_1792585971028",
+                                  "target": "beat_105",
+                                  "text": "“Sounds like a deal, thanks Stan.”",
+                                  "visible": true
+                                }
+                              ],
+                              "id": "node_1792585958575",
+                              "speaker": "Stan",
+                              "text": "\"I’d be happy to remind you that whatever messed up stuff she’s said about you isn’t true… and that she's a massive jerk.”"
+                            },
+                            "id": "choice_1792585950234",
+                            "text": "Continue",
+                            "visible": true
+                          }
+                        ],
+                        "id": "node_1792585920730",
+                        "speaker": "Stan",
+                        "text": "\"Tell you what, to make up for it, if she ever tries anything again while I’m not around you can come talk to me about it later.\""
+                      },
                       "id": "choice_1792507236852",
-                      "target": "beat_105",
-                      "text": "“Sounds like a deal, thanks Stan.”",
+                      "text": "Continue",
                       "visible": true
                     }
                   ],
                   "id": "node_1792507188921",
                   "speaker": "Stan",
                   "speakerState": "state_1792518103600",
-                  "text": "“Yeah, well she still sucks and I should have given her a piece of my mind way sooner. Tell you what, to make up for it, if she ever tries anything again while I’m not around you can come talk to me about it later. I’d be happy to remind you that whatever messed up stuff she’s said about you isn’t true… and that she's a massive jerk.”"
+                  "text": "“Yeah, well she still sucks and I should have given her a piece of my mind way sooner.\""
                 },
                 "id": "choice_1792507172663",
                 "text": "“Don’t say that… I know better than anyone how scary Billie can be.”",
