@@ -32,7 +32,7 @@
       "zIndex": 1
     }
   ],
-  "name": "Vic & Parents Dialog Tree ",
+  "name": "Vic & Parents Dialog Tree (broken)",
   "node": "asset_1792450526456_pjnlstkuq",
   "parameters": {
     "backgroundAssetId": "asset_1792450526456_pjnlstkuq",
@@ -409,7 +409,7 @@
                   "text": "Yes, your mom told me about the phone call. Now come here and give us a big hug!"
                 },
                 "id": "continue_1792452071434",
-                "text": ""
+                "text": "Umm..."
               }
             ],
             "id": "node_1792451861808",
@@ -433,6 +433,6 @@
   },
   "showSpeaker": true,
   "type": "dialogTree",
-  "x": 3343.2097620723193,
-  "y": -551.1181332860955
+  "x": 3706.485618072929,
+  "y": -667.4238421242354
 }

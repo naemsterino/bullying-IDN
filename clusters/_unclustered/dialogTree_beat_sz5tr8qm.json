@@ -1,0 +1,54 @@
+{
+  "_format": "1.0",
+  "connections": [],
+  "id": "beat_sz5tr8qm",
+  "locations": [],
+  "name": "Vic & Parent Dialog Tree. ",
+  "parameters": {
+    "dialogTree": {
+      "choices": [
+        {
+          "dialogNode": {
+            "choices": [
+              {
+                "dialogNode": {
+                  "choices": [
+                    {
+                      "id": "choice_1792588131369",
+                      "text": "Player response...",
+                      "visible": true
+                    }
+                  ],
+                  "id": "node_1792588011592",
+                  "speaker": "Dad",
+                  "text": "Yes, your mom told me about the phone call. Now come here and give us a big hug!"
+                },
+                "id": "choice_1792587727937",
+                "text": "Umm...",
+                "visible": true
+              }
+            ],
+            "id": "node_1792587720341",
+            "speaker": "Mom",
+            "text": "Welcome home Vic! Your father and I wanted to talk to you about your day!"
+          },
+          "id": "choice_1792587544637",
+          "text": "Hi Mom, Dad! I'm home!",
+          "visible": true
+        }
+      ],
+      "emotion": "neutral",
+      "id": "root",
+      "speaker": "Mom",
+      "text": "Hi Vic!"
+    },
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "showAvatars": true
+  },
+  "showSpeaker": true,
+  "type": "dialogTree",
+  "x": 3507.1049597109254,
+  "y": -534.6822280622172
+}
