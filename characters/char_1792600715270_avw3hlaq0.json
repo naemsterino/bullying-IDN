@@ -1,0 +1,39 @@
+{
+  "_format": "1.0",
+  "counters": [],
+  "createdAt": "2026-10-21T16:38:35.270Z",
+  "defaultState": "default",
+  "displayName": "Mom",
+  "id": "char_1792600715270_avw3hlaq0",
+  "inventory": [],
+  "name": "new_character",
+  "portrait": {
+    "assetId": "asset_1792600724890_y4g29ndio",
+    "image": "blob:file:///b04871f7-812d-4c53-81de-8a4979923ff3"
+  },
+  "role": "npc",
+  "states": [
+    {
+      "displayName": "happy mom",
+      "id": "default",
+      "name": "happy mom",
+      "visual": {
+        "assetId": "asset_1792600739891_eat1jvzuv"
+      }
+    },
+    {
+      "displayName": "Sadmom",
+      "id": "state_1792600755995",
+      "name": "sadmom",
+      "visual": {
+        "assetId": "asset_1792600768763_9968sq35k"
+      }
+    }
+  ],
+  "tags": [],
+  "updatedAt": "2026-10-21T16:39:43.293Z",
+  "visual": {
+    "defaultAssetId": "asset_1792600739891_eat1jvzuv",
+    "type": "static"
+  }
+}
