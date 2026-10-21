@@ -1,15 +1,4 @@
 {
   "v": 1,
-  "locks": {
-    "beat_d9m2fxeq": {
-      "user": "PixellyAAA",
-      "since": "2026-10-21T16:15:42.011Z",
-      "beat": "Stan and Billie Dialogue- Good Ending 1"
-    },
-    "beat_53": {
-      "user": "Naemi",
-      "since": "2026-10-21T16:50:53.310Z",
-      "beat": "transition screen bystander to bully"
-    }
-  }
+  "locks": {}
 }

@@ -2,47 +2,415 @@
   "_format": "1.0",
   "connections": [],
   "id": "beat_sz5tr8qm",
-  "locations": [],
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792600715270_avw3hlaq0",
+      "characterName": "new_character",
+      "height": 1080,
+      "id": "element_1792606115385",
+      "kind": "character",
+      "name": "new_character",
+      "size": 72,
+      "stateId": "default",
+      "width": 1000,
+      "x": 1104,
+      "y": 162,
+      "zIndex": 2
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792600987473_glbvfkd4j",
+      "characterName": "vic_Dad",
+      "height": 150,
+      "id": "element_1792606155181",
+      "kind": "character",
+      "name": "vic_Dad",
+      "size": 61,
+      "stateId": "default",
+      "width": 150,
+      "x": 528,
+      "y": 238,
+      "zIndex": 3
+    },
+    {
+      "autosize": true,
+      "height": 76,
+      "id": "npc",
+      "kind": "dialog",
+      "name": "NPC: Mom",
+      "width": 200,
+      "x": 860,
+      "y": 50,
+      "zIndex": 4
+    },
+    {
+      "autosize": true,
+      "height": 80,
+      "id": "choice_0",
+      "kind": "button",
+      "name": "Choice 0",
+      "width": 273,
+      "x": 824,
+      "y": 146,
+      "zIndex": 5
+    }
+  ],
   "name": "Vic & Parent Dialog Tree. ",
   "node": "asset_1792598017096_71aqigxd2",
   "parameters": {
     "backgroundAssetId": "asset_1792598017096_71aqigxd2",
     "dialogTree": {
+      "characterRef": "char_1792600715270_avw3hlaq0",
       "choices": [
         {
           "dialogNode": {
+            "characterRef": "char_1792600715270_avw3hlaq0",
             "choices": [
               {
                 "dialogNode": {
+                  "characterRef": "char_1792600987473_glbvfkd4j",
                   "choices": [
                     {
+                      "dialogNode": {
+                        "characterRef": "char_1792600715270_avw3hlaq0",
+                        "choices": [
+                          {
+                            "dialogNode": {
+                              "characterRef": "char_1792600987473_glbvfkd4j",
+                              "choices": [
+                                {
+                                  "dialogNode": {
+                                    "characterRef": "char_1792600715270_avw3hlaq0",
+                                    "choices": [
+                                      {
+                                        "dialogNode": {
+                                          "characterRef": "char_1792600987473_glbvfkd4j",
+                                          "choices": [
+                                            {
+                                              "dialogNode": {
+                                                "characterRef": "char_1792600715270_avw3hlaq0",
+                                                "choices": [
+                                                  {
+                                                    "dialogNode": {
+                                                      "choices": [
+                                                        {
+                                                          "dialogNode": {
+                                                            "choices": [
+                                                              {
+                                                                "dialogNode": {
+                                                                  "choices": [
+                                                                    {
+                                                                      "dialogNode": {
+                                                                        "characterRef": "char_1792600987473_glbvfkd4j",
+                                                                        "choices": [
+                                                                          {
+                                                                            "dialogNode": {
+                                                                              "characterRef": "char_1792600715270_avw3hlaq0",
+                                                                              "choices": [
+                                                                                {
+                                                                                  "dialogNode": {
+                                                                                    "characterRef": "char_1792600987473_glbvfkd4j",
+                                                                                    "choices": [
+                                                                                      {
+                                                                                        "dialogNode": {
+                                                                                          "characterRef": "char_1792600715270_avw3hlaq0",
+                                                                                          "choices": [
+                                                                                            {
+                                                                                              "dialogNode": {
+                                                                                                "choices": [
+                                                                                                  {
+                                                                                                    "dialogNode": {
+                                                                                                      "characterRef": "char_1792600987473_glbvfkd4j",
+                                                                                                      "choices": [
+                                                                                                        {
+                                                                                                          "dialogNode": {
+                                                                                                            "characterRef": "char_1792600715270_avw3hlaq0",
+                                                                                                            "choices": [
+                                                                                                              {
+                                                                                                                "dialogNode": {
+                                                                                                                  "characterRef": "char_1792600715270_avw3hlaq0",
+                                                                                                                  "choices": [
+                                                                                                                    {
+                                                                                                                      "dialogNode": {
+                                                                                                                        "characterRef": "char_1792600987473_glbvfkd4j",
+                                                                                                                        "choices": [
+                                                                                                                          {
+                                                                                                                            "dialogNode": {
+                                                                                                                              "characterRef": "char_1792600987473_glbvfkd4j",
+                                                                                                                              "choices": [
+                                                                                                                                {
+                                                                                                                                  "dialogNode": {
+                                                                                                                                    "characterRef": "char_1792600715270_avw3hlaq0",
+                                                                                                                                    "choices": [
+                                                                                                                                      {
+                                                                                                                                        "dialogNode": {
+                                                                                                                                          "characterRef": "char_1792600987473_glbvfkd4j",
+                                                                                                                                          "choices": [
+                                                                                                                                            {
+                                                                                                                                              "dialogNode": {
+                                                                                                                                                "characterRef": "char_1792600715270_avw3hlaq0",
+                                                                                                                                                "choices": [
+                                                                                                                                                  {
+                                                                                                                                                    "dialogNode": {
+                                                                                                                                                      "choices": [
+                                                                                                                                                        {
+                                                                                                                                                          "dialogNode": {
+                                                                                                                                                            "characterRef": "char_1792600987473_glbvfkd4j",
+                                                                                                                                                            "choices": [
+                                                                                                                                                              {
+                                                                                                                                                                "id": "choice_1792606527364",
+                                                                                                                                                                "target": "beat_7_copymv4yin381",
+                                                                                                                                                                "text": "\"...\"",
+                                                                                                                                                                "visible": true
+                                                                                                                                                              }
+                                                                                                                                                            ],
+                                                                                                                                                            "id": "node_1792605927100",
+                                                                                                                                                            "speaker": "Dad",
+                                                                                                                                                            "text": "\"We love you, too!\"."
+                                                                                                                                                          },
+                                                                                                                                                          "id": "choice_1792605892122",
+                                                                                                                                                          "text": "\"No way! Ah, thank you, thank you, thank you! I love you!\".\n",
+                                                                                                                                                          "visible": true
+                                                                                                                                                        }
+                                                                                                                                                      ],
+                                                                                                                                                      "id": "node_1792605864532",
+                                                                                                                                                      "speaker": "Mom",
+                                                                                                                                                      "speakerState": "default",
+                                                                                                                                                      "text": "\"Yes!  It is! Who knows we might have red velvet cake in the fridge!\"."
+                                                                                                                                                    },
+                                                                                                                                                    "id": "choice_1792605836220",
+                                                                                                                                                    "text": "Is it?",
+                                                                                                                                                    "visible": true
+                                                                                                                                                  }
+                                                                                                                                                ],
+                                                                                                                                                "id": "node_1792605802376",
+                                                                                                                                                "speaker": "Mom",
+                                                                                                                                                "speakerState": "default",
+                                                                                                                                                "text": "\"Yes Vic, we love you!\nNow, food is almost ready. Go wash your hands and then help me set up the table. Your father is cooking your favourite dish!\".\n"
+                                                                                                                                              },
+                                                                                                                                              "id": "choice_1792605769485",
+                                                                                                                                              "text": "\"Thank you!\".",
+                                                                                                                                              "visible": true
+                                                                                                                                            }
+                                                                                                                                          ],
+                                                                                                                                          "id": "node_1792605707408",
+                                                                                                                                          "speaker": "Dad",
+                                                                                                                                          "text": "\"Just don't hold anything inside and keep it to yourself. Come and talk to us. We love you Vic!\"."
+                                                                                                                                        },
+                                                                                                                                        "id": "choice_1792605672499",
+                                                                                                                                        "text": "\"...\"\n",
+                                                                                                                                        "visible": true
+                                                                                                                                      }
+                                                                                                                                    ],
+                                                                                                                                    "id": "node_1792605606993",
+                                                                                                                                    "speaker": "Mom",
+                                                                                                                                    "speakerState": "default",
+                                                                                                                                    "text": "You know what people say once something is on internet, it's forever there! Don't worry it always comes out eventually. Sooner or later. Inshallah this will be over soon!\".\n"
+                                                                                                                                  },
+                                                                                                                                  "id": "choice_1792605561150",
+                                                                                                                                  "text": "\"...\"",
+                                                                                                                                  "visible": true
+                                                                                                                                }
+                                                                                                                              ],
+                                                                                                                              "id": "node_1792605537062",
+                                                                                                                              "speaker": "Dad",
+                                                                                                                              "text": "\"Some bullies, when they got caught in real life, they might continue on internet\"."
+                                                                                                                            },
+                                                                                                                            "id": "choice_1792605483663",
+                                                                                                                            "text": "\"Ok\".",
+                                                                                                                            "visible": true
+                                                                                                                          }
+                                                                                                                        ],
+                                                                                                                        "id": "node_1792605450184",
+                                                                                                                        "speaker": "Dad",
+                                                                                                                        "text": "Or online. If she sends you anything inappropriate or do not let you take space in the class, like with small comments, we need to know."
+                                                                                                                      },
+                                                                                                                      "id": "choice_1792605412485",
+                                                                                                                      "text": "\"...\"",
+                                                                                                                      "visible": true
+                                                                                                                    }
+                                                                                                                  ],
+                                                                                                                  "id": "node_1792605317870",
+                                                                                                                  "speaker": "Mom",
+                                                                                                                  "speakerState": "state_1792600755995",
+                                                                                                                  "text": " \"Unfortunately, it might take a while for things to change so it's important for us to know if anything happens in school\". "
+                                                                                                                },
+                                                                                                                "id": "choice_1792605249750",
+                                                                                                                "text": "\"Ok. I promise. I will talk to you\".\n",
+                                                                                                                "visible": true
+                                                                                                              }
+                                                                                                            ],
+                                                                                                            "id": "node_1792605214710",
+                                                                                                            "speaker": "Mom",
+                                                                                                            "speakerState": "state_1792600755995",
+                                                                                                            "text": "\"And remember you are important and loved. Sometimes it is easy to forget that when you are upset. So please don't feel alone\"."
+                                                                                                          },
+                                                                                                          "id": "choice_1792605189814",
+                                                                                                          "text": "\"...\"",
+                                                                                                          "visible": true
+                                                                                                        }
+                                                                                                      ],
+                                                                                                      "id": "node_1792605107353",
+                                                                                                      "speaker": "Dad",
+                                                                                                      "text": "\"So, I heard that she apologized to you. That's good. Inshallah she would change her behaviour. If she continues to bother you, please promise us that you will tell us immediately, ok?\"."
+                                                                                                    },
+                                                                                                    "id": "choice_1792605083242",
+                                                                                                    "text": "\"...\"",
+                                                                                                    "visible": true
+                                                                                                  }
+                                                                                                ],
+                                                                                                "id": "node_1792604978178",
+                                                                                                "speaker": "Mom",
+                                                                                                "speakerState": "state_1792600755995",
+                                                                                                "text": "\"But unless somebody stops this behaviour, those friends will be next. Unfortunately when they grow up they continue to hurt other people around them until they feel all alone all the time. Sometimes they even end up alone, and not by choice\"."
+                                                                                              },
+                                                                                              "id": "choice_1792604947642",
+                                                                                              "text": "\"...\"",
+                                                                                              "visible": true
+                                                                                            }
+                                                                                          ],
+                                                                                          "id": "node_1792604899247",
+                                                                                          "speaker": "Mom",
+                                                                                          "speakerState": "state_1792600755995",
+                                                                                          "text": "And their friends might be even afraid to be the next one, so they protect Billie out of fear. Some of those friends might not even realize that they are afraid."
+                                                                                        },
+                                                                                        "id": "choice_1792604852306",
+                                                                                        "text": "\"...\"",
+                                                                                        "visible": true
+                                                                                      }
+                                                                                    ],
+                                                                                    "id": "node_1792604816044",
+                                                                                    "speaker": "Dad",
+                                                                                    "text": "\"Yes. They use their popularity and friends to attack others. This is how they cover whatever is wrong with them\"."
+                                                                                  },
+                                                                                  "id": "choice_1792604771347",
+                                                                                  "text": "\"Really?\"",
+                                                                                  "visible": true
+                                                                                }
+                                                                              ],
+                                                                              "id": "node_1792604738198",
+                                                                              "speaker": "Mom",
+                                                                              "speakerState": "state_1792600755995",
+                                                                              "text": "\"Oh honey, unfortunately there are a lot of Billies  in our lives\". \n"
+                                                                            },
+                                                                            "id": "choice_1792604665270",
+                                                                            "text": "\"Yes! Again, how did you know? Did you already talked to the teachers?\".\n",
+                                                                            "visible": true
+                                                                          }
+                                                                        ],
+                                                                        "id": "node_1792604604437",
+                                                                        "speaker": "Dad",
+                                                                        "text": "And would she always act like \"Relax, I'm just joking\" each time she got caught."
+                                                                      },
+                                                                      "id": "choice_1792604513989",
+                                                                      "text": "\"How did you know? Whatever he did, she would find annoying, always she would say something mean!\".",
+                                                                      "visible": true
+                                                                    }
+                                                                  ],
+                                                                  "id": "node_1792604473894",
+                                                                  "speaker": "Mom",
+                                                                  "speakerState": "state_1792600755995",
+                                                                  "text": "\"Let me guess, he was annoying to Billie and to the others?\"."
+                                                                },
+                                                                "id": "choice_1792604422261",
+                                                                "text": "\"Billie is super popular, mom. She is always nice to the popular kids and to the teachers. Tim was... he was a bit silent. Nobody would listen to him.\"",
+                                                                "visible": true
+                                                              }
+                                                            ],
+                                                            "id": "node_1792604367893",
+                                                            "speaker": "Mom",
+                                                            "speakerState": "state_1792600755995",
+                                                            "text": "\"How about your teachers or Tim's parents? Nobody tried to stop her?\"."
+                                                          },
+                                                          "id": "choice_1792604347873",
+                                                          "text": "\"...\"",
+                                                          "visible": true
+                                                        }
+                                                      ],
+                                                      "id": "node_1792604303705",
+                                                      "speaker": "Mom",
+                                                      "speakerState": "state_1792600755995",
+                                                      "text": "\"See! I told you if you would leave class it will be another classmate. Poor kid!\"."
+                                                    },
+                                                    "id": "choice_1792604236485",
+                                                    "text": "She was mocking Tim before. He changed schools after that.\n",
+                                                    "visible": true
+                                                  }
+                                                ],
+                                                "id": "node_1792604185374",
+                                                "speaker": "Mom",
+                                                "speakerState": "default",
+                                                "text": "\"If not you then it will be someone else. Probably before you it was someone else\".\n"
+                                              },
+                                              "id": "choice_1792604141884",
+                                              "text": "\"...\"",
+                                              "visible": true
+                                            }
+                                          ],
+                                          "id": "node_1792603978918",
+                                          "speaker": "Dad",
+                                          "text": "\"This is very important for you to understand. It's not because you did something wrong. Bullies always have an excuse to attack someone. Does not matter whatever you do\"."
+                                        },
+                                        "id": "choice_1792603950880",
+                                        "text": "\"...\"",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "id": "node_1792603909876",
+                                    "speaker": "Mom",
+                                    "speakerState": "state_1792600755995",
+                                    "text": "\"Come sit. Listen Vic. This is not your fault. This is not about you. If someone is mocking and harassing you that means something is wrong about them not you\"."
+                                  },
+                                  "id": "choice_1792603894117",
+                                  "text": "\"...\"",
+                                  "visible": true
+                                }
+                              ],
+                              "id": "node_1792603877986",
+                              "speaker": "Dad",
+                              "text": "\"Your mom is right, you have nothing to apologize for. We are always there for you\"."
+                            },
+                            "id": "choice_1792603775576",
+                            "text": "\"...\"",
+                            "visible": true
+                          }
+                        ],
+                        "id": "node_1792603556305",
+                        "speaker": "Mom",
+                        "speakerState": "state_1792600755995",
+                        "text": "\"For what? Nonsense. Now we have to hug you tighter and I don't want any objections!\"."
+                      },
                       "id": "choice_1792588131369",
-                      "text": "Player response...",
+                      "text": "\"I'm sorry, Mom!\"\n",
                       "visible": true
                     }
                   ],
                   "id": "node_1792588011592",
                   "speaker": "Dad",
-                  "text": "Yes, your mom told me about the phone call. Now come here and give us a big hug!"
+                  "speakerState": "default",
+                  "text": "\"Yes, your mom told me about the phone call. Now come here and give us a big hug!\"."
                 },
                 "id": "choice_1792587727937",
-                "text": "Umm...",
+                "text": "\"Umm...\"",
                 "visible": true
               }
             ],
             "id": "node_1792587720341",
             "speaker": "Mom",
-            "text": "Welcome home Vic! Your father and I wanted to talk to you about your day!"
+            "speakerState": "default",
+            "text": "\"Welcome home Vic! Your father and I wanted to talk to you about your day!\""
           },
           "id": "choice_1792587544637",
-          "text": "Hi Mom, Dad! I'm home!",
+          "text": "\"Hi Mom, Dad! I'm home!\"",
           "visible": true
         }
       ],
       "emotion": "neutral",
       "id": "root",
       "speaker": "Mom",
-      "text": "Hi Vic!"
+      "speakerState": "default",
+      "text": "\"Hi Vic!\""
     },
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",

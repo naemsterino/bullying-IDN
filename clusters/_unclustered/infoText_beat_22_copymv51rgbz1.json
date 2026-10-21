@@ -8,11 +8,11 @@
   "id": "beat_22_copymv51rgbz1",
   "locations": [],
   "name": "good end 2",
-  "node": "asset_1792450526456_pjnlstkuq",
+  "node": "asset_1792598017096_71aqigxd2",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "node": "asset_1792450526456_pjnlstkuq",
+    "node": "asset_1792598017096_71aqigxd2",
     "text": "You came home after long day of school. Your parents are in the living room waiting for you. A delicious smell comes from the kitchen.  You put you backpack on the floor and say hi to them."
   },
   "type": "infoText",
