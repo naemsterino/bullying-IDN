@@ -5,17 +5,6 @@
   "locations": [
     {
       "autosize": true,
-      "height": 52,
-      "id": "choice_0",
-      "kind": "button",
-      "name": "Choice 0",
-      "width": 200,
-      "x": 860,
-      "y": 146,
-      "zIndex": 1
-    },
-    {
-      "autosize": true,
       "characterId": "char_1792094383279_wzb17mkkt",
       "characterName": "Stan",
       "height": 1080,
@@ -43,6 +32,28 @@
       "x": 1056,
       "y": 140,
       "zIndex": 2
+    },
+    {
+      "autosize": true,
+      "height": 76,
+      "id": "npc",
+      "kind": "dialog",
+      "name": "NPC: Stan",
+      "width": 466,
+      "x": 727,
+      "y": 50,
+      "zIndex": 3
+    },
+    {
+      "autosize": true,
+      "height": 52,
+      "id": "choice_0",
+      "kind": "button",
+      "name": "Choice 0",
+      "width": 200,
+      "x": 860,
+      "y": 146,
+      "zIndex": 4
     }
   ],
   "name": "Stan and Billie Dialogue- Good Ending 1",
@@ -135,7 +146,7 @@
                                                                                                                         "id": "node_1792590876197",
                                                                                                                         "speaker": "Stan",
                                                                                                                         "speakerState": "state_1792515162720",
-                                                                                                                        "text": "\"Billie, your apology does not matter if you continue to behave the same way, and worst of all, if it happens on the very same day. Otherwise it's not a real apology!\""
+                                                                                                                        "text": "\"Billie, your apology does not matter if you continue to behave the same way, and worst of all, on the very same day. Then it's not a real apology!\""
                                                                                                                       },
                                                                                                                       "id": "choice_1792590728860",
                                                                                                                       "text": "...",
@@ -144,8 +155,8 @@
                                                                                                                   ],
                                                                                                                   "id": "node_1792590677955",
                                                                                                                   "speaker": "Billie",
-                                                                                                                  "speakerState": "state_1792415613088",
-                                                                                                                  "text": "\"For what? Plus I already apologized to them earlier. I told them I didn't mean to! Why should I apologize to them again!\""
+                                                                                                                  "speakerState": "state_1792594329217",
+                                                                                                                  "text": "\"FOR WHAT??! I already apologized to them earlier. I told that I didn't mean to! Why should I apologize again!\""
                                                                                                                 },
                                                                                                                 "id": "choice_1792590663208",
                                                                                                                 "text": "...",
@@ -164,8 +175,8 @@
                                                                                                       ],
                                                                                                       "id": "node_1792590553929",
                                                                                                       "speaker": "Billie",
-                                                                                                      "speakerState": "state_1792415613088",
-                                                                                                      "text": "*Screeches*. \"What do you want from me? You always do this! You're always blaming me for everything. I just wanna have a nice day playing some games on my phone. Just let me be!\"\n"
+                                                                                                      "speakerState": "state_1792594329217",
+                                                                                                      "text": "*Screeches*. \"WHAT DO YOU WANT FROM ME?! YOU ALWAYS DO THIS! YOU'RE ALWAYS BLAMING ME FOR EVERYTHING!!! UGGGH, I JUST WANNA HAVE A NICE DAY, PLAYING SOMEG GAMES ON MY PHONE WITH MY FRIENDS IN PEACE. JUST LET ME BE!\"\n"
                                                                                                     },
                                                                                                     "id": "choice_1792590068347",
                                                                                                     "text": "...",
@@ -193,7 +204,7 @@
                                                                                     ],
                                                                                     "id": "node_1792589686654",
                                                                                     "speaker": "Billie",
-                                                                                    "speakerState": "state_1792415408524",
+                                                                                    "speakerState": "state_1792594346878",
                                                                                     "text": "\"Mr. Boring here thinks that I harassed Tim out of the school. Ugh, un-freaking-believable. I just made some jokes, not sent death threats!\"\n"
                                                                                   },
                                                                                   "id": "choice_1792589677232",
@@ -213,7 +224,7 @@
                                                                         ],
                                                                         "id": "node_1792586163162",
                                                                         "speaker": "Billie",
-                                                                        "speakerState": "state_1792415408524",
+                                                                        "speakerState": "state_1792594346878",
                                                                         "text": "\"I have nothing to do with that. He chose to do it. I can't be responsible for what he chooses.\"\n"
                                                                       },
                                                                       "id": "choice_1792585150768",
@@ -233,7 +244,7 @@
                                                             ],
                                                             "id": "node_1792584696576",
                                                             "speaker": "Billie",
-                                                            "speakerState": "state_1792415408524",
+                                                            "speakerState": "state_1792594346878",
                                                             "text": "\"What do you mean?\"\n"
                                                           },
                                                           "id": "choice_1792584664922",
@@ -253,7 +264,7 @@
                                                 ],
                                                 "id": "node_1792584509952",
                                                 "speaker": "Billie",
-                                                "speakerState": "state_1792415408524",
+                                                "speakerState": "state_1792594346878",
                                                 "text": "\"See what?\""
                                               },
                                               "id": "choice_1792584501130",
@@ -273,7 +284,7 @@
                                     ],
                                     "id": "node_1792583990714",
                                     "speaker": "Billie",
-                                    "speakerState": "state_1792415613088",
+                                    "speakerState": "state_1792594329217",
                                     "text": "\"What about him?\""
                                   },
                                   "id": "choice_1792583983316",
@@ -293,7 +304,7 @@
                         ],
                         "id": "node_1792583673931",
                         "speaker": "Billie",
-                        "speakerState": "state_1792415408524",
+                        "speakerState": "state_1792594346878",
                         "text": " \"It's not my problem if Vic here has no sense of humour!\""
                       },
                       "id": "choice_1792583666144",
@@ -313,7 +324,7 @@
             ],
             "id": "node_1792583108615",
             "speaker": "Billie",
-            "speakerState": "state_1792415613088",
+            "speakerState": "state_1792594329217",
             "text": "\"What the hell! Now you have lost your sense of humour. I'm just joking here!\"."
           },
           "id": "choice_1792583030324",

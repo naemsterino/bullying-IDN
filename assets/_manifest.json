@@ -639,6 +639,15 @@
       "size": 126111,
       "type": "image",
       "uploadedAt": "2026-10-21T14:51:17.754Z"
+    },
+    "asset_1792598017096_71aqigxd2": {
+      "filename": "Couch.png",
+      "folder": "backgrounds",
+      "id": "asset_1792598017096_71aqigxd2",
+      "mimeType": "image/png",
+      "size": 2148905,
+      "type": "image",
+      "uploadedAt": "2026-10-21T15:53:37.097Z"
     }
   }
 }

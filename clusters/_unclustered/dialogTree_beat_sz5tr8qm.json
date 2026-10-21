@@ -4,7 +4,9 @@
   "id": "beat_sz5tr8qm",
   "locations": [],
   "name": "Vic & Parent Dialog Tree. ",
+  "node": "asset_1792598017096_71aqigxd2",
   "parameters": {
+    "backgroundAssetId": "asset_1792598017096_71aqigxd2",
     "dialogTree": {
       "choices": [
         {
@@ -45,6 +47,7 @@
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
+    "node": "asset_1792598017096_71aqigxd2",
     "showAvatars": true
   },
   "showSpeaker": true,
