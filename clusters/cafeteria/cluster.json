@@ -14,7 +14,7 @@
   "sound": {
     "file": "asset_1792406791015_0",
     "loop": true,
-    "volume": 0.2
+    "volume": 0.1
   },
   "type": "spatial"
 }
