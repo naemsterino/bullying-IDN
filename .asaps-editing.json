@@ -1,16 +1,20 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_61": {
+  "locks": {
+    "beat_29_copymv54phfs1": {
       "user": "Naemi",
-      "since": "2026-10-22T10:51:45.781Z",
-      "beat": "trip continued 1"
+      "since": "2026-10-22T10:55:37.064Z",
+      "beat": "cafeteria, ignore"
     },
-    "beat_19": {
+    "beat_59": {
       "user": "Naemi",
-      "since": "2026-10-22T10:52:08.646Z",
-      "beat": "apologise or not"
+      "since": "2026-10-22T10:55:40.318Z",
+      "beat": "trip continued 3"
+    },
+    "beat_60": {
+      "user": "Naemi",
+      "since": "2026-10-22T10:55:41.199Z",
+      "beat": "trip conclusion"
     }
   }
 }
