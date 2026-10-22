@@ -14,9 +14,24 @@
       "size": 72,
       "stateId": "default",
       "width": 1000,
-      "x": 1104,
+      "x": 96,
       "y": 162,
       "zIndex": 2
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792600987473_glbvfkd4j",
+      "characterName": "vic_Dad",
+      "height": 1080,
+      "id": "element_1792609864464",
+      "kind": "character",
+      "name": "vic_Dad",
+      "size": 79,
+      "stateId": "default",
+      "width": 1000,
+      "x": 931,
+      "y": 113,
+      "zIndex": 3
     },
     {
       "autosize": true,
@@ -39,21 +54,6 @@
       "x": 824,
       "y": 146,
       "zIndex": 5
-    },
-    {
-      "autosize": true,
-      "characterId": "char_1792600987473_glbvfkd4j",
-      "characterName": "vic_Dad",
-      "height": 1080,
-      "id": "element_1792609864464",
-      "kind": "character",
-      "name": "vic_Dad",
-      "size": 79,
-      "stateId": "default",
-      "width": 1000,
-      "x": 0,
-      "y": 113,
-      "zIndex": 3
     }
   ],
   "name": "Vic & Parent Dialog Tree. ",
