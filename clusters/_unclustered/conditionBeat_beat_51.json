@@ -12,14 +12,14 @@
   ],
   "id": "beat_51",
   "locations": [],
-  "name": "check for apology",
+  "name": "check for trip",
   "parameters": {
     "compareSource": "inventory",
     "condition": {
       "operator": "==",
       "type": "variable",
       "value": true,
-      "variableName": "intervention"
+      "variableName": "trip"
     },
     "conditionType": "variable",
     "falseTarget": "beat_44",
@@ -28,7 +28,7 @@
     "quantityCheck": false,
     "trueTarget": "beat_43",
     "value": true,
-    "variableName": "intervention"
+    "variableName": "trip"
   },
   "type": "conditionBeat",
   "x": 4369.634919988334,
