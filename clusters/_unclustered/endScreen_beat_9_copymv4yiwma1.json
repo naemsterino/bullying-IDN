@@ -29,12 +29,6 @@
     "showCredits": false,
     "showRestart": true
   },
-  "sound": {
-    "assetId": "asset_1792500477750_0",
-    "file": "asset_1792500477750_0",
-    "loop": false,
-    "volume": 1
-  },
   "type": "endScreen",
   "x": 4347.817881464464,
   "y": 47.89937023455775

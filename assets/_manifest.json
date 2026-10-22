@@ -702,6 +702,15 @@
       "size": 456665,
       "type": "image",
       "uploadedAt": "2026-10-21T20:25:23.831Z"
+    },
+    "asset_1792666313699_0": {
+      "filename": "trip.mp3",
+      "folder": "sounds",
+      "id": "asset_1792666313699_0",
+      "mimeType": "audio/mpeg",
+      "size": 16200,
+      "type": "audio",
+      "uploadedAt": "2026-10-22T10:51:53.699Z"
     }
   }
 }
