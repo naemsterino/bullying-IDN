@@ -1,20 +1,25 @@
 {
   "v": 1,
   "locks": {
-    "beat_29_copymv54phfs1": {
+    "beat_m7cn984b": {
       "user": "Naemi",
-      "since": "2026-10-22T10:55:37.064Z",
-      "beat": "cafeteria, ignore"
+      "since": "2026-10-22T17:40:53.978Z",
+      "beat": "GE1- Stan and Vic"
     },
-    "beat_59": {
+    "beat_105": {
       "user": "Naemi",
-      "since": "2026-10-22T10:55:40.318Z",
-      "beat": "trip continued 3"
+      "since": "2026-10-22T17:40:56.536Z",
+      "beat": "Talk to Stan end (Paste)"
     },
-    "beat_60": {
+    "beat_108": {
       "user": "Naemi",
-      "since": "2026-10-22T10:55:41.199Z",
-      "beat": "trip conclusion"
+      "since": "2026-10-22T17:40:59.728Z",
+      "beat": "Call your parents end (Paste)"
+    },
+    "beat_109": {
+      "user": "Naemi",
+      "since": "2026-10-22T17:41:00.726Z",
+      "beat": "Go home (Paste)"
     }
   }
 }
