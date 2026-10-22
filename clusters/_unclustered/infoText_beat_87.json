@@ -10,18 +10,12 @@
   "name": "bad end ignored your parents",
   "node": "asset_1792148623062_0",
   "parameters": {
-    "backgroundSound": "asset_1792500477750_0",
+    "backgroundSound": "",
     "buttonText": "Go to sleep",
     "node": "asset_1792148623062_0",
     "text": "You ignore them, they try to talk with you but become increasingly impatient. They eventually give in and close the door without saying anything more"
   },
-  "sound": {
-    "assetId": "asset_1792500477750_0",
-    "file": "asset_1792500477750_0",
-    "loop": false,
-    "volume": 1
-  },
   "type": "infoText",
-  "x": 3701.6433248347744,
+  "x": 3703.292709723241,
   "y": -69.18331981390196
 }

@@ -7,13 +7,13 @@
   ],
   "id": "beat_8",
   "locations": [],
-  "name": "change school",
+  "name": "neutral ending",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
     "creditsPageBody": "",
     "creditsPageTitle": "Credits",
-    "message": "Neutral end",
+    "message": "It takes another week or so before everything is in order. Surprisingly fast, you think. \n\nYou would have liked more time away from school, even if you will be going to a new one now. Doing nothing is just so easy. So comfortable. \n\nBut as nice as it is to have some time off, away from all the dread and anxiety (well, not all of it, there is still a lot on your mind), you can't deny that some small part of you is looking forward to attending your new school. To get a second chance at making a first impression. ",
     "reset": true,
     "resetCharacters": true,
     "resetCounters": true,
@@ -23,10 +23,11 @@
     "resetTimers": true,
     "resetVariables": true,
     "resetVisitedTracking": true,
+    "restartText": "Go to school",
     "showCredits": false,
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 5847.714593102853,
-  "y": -356.03362193524595
+  "x": 5659.684715817715,
+  "y": -337.8903881621186
 }

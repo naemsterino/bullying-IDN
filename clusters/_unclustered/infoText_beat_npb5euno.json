@@ -10,16 +10,10 @@
   "name": "bad end 1 (Paste)",
   "node": "asset_1792614323831_0",
   "parameters": {
-    "backgroundSound": "asset_1792500477750_0",
+    "backgroundSound": "",
     "buttonText": "Go to your room",
     "node": "asset_1792614323831_0",
     "text": "You come home, you put your head down as your parents come to greet you in the hallway. They are worried, yet you claim it’s fine still, you don’t eat dinner, you’re not hungry. "
-  },
-  "sound": {
-    "assetId": "asset_1792500477750_0",
-    "file": "asset_1792500477750_0",
-    "loop": false,
-    "volume": 1
   },
   "type": "infoText",
   "x": 3242.11444365269,

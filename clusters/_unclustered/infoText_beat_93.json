@@ -2,7 +2,7 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_94"
+      "targetId": "beat_9_copymv4yiwma1"
     }
   ],
   "id": "beat_93",
@@ -10,16 +10,10 @@
   "name": "Neutral bad 3",
   "node": "asset_1791983560572_k7h6c1ji3",
   "parameters": {
-    "backgroundSound": "asset_1792500477750_0",
+    "backgroundSound": "",
     "buttonText": "Continue",
     "node": "asset_1791983560572_k7h6c1ji3",
     "text": "As time goes by, however, the bullying gets better. Billie can’t help it to keep ending up in trouble, limiting their time spent at school, giving you some breathing room, especially to spend some time with your new friend, without the threat of something bad happening. You graduate with less than good grades, but you graduate nonetheless, hopefully you will end up in the same high school as Stan, and not in the same as Billie, though doubts have it Billie will even make it to high school."
-  },
-  "sound": {
-    "assetId": "asset_1792500477750_0",
-    "file": "asset_1792500477750_0",
-    "loop": false,
-    "volume": 1
   },
   "type": "infoText",
   "x": 4104.422995512637,

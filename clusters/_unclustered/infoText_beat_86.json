@@ -10,16 +10,10 @@
   "name": "bad end yelled at parents",
   "node": "asset_1792148623062_0",
   "parameters": {
-    "backgroundSound": "asset_1792500477750_0",
+    "backgroundSound": "",
     "buttonText": "Go to sleep",
     "node": "asset_1792148623062_0",
     "text": "You lash out, scream at them to leave you alone. Shocked, your parents look at you with sadness. They decide to leave you alone for the day, maybe you just need to sleep on it, they think. "
-  },
-  "sound": {
-    "assetId": "asset_1792500477750_0",
-    "file": "asset_1792500477750_0",
-    "loop": false,
-    "volume": 1
   },
   "type": "infoText",
   "x": 3689.5150707222674,

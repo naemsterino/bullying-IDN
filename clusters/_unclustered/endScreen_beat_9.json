@@ -7,14 +7,14 @@
   ],
   "id": "beat_9",
   "locations": [],
-  "name": "no friend, still bully",
+  "name": "bad ending",
   "node": "asset_1792148623062_0",
   "parameters": {
     "buttonText": "Play Again",
     "creditsCloseText": "Close",
     "creditsPageBody": "",
     "creditsPageTitle": "Credits",
-    "message": "Bad ending",
+    "message": "“Why me? What did I do to deserve this? Maybe I do deserve it… Maybe I don’t deserve nice things. Maybe I don’t deserve to live…”",
     "node": "asset_1792148623062_0",
     "reset": true,
     "resetCharacters": true,
@@ -25,10 +25,11 @@
     "resetTimers": true,
     "resetVariables": true,
     "resetVisitedTracking": true,
+    "restartText": "The end",
     "showCredits": false,
     "showRestart": true
   },
   "type": "endScreen",
-  "x": 4334.052360739711,
-  "y": -159.68085642807176
+  "x": 4119.632325239116,
+  "y": -153.08331687420724
 }

@@ -2,7 +2,7 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_89"
+      "targetId": "beat_9"
     }
   ],
   "id": "beat_88",
@@ -10,16 +10,10 @@
   "name": "Bad end sleep",
   "node": "asset_1792148623062_0",
   "parameters": {
-    "backgroundSound": "asset_1792500477750_0",
+    "backgroundSound": "",
     "buttonText": "Can't sleep",
     "node": "asset_1792148623062_0",
     "text": "You go to bed early, exhausted from the day, crying yourself to sleep. You can’t help but repeat everything in your head, your thoughts circling around you like a snake eating its own tail. Self destructive tendencies are not healthy for the mind of a child."
-  },
-  "sound": {
-    "assetId": "asset_1792500477750_0",
-    "file": "asset_1792500477750_0",
-    "loop": false,
-    "volume": 1
   },
   "type": "infoText",
   "x": 3913.3301529724154,

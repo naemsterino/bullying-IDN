@@ -7,14 +7,14 @@
   ],
   "id": "beat_9_copymv4yiwma1",
   "locations": [],
-  "name": "friend, still bully",
+  "name": "neutral bad ending",
   "node": "asset_1791983560572_k7h6c1ji3",
   "parameters": {
     "buttonText": "Play Again",
-    "creditsCloseText": "Close",
+    "creditsCloseText": "",
     "creditsPageBody": "",
     "creditsPageTitle": "Credits",
-    "message": "Neutral bad ending",
+    "message": "You’re not particularly excited for high school, what if there is another bully there? What if you can’t make any more friends? Thoughts circle inside your head. Overthinking. Is this all life really has to offer?  ",
     "node": "asset_1791983560572_k7h6c1ji3",
     "reset": true,
     "resetCharacters": true,
@@ -25,6 +25,7 @@
     "resetTimers": true,
     "resetVariables": true,
     "resetVisitedTracking": true,
+    "restartText": "The end",
     "showCredits": false,
     "showRestart": true
   },
@@ -35,6 +36,6 @@
     "volume": 1
   },
   "type": "endScreen",
-  "x": 4601.42376939978,
-  "y": 46.24998534609165
+  "x": 4347.817881464464,
+  "y": 47.89937023455775
 }
