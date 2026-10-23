@@ -14,7 +14,7 @@
     "backgroundSound": "",
     "buttonText": "Consider what to do",
     "node": "asset_1791985733410_nufvbhp",
-    "text": "They’re standing not too far behind you with a freshly filled lunch tray in their hand. It seems like Vic hasn’t noticed you yet and is about to walk in your direction."
+    "text": "They’re standing not too far behind you with a freshly filled lunch tray in their hand. \n\nIt seems like they haven't noticed you yet and is about to walk in your direction."
   },
   "type": "infoText",
   "x": -737.912161297625,
