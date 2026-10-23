@@ -1,0 +1,43 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "label": "Glance over at Vic",
+      "targetId": "beat_xauejjv2"
+    },
+    {
+      "label": "Go sit down with your friends",
+      "targetId": "beat_bqmerc10"
+    }
+  ],
+  "id": "beat_m2z6kjov",
+  "locations": [],
+  "name": "glance or ignore",
+  "node": "asset_1791985733410_nufvbhp",
+  "parameters": {
+    "choices": [
+      {
+        "id": "choice_1792762306041",
+        "location": "",
+        "target": "beat_xauejjv2",
+        "text": "Glance over at Vic"
+      },
+      {
+        "id": "choice_1792762306770",
+        "location": "",
+        "target": "beat_bqmerc10",
+        "text": "Go sit down with your friends"
+      }
+    ],
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "node": "asset_1791985733410_nufvbhp",
+    "question": "You get your food and start heading further into the school cafeteria to scan for your friends. You notice them sitting nearby, but before you approach them, you notice Vic.",
+    "speaker": ""
+  },
+  "type": "multiChoice",
+  "x": -756.7075184051561,
+  "y": 98.90368808316609
+}

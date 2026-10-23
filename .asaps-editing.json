@@ -1,16 +1,10 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_29_copymv54phfs1": {
+  "locks": {
+    "beat_815q8wh1": {
       "user": "Naemi",
-      "since": "2026-10-23T13:20:23.574Z",
-      "beat": "cafeteria, ignore 2"
-    },
-    "beat_6ykastni": {
-      "user": "Naemi",
-      "since": "2026-10-23T13:20:44.359Z",
-      "beat": "cafeteria, ignore 1"
+      "since": "2026-10-23T14:07:39.343Z",
+      "beat": "go to friends 4"
     }
   }
 }

@@ -3,18 +3,18 @@
   "cluster": "cluster_1792502468225",
   "connections": [
     {
-      "targetId": "beat_57"
+      "targetId": "beat_uzsaz111"
     }
   ],
   "id": "beat_3jpydovs",
   "locations": [],
-  "name": "cafeteria, ignore 3",
+  "name": "cafeteria, glance ignore 3",
   "node": "asset_1791985733410_nufvbhp",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
     "node": "asset_1791985733410_nufvbhp",
-    "text": "So, you get your food, give an appreciative nod to the lunch lady, and walk toward your friends. Hopefully chatting with them can distract you from that annoyance."
+    "text": "Ultimately, you ignore the annoyance named Vic and walk toward your friends. Hopefully chatting with them can bring your mood back up."
   },
   "type": "infoText",
   "x": 628.6329716595754,

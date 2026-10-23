@@ -88,7 +88,7 @@
       "beatId": "beat_15",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 160,
+        "x": 180,
         "y": 240,
         "z": 0
       }
@@ -412,8 +412,8 @@
       "beatId": "beat_bqmerc10",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 260,
-        "y": 340,
+        "x": 420,
+        "y": 580,
         "z": 0
       }
     },
@@ -441,6 +441,42 @@
       "position": {
         "x": 1240,
         "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_m2z6kjov",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 280,
+        "y": 460,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_uzsaz111",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 580,
+        "y": 700,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_wzfw4vk5",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 740,
+        "y": 820,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_815q8wh1",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 920,
+        "y": 920,
         "z": 0
       }
     }

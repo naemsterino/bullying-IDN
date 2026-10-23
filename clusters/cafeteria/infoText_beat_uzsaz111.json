@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "targetId": "beat_wzfw4vk5"
+    }
+  ],
+  "id": "beat_uzsaz111",
+  "locations": [],
+  "name": "go to friends 2",
+  "node": "asset_1791985733410_nufvbhp",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791985733410_nufvbhp",
+    "text": "You sit down next to Cece, across from Pete and Neo, and suddenly the annoyance of Vic raising their voice at you this morning is gone from your mind."
+  },
+  "type": "infoText",
+  "x": -754.2693930558851,
+  "y": -375.1326034898133
+}

@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "targetId": "beat_815q8wh1"
+    }
+  ],
+  "id": "beat_wzfw4vk5",
+  "locations": [],
+  "name": "go to friends 3",
+  "node": "asset_1791985733410_nufvbhp",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791985733410_nufvbhp",
+    "text": "Pete is talking about a trip he went on with his family over the weekend, gesturing wildly in-between open-mouthed chewing, as he tends to do.\n\nYou assume that he is exaggerating his story as usual, but you don't mind, it sounds like he had a great time with his family."
+  },
+  "type": "infoText",
+  "x": -714.2693930558851,
+  "y": -335.1326034898133
+}

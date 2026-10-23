@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "targetId": "beat_57"
+    }
+  ],
+  "id": "beat_815q8wh1",
+  "locations": [],
+  "name": "go to friends 4",
+  "node": "asset_1791985733410_nufvbhp",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Eat your lunch",
+    "node": "asset_1791985733410_nufvbhp",
+    "text": "It must be nice to go on a family trip like that, you think to yourself as you pick at your food.\n\nIt must be nice."
+  },
+  "type": "infoText",
+  "x": -674.2693930558851,
+  "y": -295.1326034898133
+}
