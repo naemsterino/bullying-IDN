@@ -1,9 +1,20 @@
 {
   "v": 1,
-  "locks": {
+  "locks": {}
+}
+ "beat_d9m2fxeq": {
+      "user": "elliezero",
+      "since": "2026-10-23T15:39:45.426Z",
+      "beat": "Stan and Billie Dialogue- Good Ending 1"
+    },
+    "beat_84": {
+      "user": "elliezero",
+      "since": "2026-10-23T15:39:40.053Z",
+      "beat": "Alley Stan and Vic"
+    },
     "beat_m7cn984b": {
       "user": "elliezero",
-      "since": "2026-10-23T15:33:33.031Z",
+      "since": "2026-10-23T15:39:45.773Z",
       "beat": "GE1- Stan and Vic"
     }
   }
