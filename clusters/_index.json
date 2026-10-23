@@ -22,20 +22,11 @@
   ],
   "containerBeatPositions": [
     {
-      "beatId": "beat_56",
-      "clusterId": "cluster_1792501948337",
-      "position": {
-        "x": 40,
-        "y": 300,
-        "z": 0
-      }
-    },
-    {
       "beatId": "beat_16",
       "clusterId": "cluster_1792501948337",
       "position": {
-        "x": 240,
-        "y": 300,
+        "x": 160,
+        "y": 380,
         "z": 0
       }
     },
@@ -43,8 +34,8 @@
       "beatId": "beat_18",
       "clusterId": "cluster_1792501948337",
       "position": {
-        "x": 440,
-        "y": 300,
+        "x": 580,
+        "y": 280,
         "z": 0
       }
     },
@@ -351,6 +342,33 @@
       "position": {
         "x": 920,
         "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_05rh66dp",
+      "clusterId": "cluster_1792501948337",
+      "position": {
+        "x": 300,
+        "y": 280,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_4chommzn",
+      "clusterId": "cluster_1792501948337",
+      "position": {
+        "x": 440,
+        "y": 380,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_56",
+      "clusterId": "cluster_1792501948337",
+      "position": {
+        "x": 40,
+        "y": 280,
         "z": 0
       }
     }

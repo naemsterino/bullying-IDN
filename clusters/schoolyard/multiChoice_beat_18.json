@@ -3,15 +3,15 @@
   "cluster": "cluster_1792501948337",
   "connections": [
     {
-      "label": "intervene",
+      "label": "Intervene",
       "targetId": "beat_27_copymv54nxbi1"
     },
     {
-      "label": "ignore",
+      "label": "Ignore",
       "targetId": "beat_27"
     },
     {
-      "label": "film",
+      "label": "Film",
       "targetId": "beat_28"
     }
   ],
@@ -37,19 +37,19 @@
         "id": "choice_1791798408548",
         "location": "",
         "target": "beat_27_copymv54nxbi1",
-        "text": "intervene"
+        "text": "Intervene"
       },
       {
         "id": "choice_1791798409873",
         "location": "",
         "target": "beat_27",
-        "text": "ignore"
+        "text": "Ignore"
       },
       {
         "id": "choice_1791798452581",
         "location": "",
         "target": "beat_28",
-        "text": "film"
+        "text": "Film"
       }
     ],
     "effectsOncePerChoice": false,
