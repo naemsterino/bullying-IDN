@@ -9,9 +9,11 @@
   "id": "beat_hsv6ndqf",
   "locations": [],
   "name": "trip conclusion 3",
+  "node": "asset_1791985733410_nufvbhp",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue your lunch break as normal",
+    "node": "asset_1791985733410_nufvbhp",
     "text": "As you sit down, you all look at each other and start laughing over the absurdity of the situation. "
   },
   "type": "infoText",

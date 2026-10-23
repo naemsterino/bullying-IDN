@@ -1,14 +1,9 @@
 {
   "v": 1,
   "locks": {
-    "beat_60": {
-      "user": "elliezero",
-      "since": "2026-10-23T14:53:31.998Z",
-      "beat": "trip conclusion 2"
-    },
     "beat_hsv6ndqf": {
       "user": "elliezero",
-      "since": "2026-10-23T14:53:32.126Z",
+      "since": "2026-10-23T14:57:32.016Z",
       "beat": "trip conclusion 3"
     }
   }
