@@ -3,12 +3,12 @@
   "cluster": "cluster_1792502468225",
   "connections": [
     {
-      "targetId": "beat_3jpydovs"
+      "targetId": "beat_29_copymv54phfs1"
     }
   ],
   "id": "beat_6ykastni",
   "locations": [],
-  "name": "cafeteria, ignore 2",
+  "name": "cafeteria, ignore 1",
   "node": "asset_1791985733410_nufvbhp",
   "parameters": {
     "backgroundSound": "",
