@@ -9,9 +9,11 @@
   "id": "beat_ozmtk6vn",
   "locations": [],
   "name": "apologise continued1",
+  "node": "asset_1791985733410_nufvbhp",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "\"Hey Vic!\"",
+    "node": "asset_1791985733410_nufvbhp",
     "text": "You turn around and start moving towards Vic. You know Vic notices you, even if they desperately try to avoid eye contact. You think to yourself that if you start up a conversation, they’ll have no choice but to talk to you."
   },
   "type": "infoText",
