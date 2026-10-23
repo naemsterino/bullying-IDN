@@ -165,7 +165,7 @@
             "id": "node_1792500626545",
             "speaker": "Stan",
             "speakerState": "state_1792517853756",
-            "text": "\"That's not true! Besides, I should've done that earlier. \nThen maybe Tim wouldn't have to change schools.\"\nSpeaking of that... an apology is in order.\n"
+            "text": "\"That's not true! Besides, I should've done that earlier. \nThen maybe Tim wouldn't have to change schools.\"\n\n\"Speaking of that... an apology is in order\".\n"
           },
           "id": "choice_1792500462812",
           "text": " \"I’m fine. \nWhy did you do that? I didn't think that you would care about me?\"\n You barely know me.",
@@ -186,6 +186,6 @@
   },
   "showSpeaker": true,
   "type": "dialogTree",
-  "x": 4631.153676419587,
-  "y": -961.147014664356
+  "x": 3964.311945877658,
+  "y": -905.4317786921845
 }
