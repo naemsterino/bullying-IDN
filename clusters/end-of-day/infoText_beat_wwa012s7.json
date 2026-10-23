@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_4mgybshw"
+    }
+  ],
+  "id": "beat_wwa012s7",
+  "locations": [],
+  "name": "Call your parents end 2",
+  "node": "asset_1792776430972_0",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792776430972_0",
+    "text": "When you arrive your mom greets you at the door with a complicated expression on her face. "
+  },
+  "type": "infoText",
+  "x": 2074.1008295130314,
+  "y": -73.56015581160452
+}

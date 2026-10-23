@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_w8q3o848"
+    }
+  ],
+  "id": "beat_n72su3ce",
+  "locations": [],
+  "name": "Call your parents 2",
+  "node": "asset_1792775215593_0",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792775215593_0",
+    "text": "Sure, they can be a bit clueless sometimes, but they mean well and they always try their best for your sake."
+  },
+  "type": "infoText",
+  "x": 1751.1654151360503,
+  "y": -55.81081140342498
+}

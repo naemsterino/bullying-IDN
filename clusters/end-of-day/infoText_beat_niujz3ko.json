@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_10"
+    }
+  ],
+  "id": "beat_niujz3ko",
+  "locations": [],
+  "name": "Call your parents end 4",
+  "node": "asset_1792598017096_71aqigxd2",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792598017096_71aqigxd2",
+    "text": "You tell both your parents everything that has happened between you and Billie and they listen very carefully. All you can do now is hope that whatever they decide to do with this information will actually help you in the long run."
+  },
+  "type": "infoText",
+  "x": 1895.1425691144575,
+  "y": 179.62042456794447
+}

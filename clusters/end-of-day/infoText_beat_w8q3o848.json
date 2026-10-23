@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_jiamwhp9"
+    }
+  ],
+  "id": "beat_w8q3o848",
+  "locations": [],
+  "name": "Call your parents 3",
+  "node": "asset_1792148623122_2",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792148623122_2",
+    "text": "You double check that you have everything in your bag and you try to find a quiet spot behind the school."
+  },
+  "type": "infoText",
+  "x": 1764.088271629767,
+  "y": 148.08314660854867
+}

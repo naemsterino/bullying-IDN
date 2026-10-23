@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_tg6g3lpw"
+    }
+  ],
+  "id": "beat_17prsjbl",
+  "locations": [],
+  "name": "intervention = false 2",
+  "node": "asset_1792775215593_0",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792775215593_0",
+    "text": "Like so many other times, you find yourself wondering why she feels the need to keep pushing you around like this. Did you accidentally upset her at some point? Does she just find you unpleasant to be around?"
+  },
+  "type": "infoText",
+  "x": 1150.1468804849749,
+  "y": 78.77737981053856
+}

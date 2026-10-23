@@ -3,16 +3,18 @@
   "cluster": "cluster_1792502673601",
   "connections": [
     {
-      "targetId": "beat_109"
+      "targetId": "beat_17prsjbl"
     }
   ],
   "id": "beat_102",
   "locations": [],
-  "name": "intervention = false (Paste)",
+  "name": "intervention = false 1",
+  "node": "asset_1792775215593_0",
   "parameters": {
     "backgroundSound": "",
-    "buttonText": "Go home",
-    "text": "Today was no different from any other. Billie seems dead set on messing with you for no apparent reason. Like so many other times, you find yourself wondering why she feels the need to keep pushing you around like this. Did you accidentally upset her at some point? Does she just find you unpleasant to be around? You want to ask her why she won’t leave you alone so that you can get her off your back, but just the idea of approaching her is so upsetting that it makes you nauseous. You look around nervously as you evade crowds on your way out of school. Staying is only going to increase the risk of running into Billie again, you should probably just leave…"
+    "buttonText": "Continue",
+    "node": "asset_1792775215593_0",
+    "text": "Today was no different from any other. Billie seems dead set on messing with you for no apparent reason. "
   },
   "type": "infoText",
   "x": 2134.0734356859584,

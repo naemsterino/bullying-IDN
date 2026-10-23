@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_nijucinn"
+    }
+  ],
+  "id": "beat_6wh7nt7g",
+  "locations": [],
+  "name": "victim start - after school 3",
+  "node": "asset_1792148623066_1",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792148623066_1",
+    "text": "You pack your bag while trying your best to evade the stern look of your teacher, they definitely noticed that you weren’t exactly giving the lecture your full attention. "
+  },
+  "type": "infoText",
+  "x": 686.931548395867,
+  "y": -284.2934598173119
+}

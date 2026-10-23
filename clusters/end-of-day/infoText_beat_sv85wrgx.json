@@ -1,0 +1,37 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_10"
+    }
+  ],
+  "id": "beat_sv85wrgx",
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792094383279_wzb17mkkt",
+      "characterName": "Stan",
+      "height": 1080,
+      "id": "element_1792774193971_0.2461160671154713",
+      "kind": "character",
+      "name": "Stan",
+      "stateId": "state_1792487573790",
+      "width": 1000,
+      "x": 0,
+      "y": 0,
+      "zIndex": 0
+    }
+  ],
+  "name": "Talk to Stan end 2",
+  "node": "asset_1792775215593_0",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792775215593_0",
+    "text": "He asks if you would like to walk to the bus stop together and you gladly agree. You enjoy small talk with Stan on the way there, maybe school won’t be so bad from now on."
+  },
+  "type": "infoText",
+  "x": 2075.4079865889275,
+  "y": -311.27755566760845
+}

@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_104"
+    }
+  ],
+  "id": "beat_81zlslya",
+  "locations": [],
+  "name": "Talk to Stan 2",
+  "node": "asset_1792775215593_0",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "“H-hello… hi Stan.”",
+    "node": "asset_1792775215593_0",
+    "text": "Wandering the halls of the school you find Stan rummaging in his locker, seemingly getting ready to leave. This seems as good of a time as any to approach him, as such you call out in a somewhat meek voice."
+  },
+  "type": "infoText",
+  "x": 1700.6815483958671,
+  "y": -364.2934598173119
+}

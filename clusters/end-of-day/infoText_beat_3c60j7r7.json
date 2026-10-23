@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_10"
+    }
+  ],
+  "id": "beat_3c60j7r7",
+  "locations": [],
+  "name": "Go home 3",
+  "node": "asset_1791983560572_k7h6c1ji3",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791983560572_k7h6c1ji3",
+    "text": "No one needs to know. Maybe if you just endure long enough, it will all go away by itself… Eventually… Hopefully…"
+  },
+  "type": "infoText",
+  "x": 1726.9315483958671,
+  "y": 298.206540182688
+}

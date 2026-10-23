@@ -43,7 +43,9 @@
     }
   ],
   "name": "Talk to Stan dialogue tree (Paste)",
+  "node": "asset_1792775215593_0",
   "parameters": {
+    "backgroundAssetId": "asset_1792775215593_0",
     "dialogTree": {
       "characterRef": "char_1792094383279_wzb17mkkt",
       "choices": [
@@ -68,6 +70,7 @@
                               ],
                               "id": "node_1792585958575",
                               "speaker": "Stan",
+                              "speakerState": "state_1792487573790",
                               "text": "\"I’d be happy to remind you that whatever messed up stuff she’s said about you isn’t true… and that she's a massive jerk.”"
                             },
                             "id": "choice_1792585950234",
@@ -77,6 +80,7 @@
                         ],
                         "id": "node_1792585920730",
                         "speaker": "Stan",
+                        "speakerState": "default",
                         "text": "\"Tell you what, to make up for it, if she ever tries anything again while I’m not around you can come talk to me about it later.\""
                       },
                       "id": "choice_1792507236852",
@@ -113,6 +117,7 @@
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
+    "node": "asset_1792775215593_0",
     "showAvatars": true
   },
   "showSpeaker": true,

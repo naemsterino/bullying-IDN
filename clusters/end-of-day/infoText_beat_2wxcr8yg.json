@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_101"
+    }
+  ],
+  "id": "beat_2wxcr8yg",
+  "locations": [],
+  "name": "apology = false 3",
+  "node": "asset_1792775215593_0",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792775215593_0",
+    "text": "He seems like a cool guy after all. Though, you have a hard time believing that Stan’s efforts changed Billie’s mind."
+  },
+  "type": "infoText",
+  "x": 1326.6140934697626,
+  "y": 9.254007360243348
+}

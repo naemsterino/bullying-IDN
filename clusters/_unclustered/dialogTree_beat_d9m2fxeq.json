@@ -152,8 +152,22 @@
                                                                                                                         "characterRef": "char_1792094383279_wzb17mkkt",
                                                                                                                         "choices": [
                                                                                                                           {
+                                                                                                                            "dialogNode": {
+                                                                                                                              "characterRef": "char_1792095472673_hlp3ie1dh",
+                                                                                                                              "choices": [
+                                                                                                                                {
+                                                                                                                                  "id": "choice_1792770242189",
+                                                                                                                                  "target": "beat_m7cn984b",
+                                                                                                                                  "text": "...",
+                                                                                                                                  "visible": true
+                                                                                                                                }
+                                                                                                                              ],
+                                                                                                                              "id": "node_1792770209012",
+                                                                                                                              "speaker": "Billie",
+                                                                                                                              "speakerState": "state_1792594346878",
+                                                                                                                              "text": "Whatever dude."
+                                                                                                                            },
                                                                                                                             "id": "choice_1792590956957",
-                                                                                                                            "target": "beat_m7cn984b",
                                                                                                                             "text": "...",
                                                                                                                             "visible": true
                                                                                                                           }
@@ -191,7 +205,7 @@
                                                                                                       "id": "node_1792590553929",
                                                                                                       "speaker": "Billie",
                                                                                                       "speakerState": "state_1792594329217",
-                                                                                                      "text": "\"WHAT DO YOU WANT FROM ME?! YOU ALWAYS DO THIS! YOU'RE ALWAYS BLAMING ME FOR EVERYTHING!!! UGGHH, I JUST WANNA HAVE A NICE DAY HAVING FUN WITH MY FRIENDS IN PEACE. JUST LEAVE ME ALONE!\"\n"
+                                                                                                      "text": "\"WHAT DO YOU WANT FROM ME?! THIS ALWAYS HAPPENS, I'M ALWAYS BEING BLAMED FOR EVERYTHING!!! UGGHH, I JUST WANNA HAVE A NICE DAY HAVING FUN WITH MY FRIENDS IN PEACE. JUST LEAVE ME ALONE!\"\n"
                                                                                                     },
                                                                                                     "id": "choice_1792590068347",
                                                                                                     "text": "...",
