@@ -10,10 +10,16 @@
   "name": "NE 7",
   "node": "asset_1792148623066_1",
   "parameters": {
-    "backgroundSound": "",
+    "backgroundSound": "asset_1792779152254_0",
     "buttonText": "Ignore them",
     "node": "asset_1792148623066_1",
     "text": "The ringing bell jolts you awake. \n\nSome of your classmates giggle at your startled expression"
+  },
+  "sound": {
+    "assetId": "asset_1792779152254_0",
+    "file": "asset_1792779152254_0",
+    "loop": false,
+    "volume": 1
   },
   "type": "infoText",
   "x": 3834.0345563916653,

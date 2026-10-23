@@ -765,6 +765,15 @@
       "size": 786609,
       "type": "image",
       "uploadedAt": "2026-10-23T17:27:10.973Z"
+    },
+    "asset_1792779152254_0": {
+      "filename": "school bell.mp3",
+      "folder": "sounds",
+      "id": "asset_1792779152254_0",
+      "mimeType": "audio/mpeg",
+      "size": 67709,
+      "type": "audio",
+      "uploadedAt": "2026-10-23T18:12:32.254Z"
     }
   }
 }
