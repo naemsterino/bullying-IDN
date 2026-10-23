@@ -15,8 +15,8 @@
       "stateId": "default",
       "width": 1000,
       "x": 0,
-      "y": 140,
-      "zIndex": 1
+      "y": 151,
+      "zIndex": 2
     },
     {
       "autosize": true,
@@ -29,9 +29,9 @@
       "size": 72,
       "stateId": "default",
       "width": 1000,
-      "x": 1056,
-      "y": 140,
-      "zIndex": 2
+      "x": 998,
+      "y": 151,
+      "zIndex": 3
     },
     {
       "autosize": true,
@@ -42,7 +42,7 @@
       "width": 466,
       "x": 727,
       "y": 50,
-      "zIndex": 3
+      "zIndex": 4
     },
     {
       "autosize": true,
@@ -54,6 +54,21 @@
       "x": 860,
       "y": 146,
       "zIndex": 4
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792753722327_zjxjd9cfr",
+      "characterName": "NPCS",
+      "height": 1080,
+      "id": "element_1792754090183",
+      "kind": "character",
+      "name": "NPCS",
+      "size": 81,
+      "stateId": "default",
+      "width": 1000,
+      "x": 979,
+      "y": 92,
+      "zIndex": 1
     }
   ],
   "name": "Stan and Billie Dialogue- Good Ending 1",

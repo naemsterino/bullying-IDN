@@ -5,6 +5,7 @@
   "createdAt": "2026-10-23T11:08:42.327Z",
   "defaultState": "default",
   "displayName": "Neo, Pete & Cece",
+  "goals": [],
   "id": "char_1792753722327_zjxjd9cfr",
   "inventory": [],
   "name": "NPCS",
@@ -22,6 +23,7 @@
     }
   ],
   "tags": [],
+  "traits": [],
   "updatedAt": "2026-10-23T11:09:26.817Z",
   "visual": {
     "defaultAssetId": "asset_1792753765737_bx2jjntk2",
