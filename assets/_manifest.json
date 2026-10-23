@@ -711,6 +711,33 @@
       "size": 16200,
       "type": "audio",
       "uploadedAt": "2026-10-22T10:51:53.699Z"
+    },
+    "asset_1792753682290_0": {
+      "filename": "Billie_happy.png",
+      "folder": "backgrounds",
+      "id": "asset_1792753682290_0",
+      "mimeType": "image/png",
+      "size": 167524,
+      "type": "image",
+      "uploadedAt": "2026-10-23T11:08:02.290Z"
+    },
+    "asset_1792753738947_wy5p08k9i": {
+      "filename": "bully_friend_files.png",
+      "folder": "backgrounds",
+      "id": "asset_1792753738947_wy5p08k9i",
+      "mimeType": "image/png",
+      "size": 184089,
+      "type": "image",
+      "uploadedAt": "2026-10-23T11:08:58.947Z"
+    },
+    "asset_1792753765737_bx2jjntk2": {
+      "filename": "bully_friend_files.png",
+      "folder": "backgrounds",
+      "id": "asset_1792753765737_bx2jjntk2",
+      "mimeType": "image/png",
+      "size": 184089,
+      "type": "image",
+      "uploadedAt": "2026-10-23T11:09:25.737Z"
     }
   }
 }

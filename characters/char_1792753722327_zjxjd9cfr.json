@@ -1,0 +1,30 @@
+{
+  "_format": "1.0",
+  "color": "#afa1a1",
+  "counters": [],
+  "createdAt": "2026-10-23T11:08:42.327Z",
+  "defaultState": "default",
+  "displayName": "Neo, Pete & Cece",
+  "id": "char_1792753722327_zjxjd9cfr",
+  "inventory": [],
+  "name": "NPCS",
+  "portrait": {
+    "assetId": "asset_1792753738947_wy5p08k9i",
+    "image": "blob:file:///a4c154df-ae71-4f5d-b007-706ebe7176f1"
+  },
+  "role": "npc",
+  "states": [
+    {
+      "displayName": "Default",
+      "id": "default",
+      "name": "default",
+      "visual": {}
+    }
+  ],
+  "tags": [],
+  "updatedAt": "2026-10-23T11:09:26.817Z",
+  "visual": {
+    "defaultAssetId": "asset_1792753765737_bx2jjntk2",
+    "type": "static"
+  }
+}

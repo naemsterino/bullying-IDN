@@ -64,13 +64,21 @@
       "visual": {
         "assetId": "asset_1792594277654_1"
       }
+    },
+    {
+      "displayName": "happy",
+      "id": "state_1792753690168",
+      "name": "Happy",
+      "visual": {
+        "assetId": "asset_1792753682290_0"
+      }
     }
   ],
   "tags": [
     "bully"
   ],
   "traits": [],
-  "updatedAt": "2026-10-21T14:58:21.536Z",
+  "updatedAt": "2026-10-23T11:08:21.567Z",
   "visual": {
     "defaultAssetId": "asset_1792415480970_jdngdk1ad",
     "type": "static"

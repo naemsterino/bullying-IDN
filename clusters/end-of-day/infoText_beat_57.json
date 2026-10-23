@@ -7,7 +7,23 @@
     }
   ],
   "id": "beat_57",
-  "locations": [],
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792138742562_zqrq6cn6f",
+      "characterName": "vic",
+      "height": 1080,
+      "id": "element_1792753824202",
+      "kind": "character",
+      "name": "vic",
+      "size": 100,
+      "stateId": "default",
+      "width": 1000,
+      "x": 0,
+      "y": 0,
+      "zIndex": 0
+    }
+  ],
   "name": "transition screen bully to victim",
   "parameters": {
     "backgroundSound": "",

@@ -7,7 +7,23 @@
     }
   ],
   "id": "beat_53",
-  "locations": [],
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792095472673_hlp3ie1dh",
+      "characterName": "Billie",
+      "height": 1080,
+      "id": "element_1792753792384",
+      "kind": "character",
+      "name": "Billie",
+      "size": 100,
+      "stateId": "state_1792753690168",
+      "width": 1000,
+      "x": 38,
+      "y": 0,
+      "zIndex": 0
+    }
+  ],
   "name": "transition screen bystander to bully",
   "node": "asset_1791983560443_4qfv1iz0h",
   "parameters": {
