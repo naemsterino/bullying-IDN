@@ -1,10 +1,16 @@
 {
   "v": 1,
-  "locks": {
-    "beat_hsv6ndqf": {
+  "locks": {}
+}
+ "beat_63": {
       "user": "elliezero",
-      "since": "2026-10-23T14:57:32.016Z",
-      "beat": "trip conclusion 3"
+      "since": "2026-10-23T15:09:42.828Z",
+      "beat": "GE1-1"
+    },
+    "beat_d9m2fxeq": {
+      "user": "elliezero",
+      "since": "2026-10-23T15:09:44.617Z",
+      "beat": "Stan and Billie Dialogue- Good Ending 1"
     }
   }
 }
