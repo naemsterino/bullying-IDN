@@ -3,18 +3,18 @@
   "cluster": "cluster_1792502468225",
   "connections": [
     {
-      "targetId": "beat_57"
+      "targetId": "beat_6ykastni"
     }
   ],
   "id": "beat_29_copymv54phfs1",
   "locations": [],
-  "name": "cafeteria, ignore",
+  "name": "cafeteria, ignore 1",
   "node": "asset_1791985733410_nufvbhp",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
     "node": "asset_1791985733410_nufvbhp",
-    "text": "You don’t really see a reason to pay any mind to what Vic is doing. You simply get your food and walk towards your friends. Then you sit down and start chatting together like usual."
+    "text": "Do they deserve to be messed with for the way they raised their voice at you? Absolutely, but you're feeling hungry and irritated and right now you would rather just go eat lunch with your friends."
   },
   "type": "infoText",
   "x": 548.6329716595754,

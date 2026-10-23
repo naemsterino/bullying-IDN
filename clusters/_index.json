@@ -331,7 +331,7 @@
       "beatId": "beat_29_copymv54phfs1",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 920,
+        "x": 740,
         "y": 300,
         "z": 0
       }
@@ -405,6 +405,24 @@
       "position": {
         "x": 980,
         "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_6ykastni",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 960,
+        "y": 300,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_3jpydovs",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 1200,
+        "y": 300,
         "z": 0
       }
     }

@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "targetId": "beat_3jpydovs"
+    }
+  ],
+  "id": "beat_6ykastni",
+  "locations": [],
+  "name": "cafeteria, ignore 2",
+  "node": "asset_1791985733410_nufvbhp",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791985733410_nufvbhp",
+    "text": "As much as you would like to get back at Vic for ruining your mood this morning, you don't feel like wasting your lunch break on them."
+  },
+  "type": "infoText",
+  "x": 588.6329716595754,
+  "y": -253.42198103705357
+}
