@@ -1,15 +1,19 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_55": {
+  "locks": {
+    "beat_55": {
       "user": "elliezero",
-      "since": "2026-10-23T11:59:05.943Z",
+      "since": "2026-10-23T12:00:51.982Z",
       "beat": "apology-conclusion1"
+    },
+    "beat_29": {
+      "user": "elliezero",
+      "since": "2026-10-23T12:00:54.484Z",
+      "beat": "cafeteria, apologise"
     },
     "beat_8q8f1g9u": {
       "user": "elliezero",
-      "since": "2026-10-23T11:55:40.286Z",
+      "since": "2026-10-23T12:01:36.988Z",
       "beat": "apologyconclusion2"
     }
   }
