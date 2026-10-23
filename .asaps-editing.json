@@ -1,10 +1,21 @@
 {
   "v": 1,
-  "locks": {
-    "beat_xauejjv2": {
+  "locks": {}
+}
+ "beat_5": {
       "user": "elliezero",
-      "since": "2026-10-23T12:34:12.907Z",
-      "beat": "bully start 3"
+      "since": "2026-10-23T12:38:26.780Z",
+      "beat": "start"
+    },
+    "beat_55": {
+      "user": "elliezero",
+      "since": "2026-10-23T12:39:41.526Z",
+      "beat": "apology-conclusion1"
+    },
+    "beat_8q8f1g9u": {
+      "user": "elliezero",
+      "since": "2026-10-23T12:39:44.356Z",
+      "beat": "apologyconclusion2"
     }
   }
 }
