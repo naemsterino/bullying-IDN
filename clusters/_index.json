@@ -79,7 +79,7 @@
       "beatId": "beat_53",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 0,
+        "x": 20,
         "y": 300,
         "z": 0
       }
@@ -88,7 +88,7 @@
       "beatId": "beat_15",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 180,
+        "x": 200,
         "y": 240,
         "z": 0
       }
