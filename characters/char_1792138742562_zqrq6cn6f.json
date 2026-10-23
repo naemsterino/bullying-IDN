@@ -39,13 +39,29 @@
       "visual": {
         "assetId": "asset_1792515437738_0"
       }
+    },
+    {
+      "displayName": "vicflip",
+      "id": "state_1792757136602",
+      "name": "vicflip",
+      "visual": {
+        "assetId": "asset_1792594277720_4"
+      }
+    },
+    {
+      "displayName": "fliplook up",
+      "id": "state_1792757155250",
+      "name": "fliplook up",
+      "visual": {
+        "assetId": "asset_1792594277689_3"
+      }
     }
   ],
   "tags": [
     "victim"
   ],
   "traits": [],
-  "updatedAt": "2026-10-20T16:58:17.491Z",
+  "updatedAt": "2026-10-23T12:06:19.488Z",
   "visual": {
     "defaultAssetId": "asset_1792415278679_jbreo1kna",
     "type": "static"
