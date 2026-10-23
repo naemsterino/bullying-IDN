@@ -11,10 +11,16 @@
   "name": "bully start - lunch",
   "node": "asset_1791985733410_nufvbhp",
   "parameters": {
-    "backgroundSound": "",
+    "backgroundSound": "asset_1792779152254_0",
     "buttonText": "Grab your food",
     "node": "asset_1791985733410_nufvbhp",
     "text": "The lunch bell rings, and it’s finally time for lunch. Today, beef stew and mashed potatoes are on the menu. It’s not Pancake Friday, but it could’ve been worse."
+  },
+  "sound": {
+    "assetId": "asset_1792779152254_0",
+    "file": "asset_1792779152254_0",
+    "loop": false,
+    "volume": 1
   },
   "type": "infoText",
   "x": -91.53333643062149,

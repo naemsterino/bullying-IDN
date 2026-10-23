@@ -11,10 +11,16 @@
   "name": "victim start - after school 2",
   "node": "asset_1792148623066_1",
   "parameters": {
-    "backgroundSound": "",
+    "backgroundSound": "asset_1792779152254_0",
     "buttonText": "Continue",
     "node": "asset_1792148623066_1",
     "text": "Just as you’re about to doze off from boredom, the ring of the school bell reverberates throughout the building, signaling that it’s finally time to go home. "
+  },
+  "sound": {
+    "assetId": "asset_1792779152254_0",
+    "file": "asset_1792779152254_0",
+    "loop": false,
+    "volume": 1
   },
   "type": "infoText",
   "x": 687.6725812688678,
