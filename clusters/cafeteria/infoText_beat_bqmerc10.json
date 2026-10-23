@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "targetId": "beat_xauejjv2"
+    }
+  ],
+  "id": "beat_bqmerc10",
+  "locations": [],
+  "name": "bully start 2",
+  "node": "asset_1791985733410_nufvbhp",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Glance over at Vic",
+    "node": "asset_1791985733410_nufvbhp",
+    "text": "You get your food and start heading further into the school cafeteria to scan for your friends. You notice them sitting nearby, but before you approach them, you notice Vic."
+  },
+  "type": "infoText",
+  "x": -794.2693930558851,
+  "y": -415.1326034898133
+}

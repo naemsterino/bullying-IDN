@@ -3,7 +3,49 @@
   "cluster": "cluster_1792501948337",
   "connections": [],
   "id": "beat_fmy9szvj",
-  "locations": [],
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792095472673_hlp3ie1dh",
+      "characterName": "Billie",
+      "height": 1080,
+      "id": "element_1792760141562",
+      "kind": "character",
+      "name": "Billie",
+      "size": 100,
+      "stateId": "default",
+      "width": 1000,
+      "x": 0,
+      "y": 0,
+      "zIndex": 1
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792138742562_zqrq6cn6f",
+      "characterName": "vic",
+      "height": 1080,
+      "id": "element_1792760143118",
+      "kind": "character",
+      "name": "vic",
+      "size": 100,
+      "stateId": "default",
+      "width": 1000,
+      "x": 1104,
+      "y": 0,
+      "zIndex": 2
+    },
+    {
+      "autosize": true,
+      "height": 76,
+      "id": "npc",
+      "kind": "dialog",
+      "name": "NPC: Billie",
+      "width": 290,
+      "x": 815,
+      "y": 50,
+      "zIndex": 3
+    }
+  ],
   "name": "film dialogue",
   "node": "asset_1791983560572_k7h6c1ji3",
   "parameters": {
@@ -49,7 +91,7 @@
                         ],
                         "id": "node_1792752952765",
                         "speaker": "Vic",
-                        "speakerState": "state_1792415304558",
+                        "speakerState": "state_1792757155250",
                         "text": "\"I’m sorry, okay! I just…\" *Looks in your direction for help*"
                       },
                       "id": "continue_1792752952765",
@@ -67,7 +109,7 @@
             ],
             "id": "node_1792752913086",
             "speaker": "Vic",
-            "speakerState": "state_1792415304558",
+            "speakerState": "state_1792757136602",
             "text": "\"Can’t you just leave me alone, Billie…\""
           },
           "id": "continue_1792752913086",

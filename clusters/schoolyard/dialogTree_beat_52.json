@@ -47,15 +47,19 @@
   "parameters": {
     "backgroundAssetId": "asset_1791983560572_k7h6c1ji3",
     "dialogTree": {
+      "characterRef": "char_1792095472673_hlp3ie1dh",
       "choices": [
         {
           "dialogNode": {
+            "characterRef": "char_1792095472673_hlp3ie1dh",
             "choices": [
               {
                 "dialogNode": {
+                  "characterRef": "char_1792095472673_hlp3ie1dh",
                   "choices": [
                     {
                       "dialogNode": {
+                        "characterRef": "char_1792095472673_hlp3ie1dh",
                         "choices": [
                           {
                             "id": "choice_1791975395441",

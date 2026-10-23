@@ -2,10 +2,15 @@
   "v": 1,
   "locks": {}
 }
- "beat_3jpydovs": {
-      "user": "Naemi",
-      "since": "2026-10-23T13:14:37.241Z",
-      "beat": "cafeteria, ignore 3"
+ "beat_5": {
+      "user": "elliezero",
+      "since": "2026-10-23T12:42:16.421Z",
+      "beat": "start"
+    },
+    "beat_56": {
+      "user": "elliezero",
+      "since": "2026-10-23T12:42:25.404Z",
+      "beat": "start of school"
     }
   }
 }
