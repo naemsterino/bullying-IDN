@@ -1,0 +1,90 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792501948337",
+  "connections": [],
+  "id": "beat_11wjjvow",
+  "locations": [],
+  "name": "DialogTree 111",
+  "parameters": {
+    "dialogTree": {
+      "characterRef": "char_1792095472673_hlp3ie1dh",
+      "choices": [
+        {
+          "continue": true,
+          "dialogNode": {
+            "characterRef": "char_1792138742562_zqrq6cn6f",
+            "choices": [
+              {
+                "continue": true,
+                "dialogNode": {
+                  "characterRef": "char_1792095472673_hlp3ie1dh",
+                  "choices": [
+                    {
+                      "continue": true,
+                      "dialogNode": {
+                        "characterRef": "char_1792138742562_zqrq6cn6f",
+                        "choices": [
+                          {
+                            "continue": true,
+                            "dialogNode": {
+                              "characterRef": "char_1792095472673_hlp3ie1dh",
+                              "choices": [
+                                {
+                                  "id": "choice_1792752988112",
+                                  "target": "beat_53",
+                                  "text": "...",
+                                  "visible": true
+                                }
+                              ],
+                              "id": "node_1792752980696",
+                              "speaker": "Billie",
+                              "speakerState": "state_1792415613088",
+                              "text": "Fine! You’re no fun right now anyway."
+                            },
+                            "id": "continue_1792752980696",
+                            "text": ""
+                          }
+                        ],
+                        "id": "node_1792752952765",
+                        "speaker": "Vic",
+                        "speakerState": "default",
+                        "text": "I’m sorry, okay! I just… Please go…"
+                      },
+                      "id": "continue_1792752952765",
+                      "text": ""
+                    }
+                  ],
+                  "id": "node_1792752936438",
+                  "speaker": "Billie",
+                  "speakerState": "state_1792415408524",
+                  "text": "Not when you’re raising your voice like that!"
+                },
+                "id": "continue_1792752936438",
+                "text": ""
+              }
+            ],
+            "id": "node_1792752913086",
+            "speaker": "Vic",
+            "speakerState": "state_1792415304558",
+            "text": "Can’t you just leave me alone, Billie…"
+          },
+          "id": "continue_1792752913086",
+          "text": ""
+        }
+      ],
+      "emotion": "neutral",
+      "id": "root",
+      "speaker": "Billie",
+      "speakerState": "state_1792415613088",
+      "text": "What the hell, Vic!?"
+    },
+    "effectsOncePerChoice": false,
+    "layoutTemplate": "stacked",
+    "markVisited": false,
+    "showAvatars": true
+  },
+  "showSpeaker": true,
+  "type": "dialogTree",
+  "x": -1680.9635784074383,
+  "y": -181.15498991145833
+}
