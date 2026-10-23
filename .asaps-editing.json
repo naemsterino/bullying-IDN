@@ -1,16 +1,10 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_4chommzn": {
+  "locks": {
+    "beat_4chommzn": {
       "user": "retrotryxMilo",
-      "since": "2026-10-23T10:10:36.311Z",
+      "since": "2026-10-23T10:12:18.917Z",
       "beat": "bystander start - schoolyard 3"
-    },
-    "beat_18": {
-      "user": "retrotryxMilo",
-      "since": "2026-10-23T10:10:31.592Z",
-      "beat": "help or no help"
     }
   }
 }
