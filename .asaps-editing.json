@@ -1,30 +1,15 @@
 {
   "v": 1,
   "locks": {
-    "beat_55": {
+    "beat_53": {
       "user": "elliezero",
-      "since": "2026-10-23T12:00:51.982Z",
-      "beat": "apology-conclusion1"
+      "since": "2026-10-23T12:17:24.865Z",
+      "beat": "transition screen bystander to bully"
     },
-    "beat_29": {
+    "beat_bqmerc10": {
       "user": "elliezero",
-      "since": "2026-10-23T12:00:54.484Z",
-      "beat": "cafeteria, apologise"
-    },
-    "beat_8q8f1g9u": {
-      "user": "elliezero",
-      "since": "2026-10-23T12:01:36.988Z",
-      "beat": "apologyconclusion2"
-    },
-    "beat_52": {
-      "user": "Naemi",
-      "since": "2026-10-23T12:07:31.776Z",
-      "beat": "Intervene Dialogue"
-    },
-    "beat_11wjjvow": {
-      "user": "Naemi",
-      "since": "2026-10-23T12:07:32.151Z",
-      "beat": "ignore dialogue"
+      "since": "2026-10-23T12:17:47.284Z",
+      "beat": "bully start 2"
     }
   }
 }

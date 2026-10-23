@@ -88,7 +88,7 @@
       "beatId": "beat_15",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 260,
+        "x": 220,
         "y": 300,
         "z": 0
       }
@@ -97,8 +97,8 @@
       "beatId": "beat_29",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 660,
-        "y": 160,
+        "x": 640,
+        "y": 180,
         "z": 0
       }
     },
@@ -106,7 +106,7 @@
       "beatId": "beat_19",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 480,
+        "x": 520,
         "y": 300,
         "z": 0
       }
@@ -115,8 +115,8 @@
       "beatId": "beat_55",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 1160,
-        "y": 20,
+        "x": 1100,
+        "y": 0,
         "z": 0
       }
     },
@@ -385,8 +385,8 @@
       "beatId": "beat_ozmtk6vn",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 800,
-        "y": 60,
+        "x": 760,
+        "y": 80,
         "z": 0
       }
     },
@@ -394,8 +394,8 @@
       "beatId": "beat_8q8f1g9u",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 1260,
-        "y": 120,
+        "x": 1240,
+        "y": 100,
         "z": 0
       }
     },
@@ -403,8 +403,17 @@
       "beatId": "beat_54",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 980,
+        "x": 920,
         "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_bqmerc10",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 380,
+        "y": 180,
         "z": 0
       }
     }

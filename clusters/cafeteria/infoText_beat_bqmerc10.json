@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "targetId": "beat_19"
+    }
+  ],
+  "id": "beat_bqmerc10",
+  "locations": [],
+  "name": "bully start 2",
+  "node": "asset_1791985733410_nufvbhp",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Consider what to do",
+    "node": "asset_1791985733410_nufvbhp",
+    "text": "You get your food and start heading further into the school cafeteria to scan for your friends. You notice them sitting nearby, but before you approach them, you notice Vic standing not too far behind you with a freshly filled lunch tray in their hand.\n\nIt seems like Vic hasn’t noticed you yet and is about to walk in your direction."
+  },
+  "type": "infoText",
+  "x": -794.2693930558851,
+  "y": -415.1326034898133
+}
