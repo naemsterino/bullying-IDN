@@ -479,6 +479,24 @@
         "y": 920,
         "z": 0
       }
+    },
+    {
+      "beatId": "beat_i2qvvc1r",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 1100,
+        "y": 600,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_hsv6ndqf",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 1260,
+        "y": 800,
+        "z": 0
+      }
     }
   ]
 }

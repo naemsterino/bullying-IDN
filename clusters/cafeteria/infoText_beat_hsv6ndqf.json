@@ -1,0 +1,20 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "targetId": "beat_57"
+    }
+  ],
+  "id": "beat_hsv6ndqf",
+  "locations": [],
+  "name": "trip conclusion 3",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue your lunch break as normal",
+    "text": "As you sit down, you all look at each other and start laughing over the absurdity of the situation. "
+  },
+  "type": "infoText",
+  "x": 141.73854009615604,
+  "y": 247.59462906829557
+}

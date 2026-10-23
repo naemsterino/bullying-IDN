@@ -4,11 +4,11 @@
   "connections": [
     {
       "label": "\"Come on aren’t you even gonna clean up after yourself?\"",
-      "targetId": "beat_60"
+      "targetId": "beat_i2qvvc1r"
     },
     {
       "label": "\"Oh come oon! I was just kidding, no need to be so dramatic.\"",
-      "targetId": "beat_60"
+      "targetId": "beat_i2qvvc1r"
     }
   ],
   "id": "beat_59",
@@ -20,13 +20,13 @@
       {
         "id": "choice_1791984800085",
         "location": "",
-        "target": "beat_60",
+        "target": "beat_i2qvvc1r",
         "text": "\"Come on aren’t you even gonna clean up after yourself?\""
       },
       {
         "id": "choice_1791984959389",
         "location": "",
-        "target": "beat_60",
+        "target": "beat_i2qvvc1r",
         "text": "\"Oh come oon! I was just kidding, no need to be so dramatic.\""
       }
     ],

@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "targetId": "beat_60"
+    }
+  ],
+  "id": "beat_i2qvvc1r",
+  "locations": [],
+  "name": "trip conclusion 1",
+  "node": "asset_1792504018923_1",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Go to your friends",
+    "node": "asset_1792504018923_1",
+    "text": "Vic running away like that annoys you for some reason. Why do they have to make such a big deal out of everything? You’ve had to deal with much worse things at home, so you think it’s unfair for Vic to react so intensely over something so small. You were only joking after all."
+  },
+  "type": "infoText",
+  "x": 105.26007855389375,
+  "y": 47.639492384863125
+}
