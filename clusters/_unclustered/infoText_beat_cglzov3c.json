@@ -1,0 +1,52 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_h1u20ux3"
+    }
+  ],
+  "id": "beat_cglzov3c",
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792753722327_zjxjd9cfr",
+      "characterName": "NPCS",
+      "height": 1080,
+      "id": "element_1792789672004",
+      "kind": "character",
+      "name": "NPCS",
+      "size": 70,
+      "stateId": "default",
+      "width": 1000,
+      "x": -643,
+      "y": 173,
+      "zIndex": 0
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792095472673_hlp3ie1dh",
+      "characterName": "Billie",
+      "height": 1080,
+      "id": "element_1792789725939",
+      "kind": "character",
+      "name": "Billie",
+      "size": 70,
+      "stateId": "default",
+      "width": 1000,
+      "x": 1181,
+      "y": 173,
+      "zIndex": 1
+    }
+  ],
+  "name": "Good good ending 5",
+  "node": "asset_1792148623122_2",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792148623122_2",
+    "text": " After Neo, Cece was next then eventually Pete."
+  },
+  "type": "infoText",
+  "x": 5932.091747755843,
+  "y": -938.6967885985133
+}

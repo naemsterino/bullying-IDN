@@ -2,7 +2,7 @@
   "_format": "1.0",
   "connections": [
     {
-      "targetId": "beat_7"
+      "targetId": "beat_95v29cxt"
     }
   ],
   "id": "beat_5r8hd213",
@@ -13,9 +13,9 @@
     "backgroundSound": "",
     "buttonText": "Continue",
     "node": "asset_1792499942812_4atk6epou",
-    "text": "During this time Stan tries to warn Billie but she doesn't listen until it's too late. \nBillie shows everyone in the class that anybody could be her next victim without any reason. She starts to sit alone and acts like everything is fine. "
+    "text": "In the coming weeks Vic and Stan start to hangout more often. "
   },
   "type": "infoText",
-  "x": 5156.9250444007985,
-  "y": -936.1088919353533
+  "x": 5170.925044533429,
+  "y": -944.1088920111428
 }

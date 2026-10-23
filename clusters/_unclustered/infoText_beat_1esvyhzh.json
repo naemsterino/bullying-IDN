@@ -1,0 +1,52 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_7"
+    }
+  ],
+  "id": "beat_1esvyhzh",
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792095472673_hlp3ie1dh",
+      "characterName": "Billie",
+      "height": 1080,
+      "id": "element_1792790358046",
+      "kind": "character",
+      "name": "Billie",
+      "size": 70,
+      "stateId": "default",
+      "width": 1000,
+      "x": -250,
+      "y": 173,
+      "zIndex": 0
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792138742562_zqrq6cn6f",
+      "characterName": "vic",
+      "height": 1080,
+      "id": "element_1792790391668",
+      "kind": "character",
+      "name": "vic",
+      "size": 74,
+      "stateId": "state_1792757136602",
+      "width": 1000,
+      "x": 1238,
+      "y": 146,
+      "zIndex": 1
+    }
+  ],
+  "name": "Good good Ending 10",
+  "node": "asset_1791983560572_k7h6c1ji3",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791983560572_k7h6c1ji3",
+    "text": "Billie expresses that she is sorry for her behaviour and says that she hopes Vic believe her someday. "
+  },
+  "type": "infoText",
+  "x": 7215.96145726,
+  "y": -931.9257464652743
+}

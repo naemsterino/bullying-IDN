@@ -1,0 +1,52 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_08hcfweu"
+    }
+  ],
+  "id": "beat_95v29cxt",
+  "locations": [
+    {
+      "autosize": true,
+      "characterId": "char_1792095472673_hlp3ie1dh",
+      "characterName": "Billie",
+      "height": 1080,
+      "id": "element_1792789290919",
+      "kind": "character",
+      "name": "Billie",
+      "size": 70,
+      "stateId": "state_1792753690168",
+      "width": 1000,
+      "x": -269,
+      "y": 184,
+      "zIndex": 0
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792753722327_zjxjd9cfr",
+      "characterName": "NPCS",
+      "height": 1080,
+      "id": "element_1792789362868",
+      "kind": "character",
+      "name": "NPCS",
+      "size": 66,
+      "stateId": "default",
+      "width": 1000,
+      "x": 1123,
+      "y": 205,
+      "zIndex": 1
+    }
+  ],
+  "name": "Good good Ending 3",
+  "node": "asset_1792148623066_1",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792148623066_1",
+    "text": "And Billie acts like nothing happened and was extra nice to Pete, Cece and Neo at first.\n"
+  },
+  "type": "infoText",
+  "x": 5371.738308438612,
+  "y": -937.2833093658062
+}

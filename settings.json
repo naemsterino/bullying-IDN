@@ -42,7 +42,7 @@
       "aspectRatio": "16:9",
       "height": 1080,
       "layoutMode": "responsive",
-      "orientation": "landscape",
+      "orientation": "flexible",
       "scalingMode": "fit",
       "width": 1920
     },

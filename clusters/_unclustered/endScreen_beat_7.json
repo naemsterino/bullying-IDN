@@ -27,12 +27,27 @@
       "id": "element_1792582194089",
       "kind": "character",
       "name": "Billie",
-      "size": 49,
+      "size": 70,
       "stateId": "default",
       "width": 1000,
-      "x": 1267,
-      "y": 637,
+      "x": -77,
+      "y": 324,
       "zIndex": 1
+    },
+    {
+      "autosize": true,
+      "characterId": "char_1792138742562_zqrq6cn6f",
+      "characterName": "vic",
+      "height": 1080,
+      "id": "element_1792790603185",
+      "kind": "character",
+      "name": "vic",
+      "size": 72,
+      "stateId": "state_1792757136602",
+      "width": 1000,
+      "x": 1248,
+      "y": 308,
+      "zIndex": 2
     }
   ],
   "name": "friend, no bully",
@@ -42,7 +57,7 @@
     "creditsCloseText": "Close",
     "creditsPageBody": "After a while Billie could not hide her sadness. Gets more quiet. \nOne day she approaches Vic with remorse.\nShe asks for forgiveness and looks really sorry.\n\nYou accept. ",
     "creditsPageTitle": "Credits",
-    "message": "After a while Billie could not hide her sadness. Gets more quiet. \nOne day she approaches Vic with remorse.\nBillie expresses that she is sorry for her behaviour and says that she hopes Vic believe her someday. \nVic looks at her deflated gaze and simply says.\nThank you. \n",
+    "message": "Vic looks at her deflated gaze and simply says.\nThank you. \n",
     "node": "asset_1792148623122_2",
     "reset": true,
     "resetCharacters": true,
@@ -58,14 +73,17 @@
     "slotIntent": {
       "actions": {
         "anchor": {
-          "gap": 28,
+          "gap": 36,
           "h": "center"
         },
-        "fontSize": 19
+        "fontSize": 26
+      },
+      "message": {
+        "fontSize": 63
       }
     }
   },
   "type": "endScreen",
-  "x": 5450.762980926074,
-  "y": -923.7798769890483
+  "x": 7452.270317837082,
+  "y": -927.7146775400171
 }

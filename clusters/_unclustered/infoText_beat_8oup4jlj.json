@@ -1,0 +1,19 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_1esvyhzh"
+    }
+  ],
+  "id": "beat_8oup4jlj",
+  "locations": [],
+  "name": "Good good ending 9",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "After a while Billie could not hide her sadness. Gets more quiet. \nOne day she approaches Vic with remorse."
+  },
+  "type": "infoText",
+  "x": 7023.867282102203,
+  "y": -927.9643017081139
+}
