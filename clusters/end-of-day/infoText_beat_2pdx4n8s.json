@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_aohnwktt"
+    }
+  ],
+  "id": "beat_2pdx4n8s",
+  "locations": [],
+  "name": "apology = true 2",
+  "node": "asset_1792775215593_0",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792775215593_0",
+    "text": "Thinking back, it would seem like the events of the day have had quite the positive impact on you. "
+  },
+  "type": "infoText",
+  "x": 1352.2870524106868,
+  "y": -364.79157476688414
+}

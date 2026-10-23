@@ -18,6 +18,7 @@
   "id": "beat_101",
   "locations": [],
   "name": "apology = false multi choice (Paste)",
+  "node": "asset_1792775215593_0",
   "parameters": {
     "choices": [
       {
@@ -56,6 +57,7 @@
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
+    "node": "asset_1792775215593_0",
     "question": "Even so, Stan’s actions make you think that there might be something you can do to solve this situation. Maybe if you talk to someone, they could help you.",
     "speaker": ""
   },

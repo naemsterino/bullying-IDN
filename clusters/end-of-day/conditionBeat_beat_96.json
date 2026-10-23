@@ -13,7 +13,7 @@
   ],
   "id": "beat_96",
   "locations": [],
-  "name": "intervention = false (Paste)",
+  "name": "Check intervention",
   "parameters": {
     "compareSource": "inventory",
     "condition": {

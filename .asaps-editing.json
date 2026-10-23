@@ -1,16 +1,10 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_d9m2fxeq": {
-      "user": "elliezero",
-      "since": "2026-10-23T15:44:18.951Z",
-      "beat": "Stan and Billie Dialogue- Good Ending 1"
-    },
-    "beat_m7cn984b": {
-      "user": "elliezero",
-      "since": "2026-10-23T15:44:16.984Z",
-      "beat": "GE1- Stan and Vic"
+  "locks": {
+    "beat_wwa012s7": {
+      "user": "ivanmanueltorres04",
+      "since": "2026-10-23T17:36:54.401Z",
+      "beat": "Call your parents end 2"
     }
   }
 }

@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_98"
+    }
+  ],
+  "id": "beat_2q9tco9k",
+  "locations": [],
+  "name": "apology = true 4",
+  "node": "asset_1792775215593_0",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792775215593_0",
+    "text": "It seems like Billie was also somewhat moved by Stan, she actually apologized to you during lunch, it did seem sort of sudden but you really hope she was being sincere."
+  },
+  "type": "infoText",
+  "x": 1302.4144138187462,
+  "y": -333.8235246364323
+}

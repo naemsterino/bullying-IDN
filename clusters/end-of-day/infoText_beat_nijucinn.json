@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_96"
+    }
+  ],
+  "id": "beat_nijucinn",
+  "locations": [],
+  "name": "victim start - after school 4",
+  "node": "asset_1792775215593_0",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792775215593_0",
+    "text": "As you walk out of the classroom and head toward the main entrance to the school, you find yourself reflecting over what has transpired during the day…"
+  },
+  "type": "infoText",
+  "x": 698.181548395867,
+  "y": -175.54345981731188
+}

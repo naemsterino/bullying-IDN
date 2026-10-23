@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_5mb69qz5"
+    }
+  ],
+  "id": "beat_tg6g3lpw",
+  "locations": [],
+  "name": "intervention = false 3",
+  "node": "asset_1792775215593_0",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792775215593_0",
+    "text": "You want to ask her why she won’t leave you alone so that you can get her off your back, but just the idea of approaching her is so upsetting that it makes you nauseous."
+  },
+  "type": "infoText",
+  "x": 1118.1815483958671,
+  "y": 193.20654018268803
+}

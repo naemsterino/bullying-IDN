@@ -3,16 +3,18 @@
   "cluster": "cluster_1792502673601",
   "connections": [
     {
-      "targetId": "beat_107"
+      "targetId": "beat_n72su3ce"
     }
   ],
   "id": "beat_106",
   "locations": [],
-  "name": "Call your parents (Paste)",
+  "name": "Call your parents 1",
+  "node": "asset_1792775215593_0",
   "parameters": {
     "backgroundSound": "",
-    "buttonText": "“Hello?”",
-    "text": "When in doubt, call a trusted adult. That’s what everyone says right? And there are no adults that you trust more than your parents. Sure, they can be a bit clueless sometimes, but they mean well and they always try their best for your sake. You double check that you have everything in your bag and you try to find a quiet spot behind the school. Once you’ve made sure that no one is around, you take out your phone and dial your mom’s number. You anxiously wait a few seconds before you hear someone pick up."
+    "buttonText": "Continue",
+    "node": "asset_1792775215593_0",
+    "text": "When in doubt, call a trusted adult. That’s what everyone says right? And there are no adults that you trust more than your parents."
   },
   "type": "infoText",
   "x": 2734.0734356859584,

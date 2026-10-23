@@ -170,7 +170,7 @@
       "clusterId": "cluster_1792502673601",
       "position": {
         "x": 900,
-        "y": 420,
+        "y": 500,
         "z": 0
       }
     },
@@ -179,7 +179,7 @@
       "clusterId": "cluster_1792502673601",
       "position": {
         "x": 1100,
-        "y": 440,
+        "y": 560,
         "z": 0
       }
     },
@@ -187,7 +187,7 @@
       "beatId": "beat_102",
       "clusterId": "cluster_1792502673601",
       "position": {
-        "x": 720,
+        "x": 660,
         "y": 600,
         "z": 0
       }
@@ -197,7 +197,7 @@
       "clusterId": "cluster_1792502673601",
       "position": {
         "x": 1280,
-        "y": 320,
+        "y": 80,
         "z": 0
       }
     },
@@ -206,7 +206,7 @@
       "clusterId": "cluster_1792502673601",
       "position": {
         "x": 1460,
-        "y": 320,
+        "y": 180,
         "z": 0
       }
     },
@@ -215,7 +215,7 @@
       "clusterId": "cluster_1792502673601",
       "position": {
         "x": 1640,
-        "y": 340,
+        "y": 80,
         "z": 0
       }
     },
@@ -224,7 +224,7 @@
       "clusterId": "cluster_1792502673601",
       "position": {
         "x": 1280,
-        "y": 440,
+        "y": 560,
         "z": 0
       }
     },
@@ -233,7 +233,7 @@
       "clusterId": "cluster_1792502673601",
       "position": {
         "x": 1460,
-        "y": 460,
+        "y": 580,
         "z": 0
       }
     },
@@ -242,7 +242,7 @@
       "clusterId": "cluster_1792502673601",
       "position": {
         "x": 1640,
-        "y": 480,
+        "y": 580,
         "z": 0
       }
     },
@@ -250,8 +250,8 @@
       "beatId": "beat_109",
       "clusterId": "cluster_1792502673601",
       "position": {
-        "x": 1360,
-        "y": 680,
+        "x": 1280,
+        "y": 1060,
         "z": 0
       }
     },
@@ -287,7 +287,7 @@
       "clusterId": "cluster_1792502673601",
       "position": {
         "x": 1100,
-        "y": 320,
+        "y": 180,
         "z": 0
       }
     },
@@ -296,7 +296,7 @@
       "clusterId": "cluster_1792502673601",
       "position": {
         "x": 900,
-        "y": 280,
+        "y": 20,
         "z": 0
       }
     },
@@ -304,8 +304,8 @@
       "beatId": "beat_14_copymvgtua5r1",
       "clusterId": "cluster_1792502673601",
       "position": {
-        "x": 280,
-        "y": 400,
+        "x": 260,
+        "y": 140,
         "z": 0
       }
     },
@@ -495,6 +495,195 @@
       "position": {
         "x": 1260,
         "y": 800,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_5aivv6w9",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 260,
+        "y": 260,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_6wh7nt7g",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 260,
+        "y": 360,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_nijucinn",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 260,
+        "y": 480,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_17prsjbl",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 660,
+        "y": 720,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_tg6g3lpw",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 660,
+        "y": 840,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_5mb69qz5",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 660,
+        "y": 960,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_cy7mthhi",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1280,
+        "y": 1160,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_3c60j7r7",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1280,
+        "y": 1260,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_w4c6cf1t",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 900,
+        "y": 620,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_2wxcr8yg",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 900,
+        "y": 740,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_n72su3ce",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1280,
+        "y": 660,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_w8q3o848",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1280,
+        "y": 760,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_jiamwhp9",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1280,
+        "y": 860,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_wwa012s7",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1640,
+        "y": 680,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_4mgybshw",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1640,
+        "y": 780,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_niujz3ko",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1640,
+        "y": 880,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_2pdx4n8s",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 900,
+        "y": 120,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_aohnwktt",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 900,
+        "y": 220,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_2q9tco9k",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 900,
+        "y": 340,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_81zlslya",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1280,
+        "y": 180,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_sv85wrgx",
+      "clusterId": "cluster_1792502673601",
+      "position": {
+        "x": 1640,
+        "y": 200,
         "z": 0
       }
     }

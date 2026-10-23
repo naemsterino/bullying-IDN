@@ -18,6 +18,7 @@
   "id": "beat_98",
   "locations": [],
   "name": "apology = true multi choice (Paste)",
+  "node": "asset_1792775215593_0",
   "parameters": {
     "choices": [
       {
@@ -56,6 +57,7 @@
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
+    "node": "asset_1792775215593_0",
     "question": "That being said, you feel like the ball has landed in your court, maybe there is something you can do to finally put a definitive end to this situation? Maybe you should talk to someone?",
     "speaker": ""
   },

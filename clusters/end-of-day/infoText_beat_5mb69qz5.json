@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_109"
+    }
+  ],
+  "id": "beat_5mb69qz5",
+  "locations": [],
+  "name": "intervention = false 4",
+  "node": "asset_1792775215593_0",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Go home",
+    "node": "asset_1792775215593_0",
+    "text": "You look around nervously as you evade crowds on your way out of school. Staying is only going to increase the risk of running into Billie again, you should probably just leave…"
+  },
+  "type": "infoText",
+  "x": 1161.9315483958671,
+  "y": 299.45654018268806
+}

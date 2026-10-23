@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_2q9tco9k"
+    }
+  ],
+  "id": "beat_aohnwktt",
+  "locations": [],
+  "name": "apology = true 3",
+  "node": "asset_1792775215593_0",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792775215593_0",
+    "text": "People tend to ignore whenever Billie is messing with you, but the way Stan stood up to her in the school yard made you feel like you weren’t invisible for once. "
+  },
+  "type": "infoText",
+  "x": 1323.664413818746,
+  "y": -435.0735246364322
+}

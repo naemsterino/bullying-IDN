@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_niujz3ko"
+    }
+  ],
+  "id": "beat_4mgybshw",
+  "locations": [],
+  "name": "Call your parents end 3",
+  "node": "asset_1792598017096_71aqigxd2",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792598017096_71aqigxd2",
+    "text": "As you head into the living room you see your dad sitting by a table looking more serious than you’ve ever seen him be. "
+  },
+  "type": "infoText",
+  "x": 2017.1970508609502,
+  "y": 41.89678638102369
+}

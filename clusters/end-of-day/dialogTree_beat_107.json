@@ -43,7 +43,9 @@
     }
   ],
   "name": "Call your parents dialogue tree (Paste)",
+  "node": "asset_1792148623122_2",
   "parameters": {
+    "backgroundAssetId": "asset_1792148623122_2",
     "dialogTree": {
       "choices": [
         {
@@ -104,11 +106,12 @@
       "emotion": "neutral",
       "id": "root",
       "speaker": "Mom",
-      "text": "“Hi Vic! How are you doing? you don’t usually call while at school, did something happen? Since you're calling I'm assuming you’re on break, or… are you skipping school!? you better not be skipping school Vic!”"
+      "text": "“Hi Vic! How are you doing? You don’t usually call while at school, did something happen? Since you're calling I'm assuming you’re on break, or… are you skipping school!? you better not be skipping school Vic!”"
     },
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
+    "node": "asset_1792148623122_2",
     "showAvatars": true
   },
   "showSpeaker": true,

@@ -3,16 +3,18 @@
   "cluster": "cluster_1792502673601",
   "connections": [
     {
-      "targetId": "beat_101"
+      "targetId": "beat_w4c6cf1t"
     }
   ],
   "id": "beat_100",
   "locations": [],
-  "name": "apology = false (Paste)",
+  "name": "apology = false 1",
+  "node": "asset_1792775215593_0",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": "Today was certainly exhausting. Not to any unique degree to be fair, the school day was filled with boring classes and billie messing with you as usual. Though, thinking back, there was one thing easing your usual burdens today. Stan, someone that usually didn’t really seem to pay you any mind, actually stood up for you when Billie was harassing you in the school yard. He seems like a cool guy after all. Though, you have a hard time believing that Stan’s efforts changed Billie’s mind."
+    "node": "asset_1792775215593_0",
+    "text": "Today was certainly exhausting. Not to any unique degree to be fair, the school day was filled with boring classes and billie messing with you as usual. "
   },
   "type": "infoText",
   "x": 2354.0734356859584,

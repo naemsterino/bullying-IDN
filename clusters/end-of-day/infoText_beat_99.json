@@ -3,16 +3,18 @@
   "cluster": "cluster_1792502673601",
   "connections": [
     {
-      "targetId": "beat_98"
+      "targetId": "beat_2pdx4n8s"
     }
   ],
   "id": "beat_99",
   "locations": [],
-  "name": "apology = true (Paste)",
+  "name": "apology = true 1",
+  "node": "asset_1792775215593_0",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
-    "text": "Today has been an… odd day. Usually, the exhaustion from class would follow you for quite some time after school, but you’re feeling surprisingly refreshed as you walk through the corridors of the building. Thinking back, it would seem like the events of the day have had quite the positive impact on you. People tend to ignore whenever Billie is messing with you, but the way Stan stood up to her in the school yard made you feel like you weren’t invisible for once. It seems like Billie was also somewhat moved by Stan, she actually apologized to you during lunch, it did seem sort of sudden but you really hope she was being sincere."
+    "node": "asset_1792775215593_0",
+    "text": "Today has been an… odd day. Usually, the exhaustion from class would follow you for quite some time after school, but you’re feeling surprisingly refreshed as you walk through the corridors of the building."
   },
   "type": "infoText",
   "x": 2354.0734356859584,

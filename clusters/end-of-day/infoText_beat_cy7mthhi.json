@@ -1,0 +1,22 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502673601",
+  "connections": [
+    {
+      "targetId": "beat_3c60j7r7"
+    }
+  ],
+  "id": "beat_cy7mthhi",
+  "locations": [],
+  "name": "Go home 2",
+  "node": "asset_1791983560572_k7h6c1ji3",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791983560572_k7h6c1ji3",
+    "text": "Telling people won’t help, what can they do? You would just be worrying them for no good reason. "
+  },
+  "type": "infoText",
+  "x": 1796.9315483958671,
+  "y": 153.20654018268803
+}

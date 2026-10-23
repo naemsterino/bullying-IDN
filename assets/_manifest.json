@@ -747,6 +747,24 @@
       "size": 110687,
       "type": "image",
       "uploadedAt": "2026-10-23T12:05:00.444Z"
+    },
+    "asset_1792775215593_0": {
+      "filename": "schoolhallway.png",
+      "folder": "backgrounds",
+      "id": "asset_1792775215593_0",
+      "mimeType": "image/png",
+      "size": 1001844,
+      "type": "image",
+      "uploadedAt": "2026-10-23T17:06:55.593Z"
+    },
+    "asset_1792776430972_0": {
+      "filename": "hallwayblurred.png",
+      "folder": "backgrounds",
+      "id": "asset_1792776430972_0",
+      "mimeType": "image/png",
+      "size": 786609,
+      "type": "image",
+      "uploadedAt": "2026-10-23T17:27:10.973Z"
     }
   }
 }
