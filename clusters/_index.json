@@ -97,7 +97,7 @@
       "beatId": "beat_29",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 700,
+        "x": 680,
         "y": 160,
         "z": 0
       }
@@ -106,8 +106,8 @@
       "beatId": "beat_54",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 920,
-        "y": 80,
+        "x": 1060,
+        "y": 60,
         "z": 0
       }
     },
@@ -124,8 +124,8 @@
       "beatId": "beat_55",
       "clusterId": "cluster_1792502468225",
       "position": {
-        "x": 1140,
-        "y": 40,
+        "x": 1240,
+        "y": 20,
         "z": 0
       }
     },
@@ -387,6 +387,15 @@
       "position": {
         "x": 1120,
         "y": 480,
+        "z": 0
+      }
+    },
+    {
+      "beatId": "beat_ozmtk6vn",
+      "clusterId": "cluster_1792502468225",
+      "position": {
+        "x": 860,
+        "y": 100,
         "z": 0
       }
     }

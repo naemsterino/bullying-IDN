@@ -1,0 +1,20 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "targetId": "beat_54"
+    }
+  ],
+  "id": "beat_ozmtk6vn",
+  "locations": [],
+  "name": "apologise continued1",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "\"Hey Vic!\"",
+    "text": "You turn around and start moving towards Vic. You know Vic notices you, even if they desperately try to avoid eye contact. You think to yourself that if you start up a conversation, they’ll have no choice but to talk to you."
+  },
+  "type": "infoText",
+  "x": -409.82416421814446,
+  "y": -530.5382789273319
+}
