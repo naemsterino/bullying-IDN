@@ -1,0 +1,21 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_pvefgjw5"
+    }
+  ],
+  "id": "beat_xozj7hw3",
+  "locations": [],
+  "name": "alt ge 1 3",
+  "node": "asset_1791983560572_k7h6c1ji3",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791983560572_k7h6c1ji3",
+    "text": "You realise, in fact, that Neo seems to be the butt of her jokes and mean comments lately. Shortly thereafter, their group of four is down to three."
+  },
+  "type": "infoText",
+  "x": 4667.328396694875,
+  "y": -993.4862730361492
+}

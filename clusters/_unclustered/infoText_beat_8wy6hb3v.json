@@ -1,0 +1,21 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_v2yv85fz"
+    }
+  ],
+  "id": "beat_8wy6hb3v",
+  "locations": [],
+  "name": "alt ge 1 11",
+  "node": "asset_1792148623122_2",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792148623122_2",
+    "text": "And you do.\n\nYou see it in her stubborn eyes, and you hear it in her unsteady voice, that she really means what she is saying. Though you doubt that you will be able to actually forgive her for the way that she has treated you all this time, you appreciate her willingness to change."
+  },
+  "type": "infoText",
+  "x": 6245.074421664552,
+  "y": -996.2708494968226
+}

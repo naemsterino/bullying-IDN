@@ -1,0 +1,21 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_8wy6hb3v"
+    }
+  ],
+  "id": "beat_q657dhzy",
+  "locations": [],
+  "name": "alt ge 1 10",
+  "node": "asset_1792148623122_2",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792148623122_2",
+    "text": "She says that she knows that she has apologised to you before, but insists that she intends to prove it to you this time. Finally, she tells you, through no small effort, that you don't have to forgive her, but that she hopes that you at least believe in her sincerity."
+  },
+  "type": "infoText",
+  "x": 6044.022567454769,
+  "y": -907.8646414106444
+}

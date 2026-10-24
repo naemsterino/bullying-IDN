@@ -1,0 +1,21 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_xozj7hw3"
+    }
+  ],
+  "id": "beat_z773lu5a",
+  "locations": [],
+  "name": "alt ge 1 2",
+  "node": "asset_1791983560572_k7h6c1ji3",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791983560572_k7h6c1ji3",
+    "text": "The next few weeks, you find yourself hanging out with Stan more and more frequently. Billie, meanwhile, still hanging out with Pete, Cece, and Neo, shows no sign of change."
+  },
+  "type": "infoText",
+  "x": 4481.045855569801,
+  "y": -900.6145271486566
+}

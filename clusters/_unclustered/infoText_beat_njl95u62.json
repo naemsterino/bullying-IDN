@@ -1,0 +1,21 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_0wa5g1tr"
+    }
+  ],
+  "id": "beat_njl95u62",
+  "locations": [],
+  "name": "alt ge 1 8",
+  "node": "asset_1792148623122_2",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792148623122_2",
+    "text": "One day, before you are about to leave, Billie calls out to you. Reflexively, you flinch, and your heart sinks for a moment, before you look her way and see the look on her face. No anger, just… sadness? Remorse?"
+  },
+  "type": "infoText",
+  "x": 5668.5804257826585,
+  "y": -910.3275024483445
+}

@@ -1,0 +1,21 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_e4cru2kg"
+    }
+  ],
+  "id": "beat_pvefgjw5",
+  "locations": [],
+  "name": "alt ge 1 4",
+  "node": "asset_1791983560572_k7h6c1ji3",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791983560572_k7h6c1ji3",
+    "text": "After Neo, Cece is next in line to be the odd one out. Eventually Billie ends up pushing Pete away as well."
+  },
+  "type": "infoText",
+  "x": 4874.558872019831,
+  "y": -900.6145271486566
+}

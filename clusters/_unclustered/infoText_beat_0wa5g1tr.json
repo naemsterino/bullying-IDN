@@ -1,0 +1,21 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_q657dhzy"
+    }
+  ],
+  "id": "beat_0wa5g1tr",
+  "locations": [],
+  "name": "alt ge 1 9",
+  "node": "asset_1792148623122_2",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792148623122_2",
+    "text": "She struggles to get the proper words out, and she rambles for longer than she probably had intended, but ultimately, Billie tells you that she is sorry. Sorry for everything."
+  },
+  "type": "infoText",
+  "x": 5853.603593101034,
+  "y": -983.7614650043017
+}

@@ -1,0 +1,21 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_z773lu5a"
+    }
+  ],
+  "id": "beat_lniicsu2",
+  "locations": [],
+  "name": "alte ge 1 1",
+  "node": "asset_1792499942812_4atk6epou",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1792499942812_4atk6epou",
+    "text": "You give Stan a slightly awkward hug and continue your walk home together."
+  },
+  "type": "infoText",
+  "x": 4273.545855569801,
+  "y": -995.6145271486566
+}

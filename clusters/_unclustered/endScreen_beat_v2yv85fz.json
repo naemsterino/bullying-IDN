@@ -1,0 +1,34 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_5"
+    }
+  ],
+  "id": "beat_v2yv85fz",
+  "locations": [],
+  "name": "alt ge 1 end",
+  "node": "asset_1792148623122_2",
+  "parameters": {
+    "buttonText": "Play Again",
+    "creditsCloseText": "Close",
+    "creditsPageBody": "",
+    "creditsPageTitle": "Credits",
+    "message": "Despite still being a bit uncomfortable around Billie, you manage to hold her gaze and tell her thank you, before you turn away to leave.",
+    "node": "asset_1792148623122_2",
+    "reset": true,
+    "resetCharacters": true,
+    "resetCounters": true,
+    "resetFictionalTime": true,
+    "resetHistory": true,
+    "resetInventory": true,
+    "resetTimers": true,
+    "resetVariables": true,
+    "resetVisitedTracking": true,
+    "showCredits": false,
+    "showRestart": true
+  },
+  "type": "endScreen",
+  "x": 6453.222231978042,
+  "y": -904.9389512703735
+}

@@ -1,0 +1,21 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_ht0amwmo"
+    }
+  ],
+  "id": "beat_bbi0f7ry",
+  "locations": [],
+  "name": "alt ge 1 6",
+  "node": "asset_1791985733410_nufvbhp",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791985733410_nufvbhp",
+    "text": "Billie, having shown everyone that she is more than willing to turn on even the people she considered friends, now keeps mostly to herself."
+  },
+  "type": "infoText",
+  "x": 5271.045855569801,
+  "y": -910.6145271486566
+}

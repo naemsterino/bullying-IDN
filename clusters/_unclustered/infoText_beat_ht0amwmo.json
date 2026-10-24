@@ -1,0 +1,21 @@
+{
+  "_format": "1.0",
+  "connections": [
+    {
+      "targetId": "beat_njl95u62"
+    }
+  ],
+  "id": "beat_ht0amwmo",
+  "locations": [],
+  "name": "alt ge 1 7",
+  "node": "asset_1791985733410_nufvbhp",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "node": "asset_1791985733410_nufvbhp",
+    "text": "Ironic, you think, but you can't help feeling a bit sorry for her. You never much fancied being on your own, and you can't imagine that Billie does either, no matter how much she tries to act otherwise."
+  },
+  "type": "infoText",
+  "x": 5478.5458555698015,
+  "y": -993.1145271486566
+}
