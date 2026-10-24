@@ -15,11 +15,11 @@
       "id": "element_1792839953991",
       "kind": "character",
       "name": "Stan",
-      "size": 100,
+      "size": 78,
       "stateId": "state_1792487573790",
       "width": 1000,
-      "x": -48,
-      "y": 0,
+      "x": -10,
+      "y": 130,
       "zIndex": 0
     }
   ],
