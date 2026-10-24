@@ -1,16 +1,10 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_8wy6hb3v": {
-      "user": "Naemi",
-      "since": "2026-10-24T12:17:01.975Z",
-      "beat": "alt ge 1 11"
-    },
-    "beat_v2yv85fz": {
-      "user": "Naemi",
-      "since": "2026-10-24T12:17:02.570Z",
-      "beat": "alt ge 1 end"
+  "locks": {
+    "beat_85": {
+      "user": "elliezero",
+      "since": "2026-10-24T13:50:26.028Z",
+      "beat": "bad end multi choice 1"
     }
   }
 }

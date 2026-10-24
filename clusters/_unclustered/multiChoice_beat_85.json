@@ -13,6 +13,7 @@
   "id": "beat_85",
   "locations": [],
   "name": "bad end multi choice 1",
+  "node": "asset_1792148623062_0",
   "parameters": {
     "choices": [
       {
@@ -31,6 +32,7 @@
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",
     "markVisited": false,
+    "node": "asset_1792148623062_0",
     "question": "You can hear the murmurs of your parents from outside your room. You know they are worried but you don’t want to talk to them, you don’t want to talk to anyone right now. You hear your parents come closer as they gently open the door. They want to know what has happened. ",
     "speaker": ""
   },
