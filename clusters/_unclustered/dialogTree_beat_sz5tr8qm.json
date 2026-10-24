@@ -417,6 +417,7 @@
     "layoutTemplate": "stacked",
     "markVisited": false,
     "node": "asset_1792598017096_71aqigxd2",
+    "presentationMode": "positioned",
     "showAvatars": true
   },
   "showSpeaker": true,
