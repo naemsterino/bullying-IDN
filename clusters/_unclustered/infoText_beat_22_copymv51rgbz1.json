@@ -13,9 +13,9 @@
     "backgroundSound": "",
     "buttonText": "Continue",
     "node": "asset_1792598017096_71aqigxd2",
-    "text": "You came home after long day of school. Your parents are in the living room waiting for you. A delicious smell comes from the kitchen.  You put you backpack on the floor and say hi to them."
+    "text": "A delicious smell comes from the kitchen. It calms you down a bit. You put your backpack on the floor and say hi to your dad."
   },
   "type": "infoText",
-  "x": 3084.054037481142,
-  "y": -517.2193015311523
+  "x": 3095.541021006749,
+  "y": -533.3010784670017
 }
