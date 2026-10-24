@@ -1,4 +1,10 @@
 {
   "v": 1,
-  "locks": {}
+  "locks": {
+    "beat_m7cn984b": {
+      "user": "elliezero",
+      "since": "2026-10-24T11:04:46.203Z",
+      "beat": "GE1- Stan and Vic"
+    }
+  }
 }
