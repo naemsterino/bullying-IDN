@@ -9,9 +9,11 @@
   "id": "beat_piu9qrjx",
   "locations": [],
   "name": "go to friends 4",
+  "node": "asset_1791985733410_nufvbhp",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
+    "node": "asset_1791985733410_nufvbhp",
     "text": "You assume that he is exaggerating his story as usual, but you don't mind, it sounds like he had a great time with his family."
   },
   "type": "infoText",
