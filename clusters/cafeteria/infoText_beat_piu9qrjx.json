@@ -1,0 +1,20 @@
+{
+  "_format": "1.0",
+  "cluster": "cluster_1792502468225",
+  "connections": [
+    {
+      "targetId": "beat_815q8wh1"
+    }
+  ],
+  "id": "beat_piu9qrjx",
+  "locations": [],
+  "name": "go to friends 4",
+  "parameters": {
+    "backgroundSound": "",
+    "buttonText": "Continue",
+    "text": "You assume that he is exaggerating his story as usual, but you don't mind, it sounds like he had a great time with his family."
+  },
+  "type": "infoText",
+  "x": -600.3392741969677,
+  "y": 401.37181096338446
+}
