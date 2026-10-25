@@ -1,10 +1,15 @@
 {
   "v": 1,
   "locks": {
-    "beat_85": {
+    "beat_6ykastni": {
       "user": "elliezero",
-      "since": "2026-10-24T13:50:26.028Z",
-      "beat": "bad end multi choice 1"
+      "since": "2026-10-25T15:02:19.894Z",
+      "beat": "cafeteria, glance ignore 1"
+    },
+    "beat_29_copymv54phfs1": {
+      "user": "elliezero",
+      "since": "2026-10-25T15:02:20.996Z",
+      "beat": "cafeteria, glance ignore 2"
     }
   }
 }
