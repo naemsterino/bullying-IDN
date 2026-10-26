@@ -1,5 +1,6 @@
 {
   "_format": "1.0",
+  "cluster": "cluster_1792502468225",
   "connections": [
     {
       "targetId": "beat_57"
