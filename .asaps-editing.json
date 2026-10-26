@@ -1,20 +1,16 @@
 {
   "v": 1,
-  "locks": {
-    "beat_35": {
+  "locks": {}
+}
+ "beat_d9m2fxeq": {
       "user": "Naemi",
-      "since": "2026-10-26T12:28:02.793Z",
-      "beat": "NE 1"
+      "since": "2026-10-26T12:42:31.604Z",
+      "beat": "Stan and Billie Dialogue- Good Ending 1"
     },
-    "beat_sz5tr8qm": {
+    "beat_84": {
       "user": "Naemi",
-      "since": "2026-10-26T12:34:31.750Z",
-      "beat": "Vic & Parent Dialog Tree. "
-    },
-    "beat_7_copymv4yin381": {
-      "user": "Naemi",
-      "since": "2026-10-26T12:33:46.463Z",
-      "beat": "neutral good ending"
+      "since": "2026-10-26T12:45:47.497Z",
+      "beat": "Alley Stan and Vic"
     }
   }
 }

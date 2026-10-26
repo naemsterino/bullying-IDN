@@ -57,7 +57,8 @@
       "graphicPosition": "off",
       "nameColor": "#d9a441",
       "namePosition": "left",
-      "nameStyle": "label"
+      "nameStyle": "label",
+      "useCharacterColors": true
     },
     "textEffects": {
       "animation": "none",
