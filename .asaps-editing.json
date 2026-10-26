@@ -1,26 +1,15 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_104": {
-      "user": "Naemi",
-      "since": "2026-10-26T11:12:49.780Z",
-      "beat": "Talk to Stan dialogue tree (Paste)"
-    },
-    "beat_54": {
-      "user": "Naemi",
-      "since": "2026-10-26T11:11:16.631Z",
-      "beat": "apologise conversation"
-    },
-    "beat_107": {
-      "user": "Naemi",
-      "since": "2026-10-26T11:13:53.770Z",
-      "beat": "Call your parents dialogue tree (Paste)"
-    },
+  "locks": {
     "beat_d9m2fxeq": {
       "user": "Naemi",
-      "since": "2026-10-26T11:14:07.557Z",
+      "since": "2026-10-26T11:46:03.116Z",
       "beat": "Stan and Billie Dialogue- Good Ending 1"
+    },
+    "beat_84": {
+      "user": "Naemi",
+      "since": "2026-10-26T11:46:15.544Z",
+      "beat": "Alley Stan and Vic"
     }
   }
 }

@@ -11,11 +11,11 @@
       "id": "element_1792534423702",
       "kind": "character",
       "name": "Stan",
-      "size": 78,
+      "size": 100,
       "stateId": "default",
       "width": 1000,
       "x": 0,
-      "y": 205,
+      "y": 0,
       "zIndex": 2
     },
     {
@@ -168,7 +168,7 @@
             "text": "\"That's not true! Besides, I should've done that earlier. \nThen maybe Tim wouldn't have to change schools.\"\n\n\"Speaking of that... an apology is in order\".\n"
           },
           "id": "choice_1792500462812",
-          "text": " \"I’m fine. \nWhy did you do that? I didn't think that you would care about me?\"\n You barely know me.",
+          "text": " \"I’m fine. \nWhy did you do that? I didn't think that you would care about me?\"\nYou barely know me.",
           "visible": true
         }
       ],

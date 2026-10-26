@@ -69,10 +69,10 @@
                               ],
                               "id": "node_1792507824969",
                               "speaker": "Mom",
-                              "text": "“*Sigh*… Alright, I get it. I’m glad you changed your mind and decided to bring it up. Come home so we can talk about this in detail with your father, and no detours!”"
+                              "text": "\\*Sigh\\* \"Alright, I get it. I’m glad you changed your mind and decided to bring it up. \nCome home so we can talk about this in detail with your father, and no detours!”"
                             },
                             "id": "choice_1792507801310",
-                            "text": "“I don’t know… I guess I didn’t think solving this would be as easy as talking to someone about it.”",
+                            "text": "“I don’t know… \nI guess I didn’t think solving this would be as easy as\ntalking to someone about it.”",
                             "visible": true
                           }
                         ],
@@ -81,7 +81,7 @@
                         "text": "“That’s terrible! Why haven’t you told us about this sooner?”"
                       },
                       "id": "choice_1792507764212",
-                      "text": "“No mom, ew! I’m being serious! It’s like she hates me for some reason… She keeps harassing me every day and I'm tired of it. I just want to have a peaceful school life without having to worry about getting shoved in a locker, figuratively speaking, although I wouldn’t put it past her.”",
+                      "text": "“No mom, ew! I’m being serious! It’s like she hates me for some reason…\nShe keeps harassing me every day and I'm tired of it.\nI just want to have a peaceful school life without having to worry about\ngetting shoved in a locker, figuratively speaking, although I wouldn’t put\nit past her.”",
                       "visible": true
                     }
                   ],
@@ -90,7 +90,7 @@
                   "text": "“Oh well, Vic, some people just have a hard time expressing their feelings. So when they find someone they really like they-”"
                 },
                 "id": "choice_1792507692101",
-                "text": "“No mom… Or, well… Kind of? The thing is, there's this girl in my class that keeps messing with me and I don’t know why, it’s like she thinks I'm her personal punching bag.”",
+                "text": "“No mom… Or, well… Kind of?\nThe thing is, there's this girl in my class that keeps messing with me \nand I don’t know why, it’s like she thinks I'm her personal punching bag.”",
                 "visible": true
               }
             ],
@@ -99,7 +99,7 @@
             "text": "“Oh! That makes more sense! I did think this was a weird time to be skipping school… But then, why are you calling? Are you in trouble!?”"
           },
           "id": "choice_1792507611562",
-          "text": "“*sigh*… No mom, I’m not skipping school. \nThe school day is over, I’m on my way home.”",
+          "text": "\\*sigh\\* \"No mom, I’m not skipping school. \nThe school day is over, I’m on my way home.”",
           "visible": true
         }
       ],

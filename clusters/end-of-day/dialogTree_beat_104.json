@@ -74,7 +74,7 @@
                               "text": "\"I’d be happy to remind you that whatever messed up stuff she’s said about you isn’t true… and that she's a massive jerk.”"
                             },
                             "id": "choice_1792585950234",
-                            "text": "Continue",
+                            "text": "...",
                             "visible": true
                           }
                         ],
@@ -94,7 +94,7 @@
                   "text": "“Yeah, well she still sucks and I should have given her a piece of my mind way sooner.\""
                 },
                 "id": "choice_1792507172663",
-                "text": "“Don’t say that… I know better than anyone how scary Billie can be.”",
+                "text": "“Don’t say that… \nI know better than anyone how scary Billie can be.”",
                 "visible": true
               }
             ],
