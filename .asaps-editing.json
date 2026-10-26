@@ -1,15 +1,16 @@
 {
   "v": 1,
-  "locks": {
-    "beat_d9m2fxeq": {
+  "locks": {}
+}
+ "beat_104": {
       "user": "Naemi",
-      "since": "2026-10-26T11:46:03.116Z",
-      "beat": "Stan and Billie Dialogue- Good Ending 1"
+      "since": "2026-10-26T11:52:32.834Z",
+      "beat": "Talk to Stan dialogue tree (Paste)"
     },
-    "beat_84": {
+    "beat_52": {
       "user": "Naemi",
-      "since": "2026-10-26T11:46:15.544Z",
-      "beat": "Alley Stan and Vic"
+      "since": "2026-10-26T11:53:08.238Z",
+      "beat": "Intervene Dialogue"
     }
   }
 }
