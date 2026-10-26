@@ -1,6 +1,6 @@
 {
   "_format": "1.0",
-  "color": "#dd5f72",
+  "color": "#eb8147",
   "counters": [],
   "createdAt": "2026-10-21T16:43:07.473Z",
   "defaultState": "default",
@@ -23,7 +23,7 @@
   ],
   "tags": [],
   "traits": [],
-  "updatedAt": "2026-10-21T19:10:33.574Z",
+  "updatedAt": "2026-10-26T12:50:42.642Z",
   "visual": {
     "defaultAssetId": "asset_1792600924940_0",
     "type": "static"

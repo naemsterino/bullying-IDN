@@ -1,6 +1,6 @@
 {
   "_format": "1.0",
-  "color": "#8099c2",
+  "color": "#4982df",
   "counters": [],
   "createdAt": "2026-10-16T08:19:02.562Z",
   "defaultState": "default",
@@ -61,7 +61,7 @@
     "victim"
   ],
   "traits": [],
-  "updatedAt": "2026-10-23T12:06:19.488Z",
+  "updatedAt": "2026-10-26T12:53:10.455Z",
   "visual": {
     "defaultAssetId": "asset_1792415278679_jbreo1kna",
     "type": "static"

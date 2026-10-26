@@ -1,6 +1,6 @@
 {
   "_format": "1.0",
-  "color": "#f73b3b",
+  "color": "#ec3232",
   "counters": [],
   "createdAt": "2026-10-15T20:17:52.673Z",
   "defaultState": "default",
@@ -78,7 +78,7 @@
     "bully"
   ],
   "traits": [],
-  "updatedAt": "2026-10-23T11:08:21.567Z",
+  "updatedAt": "2026-10-26T12:51:07.887Z",
   "visual": {
     "defaultAssetId": "asset_1792415480970_jdngdk1ad",
     "type": "static"
