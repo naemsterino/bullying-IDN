@@ -25,9 +25,11 @@
     }
   ],
   "name": "transition screen bully to victim",
+  "node": "asset_1792148623066_1",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Continue",
+    "node": "asset_1792148623066_1",
     "slotIntent": {
       "actions": {
         "buttonAnchors": {
