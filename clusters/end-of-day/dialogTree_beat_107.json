@@ -99,14 +99,14 @@
             "text": "“Oh! That makes more sense! I did think this was a weird time to be skipping school… But then, why are you calling? Are you in trouble!?”"
           },
           "id": "choice_1792507611562",
-          "text": "“*sigh*… No mom, I’m not skipping school. The school day is over, I’m on my way home.”",
+          "text": "“*sigh*… No mom, I’m not skipping school. \nThe school day is over, I’m on my way home.”",
           "visible": true
         }
       ],
       "emotion": "neutral",
       "id": "root",
       "speaker": "Mom",
-      "text": "“Hi Vic! How are you doing? You don’t usually call while at school, did something happen? Since you're calling I'm assuming you’re on break, or… are you skipping school!? you better not be skipping school Vic!”"
+      "text": "“Hi Vic! How are you doing? You don’t usually call while at school, did something happen? \n\nSince you're calling I'm assuming you’re on break, or… are you skipping school!? you better not be skipping school Vic!”"
     },
     "effectsOncePerChoice": false,
     "layoutTemplate": "stacked",

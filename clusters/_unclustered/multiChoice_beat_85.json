@@ -33,10 +33,10 @@
     "layoutTemplate": "stacked",
     "markVisited": false,
     "node": "asset_1792148623062_0",
-    "question": "You can hear the murmurs of your parents from outside your room. You know they are worried but you don’t want to talk to them, you don’t want to talk to anyone right now. You hear your parents come closer as they gently open the door. They want to know what has happened. ",
+    "question": "You can hear the murmurs of your parents from outside your room. You know they are worried but you don’t want to talk to them, you don’t want to talk to anyone right now. \n\nYou hear your parents come closer as they gently open the door. They want to know what has happened. ",
     "speaker": ""
   },
   "type": "multiChoice",
-  "x": 3455.765070722267,
+  "x": 3457.015070722267,
   "y": -145.28392729604133
 }

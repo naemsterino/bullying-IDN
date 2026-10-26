@@ -165,7 +165,7 @@
                                                                                                                               "id": "node_1792770209012",
                                                                                                                               "speaker": "Billie",
                                                                                                                               "speakerState": "state_1792594346878",
-                                                                                                                              "text": "Whatever dude."
+                                                                                                                              "text": "Whatever dude.\""
                                                                                                                             },
                                                                                                                             "id": "choice_1792590956957",
                                                                                                                             "text": "...",
@@ -354,7 +354,7 @@
             "id": "node_1792583108615",
             "speaker": "Billie",
             "speakerState": "state_1792594329217",
-            "text": "\"What the hell!? Have you lost your sense of humour? I'm just joking here!\"."
+            "text": "\"What the hell!? Have you lost your sense of humour? I'm just joking here!\""
           },
           "id": "choice_1792583030324",
           "text": "...?!",
