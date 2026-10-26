@@ -83,7 +83,7 @@
                               "id": "node_1792752980696",
                               "speaker": "Billie",
                               "speakerState": "state_1792415613088",
-                              "text": "*Follows Vic’s gaze and promptly marches over* \"Stay out of this, Stan.\" *She knocks your phone out of your hand*"
+                              "text": "\\*Follows Vic’s gaze and promptly marches over\\* \"Stay out of this, Stan.\" \n\\*Knocks your phone out of your hand\\*"
                             },
                             "id": "continue_1792752980696",
                             "text": ""
@@ -92,7 +92,7 @@
                         "id": "node_1792752952765",
                         "speaker": "Vic",
                         "speakerState": "state_1792757155250",
-                        "text": "\"I’m sorry, okay! I just…\" *Looks in your direction for help*"
+                        "text": "\"I’m sorry, okay! I just…\" \\*Looks in your direction for help\\*"
                       },
                       "id": "continue_1792752952765",
                       "text": ""
