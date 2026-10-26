@@ -125,7 +125,7 @@
                                     "id": "node_1792534757207",
                                     "speaker": "Stan",
                                     "speakerState": "state_1792515162720",
-                                    "text": "\"That's why I have to apologise. I'm not apologising for her. She should do it herself.\""
+                                    "text": "\"That's why I have to apologize. I'm not apologizing for her. She should do it herself.\""
                                   },
                                   "id": "choice_1792534707209",
                                   "text": "\"Maybe...\"",
@@ -145,7 +145,7 @@
                         "id": "node_1792500953828",
                         "speaker": "Stan",
                         "speakerState": "state_1792517973629",
-                        "text": "\"I don't know if I could stop it but I could at least try! \nMy parents taught me that if someone does not try to stop a crime that they see, they are guilty, too.\""
+                        "text": "\"I don't know if I could stop what happened but I could at least try! \nMy parents taught me that if someone does not try to stop a crime that they see, they are guilty, too.\""
                       },
                       "id": "choice_1792500895804",
                       "text": "\"To me? Why would you need that?\"\n",
@@ -155,7 +155,7 @@
                   "id": "node_1792500871670",
                   "speaker": "Stan",
                   "speakerState": "state_1792517853756",
-                  "text": "\"Me. I need to apologize to you...and to Tim.\"\n"
+                  "text": "\"Me. I need to apologize to you...and to Tim, too.\"\n"
                 },
                 "id": "choice_1792500734863",
                 "text": "\"What do you mean? Who needs to apologize?\"\n",
