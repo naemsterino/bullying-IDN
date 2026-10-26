@@ -207,7 +207,7 @@
                                                                                                                                     "id": "node_1792605606993",
                                                                                                                                     "speaker": "Mom",
                                                                                                                                     "speakerState": "default",
-                                                                                                                                    "text": "\"You know what people say once something is on internet, it's forever there! Don't worry it always comes out eventually. Sooner or later. Inshallah this will be over soon!\"\n"
+                                                                                                                                    "text": "\"You know what people say once something is on the internet, it's forever there! Don't worry it always comes out eventually. Sooner or later. Inshallah this will be over soon!\"\n"
                                                                                                                                   },
                                                                                                                                   "id": "choice_1792605561150",
                                                                                                                                   "text": "...",
@@ -225,7 +225,7 @@
                                                                                                                         ],
                                                                                                                         "id": "node_1792605450184",
                                                                                                                         "speaker": "Dad",
-                                                                                                                        "text": "\"Or online. If she sends you anything inappropriate or do not let you take space in the class, like with small comments, we need to know.\""
+                                                                                                                        "text": "\"Or online. If she sends you anything inappropriate or does not let you take space in the class, like with small comments, we need to know.\""
                                                                                                                       },
                                                                                                                       "id": "choice_1792605412485",
                                                                                                                       "text": "...",
@@ -283,7 +283,7 @@
                                                                                     ],
                                                                                     "id": "node_1792604816044",
                                                                                     "speaker": "Dad",
-                                                                                    "text": "\"Yes. They use their popularity and friends to attack others. This is how they cover whatever is wrong with them\""
+                                                                                    "text": "\"Yes. They use their popularity and friends to attack others. This is how they cover whatever is wrong with them!\""
                                                                                   },
                                                                                   "id": "choice_1792604771347",
                                                                                   "text": "\"Really?\"",
@@ -296,7 +296,7 @@
                                                                               "text": "\"Oh honey, unfortunately there are a lot of Billies  in our lives\"\n"
                                                                             },
                                                                             "id": "choice_1792604665270",
-                                                                            "text": "\"Yes! Again, how did you know?\nDid you already talked to the teachers?\"\n",
+                                                                            "text": "\"Yes! Again, how did you know?\nDid you already talk to the teachers?\"\n",
                                                                             "visible": true
                                                                           }
                                                                         ],
@@ -305,7 +305,7 @@
                                                                         "text": "\"And would she always act like 'Relax, I'm just joking!' each time she got caught.\""
                                                                       },
                                                                       "id": "choice_1792604513989",
-                                                                      "text": "\"How did you know? \nWhatever he did, she would find annoying,\nalways she would say something mean!\"",
+                                                                      "text": "\"How did you know? \nWhatever he did, she would find it annoying.\nShe would always say something mean!\"",
                                                                       "visible": true
                                                                     }
                                                                   ],
@@ -332,7 +332,7 @@
                                                       "id": "node_1792604303705",
                                                       "speaker": "Mom",
                                                       "speakerState": "state_1792600755995",
-                                                      "text": "\"See! I told you if you would leave class it will be another classmate. Poor kid!\""
+                                                      "text": "\"See! I told you if you leave class it will be another classmate. Poor kid!\""
                                                     },
                                                     "id": "choice_1792604236485",
                                                     "text": "\"She was mocking Tim before. He changed schools after that.\"",
@@ -361,7 +361,7 @@
                                     "id": "node_1792603909876",
                                     "speaker": "Mom",
                                     "speakerState": "state_1792600755995",
-                                    "text": "\"Come sit. Listen Vic. This is not your fault. This is not about you. If someone is mocking and harassing you that means something is wrong about them not you\"."
+                                    "text": "\"Come sit. Listen Vic. This is not your fault. This is not about you.\n If someone is mocking and harassing you that means something is wrong about them not you\"."
                                   },
                                   "id": "choice_1792603894117",
                                   "text": "...",
@@ -370,7 +370,7 @@
                               ],
                               "id": "node_1792603877986",
                               "speaker": "Dad",
-                              "text": "\"Your mom is right, you have nothing to apologize for. We are always there for you\"."
+                              "text": "\"Your mom is right! You have nothing to apologize for. We are always there for you\"."
                             },
                             "id": "choice_1792603775576",
                             "text": "...",
@@ -400,7 +400,7 @@
             "id": "node_1792587720341",
             "speaker": "Mom",
             "speakerState": "default",
-            "text": "\"Yes, he is. Vic, Your father and I wanted to talk to you about your day.\""
+            "text": "\"Yes, he is. Vic, your father and I wanted to talk to you about your day.\""
           },
           "id": "choice_1792587544637",
           "text": "\"Hi, Dad! Are you early today?\"",
