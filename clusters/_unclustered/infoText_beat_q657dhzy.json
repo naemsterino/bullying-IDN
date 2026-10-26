@@ -13,9 +13,9 @@
     "backgroundSound": "",
     "buttonText": "Continue",
     "node": "asset_1792148623122_2",
-    "text": "She says that she knows that she has apologised to you before, but insists that she intends to prove it to you this time. Finally, she tells you, through no small effort, that you don't have to forgive her, but that she hopes that you at least believe in her sincerity."
+    "text": "She says that she knows that she has apologised to you before, but insists that she intends to prove to you this time that she really is sorry.\n\nFinally, she tells you, through no small effort, that you don't have to forgive her, but that she hopes that you at least believe in her sincerity."
   },
   "type": "infoText",
-  "x": 5806.19894386301,
+  "x": 5807.44894386301,
   "y": -880.3646414106444
 }
