@@ -5,6 +5,21 @@
   "locations": [
     {
       "autosize": true,
+      "characterId": "char_1792094383279_wzb17mkkt",
+      "characterName": "Stan",
+      "height": 1080,
+      "id": "element_1792534423702",
+      "kind": "character",
+      "name": "Stan",
+      "size": 78,
+      "stateId": "default",
+      "width": 1000,
+      "x": 0,
+      "y": 205,
+      "zIndex": 2
+    },
+    {
+      "autosize": true,
       "height": 76,
       "id": "npc",
       "kind": "dialog",
@@ -12,7 +27,7 @@
       "width": 224,
       "x": 848,
       "y": 50,
-      "zIndex": 0
+      "zIndex": 3
     },
     {
       "autosize": true,
@@ -23,22 +38,7 @@
       "width": 907,
       "x": 507,
       "y": 146,
-      "zIndex": 1
-    },
-    {
-      "autosize": true,
-      "characterId": "char_1792094383279_wzb17mkkt",
-      "characterName": "Stan",
-      "height": 1080,
-      "id": "element_1792534423702",
-      "kind": "character",
-      "name": "Stan",
-      "size": 62,
-      "stateId": "default",
-      "width": 1000,
-      "x": 0,
-      "y": 205,
-      "zIndex": 2
+      "zIndex": 4
     }
   ],
   "name": "Alley Stan and Vic",

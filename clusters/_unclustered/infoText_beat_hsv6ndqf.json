@@ -1,6 +1,5 @@
 {
   "_format": "1.0",
-  "cluster": "cluster_1792502468225",
   "connections": [
     {
       "targetId": "beat_57"
@@ -17,6 +16,6 @@
     "text": "As you sit down, you all look at each other and start laughing over the absurdity of the situation. "
   },
   "type": "infoText",
-  "x": 141.73854009615604,
-  "y": 247.59462906829557
+  "x": -180,
+  "y": 980
 }
