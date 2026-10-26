@@ -14,7 +14,7 @@
     "backgroundSound": "",
     "buttonText": "Turn around to face Vic",
     "node": "asset_1791985733410_nufvbhp",
-    "text": "Seeing Vic reminds you of what happened in the schoolyard earlier. Feeling a sense of regret wash over you, you want to take this opportunity to try and talk to them about what happened. You think that maybe apologising will release you from the guilt you’ve been feeling ever since this morning."
+    "text": "Seeing Vic reminds you of what happened in the schoolyard earlier. \n\nFeeling a sense of regret wash over you, you want to take this opportunity to try and talk to them about what happened. \n\nYou think that maybe apologising will release you from the guilt you’ve been feeling ever since this morning."
   },
   "type": "infoText",
   "x": 552.1804978616199,

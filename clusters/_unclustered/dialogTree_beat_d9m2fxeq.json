@@ -354,7 +354,7 @@
             "id": "node_1792583108615",
             "speaker": "Billie",
             "speakerState": "state_1792594329217",
-            "text": "\"What the hell!? Have you lost your sense of humour? I'm just joking here!\""
+            "text": "\"What the hell!? Have you lost your sense of humour? I'm just joking here!\"."
           },
           "id": "choice_1792583030324",
           "text": "...?!",
@@ -375,6 +375,6 @@
   },
   "showSpeaker": true,
   "type": "dialogTree",
-  "x": 3500.8467177611956,
-  "y": -893.8534365941632
+  "x": 3360.846717843405,
+  "y": -884.1770601859229
 }

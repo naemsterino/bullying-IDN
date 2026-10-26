@@ -1,16 +1,10 @@
 {
   "v": 1,
-  "locks": {}
-}
- "beat_84": {
-      "user": "elliezero",
-      "since": "2026-10-26T11:11:19.815Z",
-      "beat": "Alley Stan and Vic"
-    },
-    "beat_d9m2fxeq": {
-      "user": "elliezero",
-      "since": "2026-10-26T11:11:20.937Z",
-      "beat": "Stan and Billie Dialogue- Good Ending 1"
+  "locks": {
+    "beat_90": {
+      "user": "Naemi",
+      "since": "2026-10-26T10:58:15.239Z",
+      "beat": "neutral bad dinner"
     }
   }
 }

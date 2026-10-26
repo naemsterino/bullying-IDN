@@ -8,11 +8,11 @@
   "id": "beat_39",
   "locations": [],
   "name": "NE 5",
-  "node": "asset_1791983560572_k7h6c1ji3",
+  "node": "asset_1792775215593_0",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Open the door",
-    "node": "asset_1791983560572_k7h6c1ji3",
+    "node": "asset_1792775215593_0",
     "text": "When you arrive at school, you avoid as many people as possible and hurry your way to the classroom. "
   },
   "type": "infoText",
