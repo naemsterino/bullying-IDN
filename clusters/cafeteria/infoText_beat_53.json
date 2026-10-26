@@ -25,11 +25,11 @@
     }
   ],
   "name": "transition screen bystander to bully",
-  "node": "asset_1791983560443_4qfv1iz0h",
+  "node": "asset_1791985733410_nufvbhp",
   "parameters": {
     "backgroundSound": "",
     "buttonText": "Go to lunch",
-    "node": "asset_1791983560443_4qfv1iz0h",
+    "node": "asset_1791985733410_nufvbhp",
     "text": "The day continues…\n\nYou are now playing as **Billie**."
   },
   "type": "infoText",
