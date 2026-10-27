@@ -900,6 +900,51 @@
       "size": 152525,
       "type": "image",
       "uploadedAt": "2026-10-25T15:14:56.783Z"
+    },
+    "asset_1793099906047_0": {
+      "filename": "sound-effects-of-fights-fights-film-and-television.mp3",
+      "folder": "sounds",
+      "id": "asset_1793099906047_0",
+      "mimeType": "audio/mpeg",
+      "size": 94852,
+      "type": "audio",
+      "uploadedAt": "2026-10-27T11:18:26.047Z"
+    },
+    "asset_1793099906068_1": {
+      "filename": "television-will-change-the-life-of-all-mankind.mp3",
+      "folder": "sounds",
+      "id": "asset_1793099906068_1",
+      "mimeType": "audio/mpeg",
+      "size": 84262,
+      "type": "audio",
+      "uploadedAt": "2026-10-27T11:18:26.068Z"
+    },
+    "asset_1793099906072_2": {
+      "filename": "the-bus-is-waiting-leaving.mp3",
+      "folder": "sounds",
+      "id": "asset_1793099906072_2",
+      "mimeType": "audio/mpeg",
+      "size": 939197,
+      "type": "audio",
+      "uploadedAt": "2026-10-27T11:18:26.072Z"
+    },
+    "asset_1793099906081_3": {
+      "filename": "the-calm-sound-of-a-london-street.mp3",
+      "folder": "sounds",
+      "id": "asset_1793099906081_3",
+      "mimeType": "audio/mpeg",
+      "size": 1475548,
+      "type": "audio",
+      "uploadedAt": "2026-10-27T11:18:26.081Z"
+    },
+    "asset_1793099906088_4": {
+      "filename": "tv-radio-equipment-store.mp3",
+      "folder": "sounds",
+      "id": "asset_1793099906088_4",
+      "mimeType": "audio/mpeg",
+      "size": 1045777,
+      "type": "audio",
+      "uploadedAt": "2026-10-27T11:18:26.088Z"
     }
   }
 }
